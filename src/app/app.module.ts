@@ -14,6 +14,7 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatTableModule } from '@angular/material/table';
 import { MatCheckboxModule } from '@angular/material/checkbox';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.component';
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
 import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
@@ -38,6 +39,7 @@ import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
     MatButtonModule,
     MatDatepickerModule,
     MatNativeDateModule,
+    MatSnackBarModule,
     MatTableModule,
     MatCheckboxModule
   ],

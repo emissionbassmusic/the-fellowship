@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, inject } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
+import { MatSnackBar, MatSnackBarRef } from '@angular/material/snack-bar';
 import { AppService } from 'src/app/services/app-service.service';
 import { PrayerConstants } from '../dialogs/prayers/prayers.constants';
 import { PrayersComponent } from '../dialogs/prayers/prayers.component';
@@ -11,7 +12,10 @@ import { PrayersComponent } from '../dialogs/prayers/prayers.component';
 })
 export class HeaderToolbarComponent implements OnInit {
 
-  constructor(public dialog: MatDialog, public appService: AppService) {}
+  snackbarDurationInSec = 3;
+
+  constructor(public dialog: MatDialog, public appService: AppService,
+              private snackBar: MatSnackBar) {}
 
   ngOnInit(): void {
 
@@ -160,4 +164,51 @@ export class HeaderToolbarComponent implements OnInit {
     this.dialog.open(PrayersComponent);
   }
 
+  /**
+   * Share website link
+   */
+  shareWebsite(val: string) {
+    const selBox = document.createElement('textarea');
+    selBox.style.position = 'fixed';
+    selBox.style.left = '0';
+    selBox.style.top = '0';
+    selBox.style.opacity = '0';
+    selBox.value = val;
+    document.body.appendChild(selBox);
+    selBox.focus();
+    selBox.select();
+    document.execCommand('copy');
+    document.body.removeChild(selBox);
+    this.snackBar.openFromComponent(CopiedSnackBarComponent, {
+      duration: this.snackbarDurationInSec * 1000,
+    });
+  }
+
+}
+
+/**
+ * Snackbar for copying website link
+ */
+@Component({
+  selector: ' copy-snack-bar',
+  template: `<span class="copy-snackbar" matSnackBarLabel>
+                Website link copied. Please share!
+             </span>
+             `,
+  styles: [
+    `
+    :host {
+      display: flex;
+      justify-content: center;
+    }
+
+    .copy-snackbar {
+      color: hotpink;
+    }
+  `,
+  ],
+})
+
+export class CopiedSnackBarComponent {
+  snackBarRef = inject(MatSnackBarRef);
 }
