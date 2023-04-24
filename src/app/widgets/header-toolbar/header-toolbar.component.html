@@ -1,51 +1,59 @@
-<mat-toolbar color="primary">
-  <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
-    <mat-icon>menu</mat-icon>
-  </button>
-  <mat-menu #menu="matMenu">
-    <button mat-menu-item (click)="findMeeting()">
-      <mat-icon>search</mat-icon>
-      <span>Find a meeting</span>
+<div class="col-12 header-toolbar d-flex">
+  <mat-toolbar color="primary">
+    <button
+      mat-icon-button
+      [matMenuTriggerFor]="menu"
+      aria-label="Menu"
+    >
+      <mat-icon>menu</mat-icon>
     </button>
-    <button mat-menu-item (click)="getBigBook()">
-      <mat-icon>book</mat-icon>
-      <span>Get copy of the Big Book</span>
-    </button>
-    <button mat-menu-item [matMenuTriggerFor]="stepprayers">
-      <mat-icon>handshake</mat-icon>
-      <span>Step Prayers</span>
-    </button>
-    <button mat-menu-item [matMenuTriggerFor]="otherprayers">
-      <mat-icon>handshake</mat-icon>
-      <span>Other Prayers</span>
-    </button>
-  </mat-menu>
-  <mat-menu #stepprayers="matMenu">
-    <button mat-menu-item (click)="openPrayers(1)">1st Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(2)">2nd Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(3)">3rd Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(4)">4th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(5)">5th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(6)">6th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(7)">7th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(8)">8th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(9)">9th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(10)">10th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(11)">11th Step Prayer</button>
-    <button mat-menu-item (click)="openPrayers(12)">12th Step Prayer</button>
-  </mat-menu>
-  <mat-menu #otherprayers="matMenu">
-    <button mat-menu-item (click)="openPrayers(13)">Serenity Prayer</button>
-    <button mat-menu-item (click)="openPrayers(14)">The Lords Prayer</button>
-    <button mat-menu-item (click)="openPrayers(15)">St Francis Prayer</button>
-    <button mat-menu-item (click)="openPrayers(16)">Morning Prayer</button>
-    <button mat-menu-item (click)="openPrayers(17)">Night Prayer</button>
-    <button mat-menu-item (click)="openPrayers(18)">Great Spirit Prayer</button>
-  </mat-menu>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item (click)="findMeeting()">
+        <mat-icon>search</mat-icon>
+        <span>Find a meeting</span>
+      </button>
+      <button mat-menu-item (click)="getBigBook()">
+        <mat-icon>book</mat-icon>
+        <span>Get copy of Big Book</span>
+      </button>
+      <button mat-menu-item [matMenuTriggerFor]="helpprayers">
+        <mat-icon>handshake</mat-icon>
+        <span>Helpful Prayers</span>
+      </button>
+      <button mat-menu-item [matMenuTriggerFor]="stepprayers">
+        <mat-icon>handshake</mat-icon>
+        <span>Step Prayers</span>
+      </button>
+    </mat-menu>
+    <mat-menu #helpprayers="matMenu">
+      <button mat-menu-item (click)="openPrayers(13)">Serenity Prayer</button>
+      <button mat-menu-item (click)="openPrayers(14)">The Lords Prayer</button>
+      <button mat-menu-item (click)="openPrayers(15)">St Francis Prayer</button>
+      <button mat-menu-item (click)="openPrayers(16)">Morning Prayer</button>
+      <button mat-menu-item (click)="openPrayers(17)">Night Prayer</button>
+      <button mat-menu-item (click)="openPrayers(18)">
+        Great Spirit Prayer
+      </button>
+    </mat-menu>
+    <mat-menu #stepprayers="matMenu">
+      <button mat-menu-item (click)="openPrayers(1)">1st Step</button>
+      <button mat-menu-item (click)="openPrayers(2)">2nd Step</button>
+      <button mat-menu-item (click)="openPrayers(3)">3rd Step</button>
+      <button mat-menu-item (click)="openPrayers(4)">4th Step</button>
+      <button mat-menu-item (click)="openPrayers(5)">5th Step</button>
+      <button mat-menu-item (click)="openPrayers(6)">6th Step</button>
+      <button mat-menu-item (click)="openPrayers(7)">7th Step</button>
+      <button mat-menu-item (click)="openPrayers(8)">8th Step</button>
+      <button mat-menu-item (click)="openPrayers(9)">9th Step</button>
+      <button mat-menu-item (click)="openPrayers(10)">10th Step</button>
+      <button mat-menu-item (click)="openPrayers(11)">11th Step</button>
+      <button mat-menu-item (click)="openPrayers(12)">12th Step</button>
+    </mat-menu>
 
-  <span>Welcome To The Fellowship Of Alcoholics Anonymous</span>
-  <span class="header-spacer"></span>
-  <button mat-icon-button aria-label="Share">
-    <mat-icon>share</mat-icon>
-  </button>
-</mat-toolbar>
+    <span>The Fellowship</span>
+    <span class="header-spacer"></span>
+    <button mat-icon-button aria-label="Share">
+      <mat-icon>share</mat-icon>
+    </button>
+  </mat-toolbar>
+</div>

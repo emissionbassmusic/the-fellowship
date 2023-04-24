@@ -153,12 +153,11 @@ export class HeaderToolbarComponent implements OnInit {
     }
   }
 
+  /**
+   * Open dialog
+   */
   triggerDialog() {
-    const dialogRef = this.dialog.open(PrayersComponent);
-
-    dialogRef.afterClosed().subscribe(result => {
-      console.log(`Dialog result: ${result}`);
-    });
+    this.dialog.open(PrayersComponent);
   }
 
 }
