@@ -1,4 +1,4 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { MatSnackBar, MatSnackBarRef } from '@angular/material/snack-bar';
 import { AppService } from 'src/app/services/app-service.service';
@@ -10,16 +10,12 @@ import { PrayersComponent } from '../dialogs/prayers/prayers.component';
   templateUrl: './header-toolbar.component.html',
   styleUrls: ['./header-toolbar.component.scss']
 })
-export class HeaderToolbarComponent implements OnInit {
+export class HeaderToolbarComponent {
 
   snackbarDurationInSec = 3;
 
   constructor(public dialog: MatDialog, public appService: AppService,
               private snackBar: MatSnackBar) {}
-
-  ngOnInit(): void {
-
-  }
 
   /**
    * Open AA links in new tab

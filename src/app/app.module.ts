@@ -17,6 +17,7 @@ import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatCardModule } from '@angular/material/card';
 import { MatDividerModule } from '@angular/material/divider';
+import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
 import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.component';
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
 import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
@@ -47,7 +48,8 @@ import { LandingPageComponent } from './widgets/landing-page/landing-page.compon
     MatTableModule,
     MatCheckboxModule,
     MatCardModule,
-    MatDividerModule
+    MatDividerModule,
+    MatBottomSheetModule
   ],
   providers: [MatDatepickerModule, MatNativeDateModule],
   bootstrap: [AppComponent]
