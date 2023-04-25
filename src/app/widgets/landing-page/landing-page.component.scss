@@ -1,0 +1,41 @@
+.aa-logo {
+  display: block;
+  margin: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.card-section {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 2.5rem;
+  display: flex;
+  margin: auto;
+  @media (max-width: 900px) {
+    display: grid;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+}
+
+.card-item {
+  max-width: 90%;
+  min-width: 47.5%;
+  display: inline-flex;
+  margin: auto;
+  border-width: 1px;
+  border-color: silver;
+  @media (max-width: 900px) {
+    margin: 1.5rem 10% auto 10%;
+  }
+}
+
+.short-card {
+  max-width: 50%;
+}
+
+.card-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}

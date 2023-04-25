@@ -22,17 +22,11 @@ export class HeaderToolbarComponent implements OnInit {
   }
 
   /**
-   * Open AA meeting finder in new tab
+   * Open AA links in new tab
+   * Find meetings, Big Book, 12 & 12
    */
-  findMeeting() {
-    window.open('https://www.aa.org/find-aa', '_blank');
-  }
-
-  /**
-   * Download big book PDF
-   */
-  getBigBook() {
-    window.open('https://www.aa.org/the-big-book', '_blank');
+  openLink(url: string) {
+    window.open(url, '_blank');
   }
 
   /**

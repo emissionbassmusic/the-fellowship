@@ -15,16 +15,20 @@ import { MatNativeDateModule } from '@angular/material/core';
 import { MatTableModule } from '@angular/material/table';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatCardModule } from '@angular/material/card';
+import { MatDividerModule } from '@angular/material/divider';
 import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.component';
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
 import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
+import { LandingPageComponent } from './widgets/landing-page/landing-page.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderToolbarComponent,
     FooterToolbarComponent,
-    PrayersComponent
+    PrayersComponent,
+    LandingPageComponent
   ],
   imports: [
     BrowserModule,
@@ -41,7 +45,9 @@ import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
     MatNativeDateModule,
     MatSnackBarModule,
     MatTableModule,
-    MatCheckboxModule
+    MatCheckboxModule,
+    MatCardModule,
+    MatDividerModule
   ],
   providers: [MatDatepickerModule, MatNativeDateModule],
   bootstrap: [AppComponent]

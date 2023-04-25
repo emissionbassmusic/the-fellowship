@@ -8,13 +8,17 @@
       <mat-icon>menu</mat-icon>
     </button>
     <mat-menu #menu="matMenu">
-      <button mat-menu-item (click)="findMeeting()">
+      <button mat-menu-item (click)="openLink('https://www.aa.org/find-aa')">
         <mat-icon>search</mat-icon>
         <span>Find a meeting</span>
       </button>
-      <button mat-menu-item (click)="getBigBook()">
+      <button mat-menu-item (click)="openLink('https://www.aa.org/the-big-book')">
         <mat-icon>book</mat-icon>
         <span>Get copy of Big Book</span>
+      </button>
+      <button mat-menu-item (click)="openLink('https://www.aa.org/twelve-steps-twelve-traditions')">
+        <mat-icon>book</mat-icon>
+        <span>Get copy of 12 & 12</span>
       </button>
       <button mat-menu-item [matMenuTriggerFor]="helpprayers">
         <mat-icon>handshake</mat-icon>
@@ -57,4 +61,3 @@
     </button>
   </mat-toolbar>
 </div>
-<img class="aa-logo" src="the-fellowship/assets/AA_logo.png" alt="image">

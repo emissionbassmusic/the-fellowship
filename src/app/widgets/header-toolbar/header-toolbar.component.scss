@@ -1,14 +1,11 @@
 .header-toolbar {
   width: 100%;
   left: 0;
+  top: 0;
+  z-index: 1051;
+  position: sticky;
 }
 
 .header-spacer {
   flex: 1 1 auto;
-}
-
-.aa-logo {
-  display: block;
-  margin: auto;
-  padding-top: 2rem;
 }
