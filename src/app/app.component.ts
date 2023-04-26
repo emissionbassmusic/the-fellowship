@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { AppService } from './services/app-service.service';
 
 @Component({
   selector: 'app-root',
@@ -10,10 +11,13 @@ export class AppComponent implements OnInit {
   title = 'theFellowship';
   appPage = 'home';
 
-  constructor(private router: Router) {}
+  constructor(private router: Router, private appService: AppService) {}
 
   ngOnInit() {
-    // Do I ned this?
-    this.router.navigate(['/home']);
+    // Routing not working right with github
+    // this.router.navigate(['/home']);
+    setInterval(() => {
+      this.appPage = this.appService.appPage;
+    }, 1000)
   }
 }

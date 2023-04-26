@@ -1,6 +1,7 @@
 import { Component, TemplateRef, ViewChild } from '@angular/core';
 import { MatBottomSheet, MatBottomSheetConfig } from '@angular/material/bottom-sheet';
 import { Router } from '@angular/router';
+import { AppService } from 'src/app/services/app-service.service';
 
 @Component({
   selector: 'app-landing-page',
@@ -15,7 +16,8 @@ export class LandingPageComponent {
   bottomSheetContent: string | undefined;
   showMeetingBtn: boolean | undefined;
 
-  constructor(readonly bottomSheet: MatBottomSheet, private router: Router) {}
+  constructor(readonly bottomSheet: MatBottomSheet, private router: Router,
+              private appService: AppService) {}
 
   /**
    * Open drawer from bottom
@@ -50,16 +52,21 @@ export class LandingPageComponent {
 
   /**
    * Routes to literature page
+   * Router not working right with github refresh
    */
-  goToLiterature() {
-    this.router.navigate(['/literature']);
+  goToLiterature(bookType: string) {
+    this.appService.appPage = 'literature';
+    this.appService.bookType = bookType;
+    // this.router.navigate(['/literature']);
   }
 
   /**
    * Routes to daily reflection page
+   * Router not working right with github refresh
    */
   goToDailyReflection() {
-    this.router.navigate(['/daily-reflection']);
+    this.appService.appPage = 'reflection';
+    // this.router.navigate(['/daily-reflection']);
   }
 
   /**
