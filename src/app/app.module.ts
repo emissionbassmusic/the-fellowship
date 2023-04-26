@@ -22,6 +22,8 @@ import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
 import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
 import { LandingPageComponent } from './widgets/landing-page/landing-page.component';
+import { LiteraturePageComponent } from './widgets/literature-page/literature-page.component';
+import { ReflectionPageComponent } from './widgets/reflection-page/reflection-page.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,9 @@ import { LandingPageComponent } from './widgets/landing-page/landing-page.compon
     HeaderToolbarComponent,
     FooterToolbarComponent,
     PrayersComponent,
-    LandingPageComponent
+    LandingPageComponent,
+    LiteraturePageComponent,
+    ReflectionPageComponent
   ],
   imports: [
     BrowserModule,

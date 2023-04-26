@@ -1,5 +1,6 @@
 import { Component, TemplateRef, ViewChild } from '@angular/core';
 import { MatBottomSheet, MatBottomSheetConfig } from '@angular/material/bottom-sheet';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-landing-page',
@@ -14,7 +15,7 @@ export class LandingPageComponent {
   bottomSheetContent: string | undefined;
   showMeetingBtn: boolean | undefined;
 
-  constructor(readonly bottomSheet: MatBottomSheet) {}
+  constructor(readonly bottomSheet: MatBottomSheet, private router: Router) {}
 
   /**
    * Open drawer from bottom
@@ -28,7 +29,7 @@ export class LandingPageComponent {
         break;
       }
       case 'reflection': {
-        this.bottomSheetContent = 'Sorry, we\'re still working on this part!';
+        this.bottomSheetContent = '';
         break;
       }
       default: {
@@ -45,6 +46,20 @@ export class LandingPageComponent {
    */
   openLink(url: string) {
     window.open(url, '_blank');
+  }
+
+  /**
+   * Routes to literature page
+   */
+  goToLiterature() {
+    this.router.navigate(['/literature']);
+  }
+
+  /**
+   * Routes to daily reflection page
+   */
+  goToDailyReflection() {
+    this.router.navigate(['/daily-reflection']);
   }
 
   /**
