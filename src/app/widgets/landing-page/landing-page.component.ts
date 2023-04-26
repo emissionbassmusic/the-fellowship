@@ -27,8 +27,12 @@ export class LandingPageComponent {
         this.showMeetingBtn = true;
         break;
       }
+      case 'reflection': {
+        this.bottomSheetContent = 'Sorry, we\'re still working on this part!';
+        break;
+      }
       default: {
-        this.bottomSheetContent = 'Sorry, we can\'t retreive this content. Try agian later.'
+        this.bottomSheetContent = 'Sorry, we\'re still working on this part!'
         break;
       }
     }
@@ -41,6 +45,14 @@ export class LandingPageComponent {
    */
   openLink(url: string) {
     window.open(url, '_blank');
+  }
+
+  /**
+   * Enter dates to determine sobriety time
+   */
+  sobrietyCalculator() {
+    // TODO
+    alert('Sorry, we\'re still working on this part!')
   }
 
 }

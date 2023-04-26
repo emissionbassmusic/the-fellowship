@@ -1,12 +1,13 @@
 <img class="aa-logo" src="the-fellowship/assets/AA_logo.png" alt="image" />
+<!-- Section 1 -->
 <div class="col-12 card-section">
   <mat-card class="card-item">
     <mat-card-header>
       <div mat-card-avatar>
-        <mat-icon>liquor</mat-icon>
+        <mat-icon class="card-icon">liquor</mat-icon>
       </div>
       <mat-card-title>Have a problem with alcohol?</mat-card-title>
-      <mat-card-subtitle>There is a solution.</mat-card-subtitle>
+      <mat-card-subtitle class="card-subtitle">There is a solution.</mat-card-subtitle>
     </mat-card-header>
     <mat-card-content>
       <p>A.A. has a simple program that works.</p>
@@ -21,7 +22,7 @@
     <mat-card-header>
       <div mat-card-avatar class="card-header-image-bb"></div>
       <mat-card-title>Need a copy of the big book?</mat-card-title>
-      <mat-card-subtitle>Get one quick here!</mat-card-subtitle>
+      <mat-card-subtitle class="card-subtitle">Get one quick here!</mat-card-subtitle>
     </mat-card-header>
     <mat-card-content>
       <p>Get a copy from AA.org</p>
@@ -29,20 +30,22 @@
       <mat-divider></mat-divider>
     </mat-card-content>
     <mat-card-actions class="card-actions">
-      <div class="card-btn">
+      <div class="card-btn-space">
         <button mat-raised-button color="primary" (click)="openLink('https://www.aa.org/the-big-book')">AA.org</button>
       </div>
       <button mat-raised-button color="primary">VIEW NOW</button>
     </mat-card-actions>
   </mat-card>
 </div>
-
+<!-- Section 2 -->
 <div class="col-12 card-section">
   <mat-card class="card-item">
     <mat-card-header>
-      <div mat-card-avatar class="card-header-image-12"></div>
+      <div mat-card-avatar>
+        <mat-icon class="card-icon">menu_book</mat-icon>
+      </div>
       <mat-card-title>12 Steps and 12 Traditions Book</mat-card-title>
-      <mat-card-subtitle>Get a copy now.</mat-card-subtitle>
+      <mat-card-subtitle class="card-subtitle">Get a copy now.</mat-card-subtitle>
     </mat-card-header>
     <mat-card-content>
       <p>Also available at AA.org</p>
@@ -50,7 +53,7 @@
       <mat-divider></mat-divider>
     </mat-card-content>
     <mat-card-actions class="card-actions">
-      <div class="card-btn">
+      <div class="card-btn-space">
         <button mat-raised-button color="primary" (click)="openLink('https://www.aa.org/twelve-steps-twelve-traditions')">AA.org</button>
       </div>
       <button mat-raised-button color="primary">OPEN NOW</button>
@@ -60,21 +63,63 @@
     <mat-card-header>
       <div mat-card-avatar class="card-header-image-dr"></div>
       <mat-card-title>Daily Reflections</mat-card-title>
-      <mat-card-subtitle>A collection of readings one day at a time.</mat-card-subtitle>
+      <mat-card-subtitle class="card-subtitle">A collection of readings one day at a time.</mat-card-subtitle>
     </mat-card-header>
     <mat-card-content>
-      <p>Reflect on quotations from the literature of Alcoholics Anonymous.</p>
-      <p>The volume focuses on all Three Legacies of Recovery, Unity and Service.</p>
+      <p>Reflect on quotes from the literature of Alcoholics Anonymous.</p>
+      <p>Focuses on all Three Legacies of Recovery, Unity and Service.</p>
       <mat-divider></mat-divider>
     </mat-card-content>
     <mat-card-actions class="card-actions">
       <button mat-raised-button color="primary" (click)="openBottomSheet('reflection')">READ TODAYS REFLECTION</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
+<!-- Section 3 -->
+<div class="col-12 card-section">
+  <mat-card class="card-item">
+    <mat-card-header>
+      <div mat-card-avatar>
+        <mat-icon class="card-icon">public</mat-icon>
+      </div>
+      <mat-card-title>Looking for a virtual meeting online?</mat-card-title>
+      <mat-card-subtitle class="card-subtitle">Find one now.</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <p>Online meetings are available 24/7</p>
+      <p>Hop into a virtual meeting via Zoom now!</p>
+      <mat-divider></mat-divider>
+    </mat-card-content>
+    <mat-card-actions class="card-actions">
+      <div class="card-btn-space">
+        <button mat-raised-button color="primary" class="card-btn-pad" (click)="openLink('https://www.aahomegroup.org/')">24/7 MEETING</button>
+      </div>
+      <button mat-raised-button color="primary" class="card-btn-pad" (click)="openLink('https://aa-intergroup.org/meetings/')">FIND ONLINE MEETING</button>
+    </mat-card-actions>
+  </mat-card>
+  <mat-card class="card-item">
+    <mat-card-header>
+      <div mat-card-avatar>
+        <mat-icon class="card-icon">calendar_today</mat-icon>
+      </div>
+      <mat-card-title>Sobriety Caluclator</mat-card-title>
+      <mat-card-subtitle class="card-subtitle">Curious of your sobriety time?</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <p>Use the calendar widget to enter in your dates.</p>
+      <p>Click below to calculate your sobriety time.</p>
+      <mat-divider></mat-divider>
+    </mat-card-content>
+    <mat-card-actions class="card-actions">
+      <button mat-raised-button color="primary" (click)="sobrietyCalculator()">ENTER DATE</button>
     </mat-card-actions>
     <mat-card-footer>
       <!-- <mat-progress-bar mode="indeterminate"></mat-progress-bar> -->
     </mat-card-footer>
   </mat-card>
 </div>
+<!-- Section 4 -->
+<!-- Add google podcasts and prayers -->
 <ng-template>
   <div [innerHTML]="bottomSheetContent"></div>
   <div *ngIf="showMeetingBtn" class="drawer-btn">
