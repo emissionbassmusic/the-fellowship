@@ -1,4 +1,4 @@
-import { Component, TemplateRef, ViewChild } from '@angular/core';
+import { Component, OnInit, TemplateRef, ViewChild } from '@angular/core';
 import { MatBottomSheet, MatBottomSheetConfig } from '@angular/material/bottom-sheet';
 import { Router } from '@angular/router';
 import { AppService } from 'src/app/services/app-service.service';
@@ -8,7 +8,7 @@ import { AppService } from 'src/app/services/app-service.service';
   templateUrl: './landing-page.component.html',
   styleUrls: ['./landing-page.component.scss']
 })
-export class LandingPageComponent {
+export class LandingPageComponent implements OnInit {
 
   @ViewChild(TemplateRef)
   template!: TemplateRef<any>;
@@ -18,6 +18,10 @@ export class LandingPageComponent {
 
   constructor(readonly bottomSheet: MatBottomSheet, private router: Router,
               private appService: AppService) {}
+
+  ngOnInit(): void {
+    window.scroll(0,0);
+  }
 
   /**
    * Open drawer from bottom

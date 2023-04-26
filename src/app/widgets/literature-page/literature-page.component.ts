@@ -14,6 +14,7 @@ export class LiteraturePageComponent implements OnInit, AfterViewInit {
   constructor(private appService: AppService) {}
 
   ngOnInit(): void {
+    window.scroll(0,0);
     this.buildIframe(this.getBookType(this.appService.bookType));
   }
 
