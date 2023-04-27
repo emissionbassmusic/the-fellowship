@@ -1,4 +1,4 @@
-<img class="aa-logo" src="the-fellowship/assets/AA_logo.png" alt="image" />
+<img class="aa-logo" src="the-fellowship/assets/images/AA_logo.png" alt="image" />
 <!-- Section 1 -->
 <div class="col-12 card-section">
   <mat-card class="card-item">
@@ -33,7 +33,7 @@
       <div class="card-btn-space">
         <button mat-raised-button color="primary" (click)="openLink('https://www.aa.org/the-big-book')">AA.org</button>
       </div>
-      <button mat-raised-button color="primary" (click)="goToLiterature()">VIEW NOW</button>
+      <button mat-raised-button color="primary" (click)="openLiteraturePdf('bigBook')">VIEW NOW</button>
     </mat-card-actions>
   </mat-card>
 </div>
@@ -56,7 +56,7 @@
       <div class="card-btn-space">
         <button mat-raised-button color="primary" (click)="openLink('https://www.aa.org/twelve-steps-twelve-traditions')">AA.org</button>
       </div>
-      <button mat-raised-button color="primary" (click)="goToLiterature()">OPEN NOW</button>
+      <button mat-raised-button color="primary" (click)="openLiteraturePdf('12&12')">OPEN NOW</button>
     </mat-card-actions>
   </mat-card>
   <mat-card class="card-item">
@@ -97,7 +97,7 @@
       <button mat-raised-button color="primary" class="card-btn-pad" (click)="openLink('https://aa-intergroup.org/meetings/')">FIND ONLINE MEETING</button>
     </mat-card-actions>
   </mat-card>
-  <mat-card class="card-item">
+  <!-- <mat-card class="card-item">
     <mat-card-header>
       <div mat-card-avatar>
         <mat-icon class="card-icon">calendar_today</mat-icon>
@@ -111,17 +111,24 @@
       <mat-divider></mat-divider>
     </mat-card-content>
     <mat-card-actions class="card-actions">
-      <button mat-raised-button color="primary" (click)="sobrietyCalculator()">ENTER DATE</button>
+      <button mat-raised-button color="primary" (click)="picker.open()">ENTER DATE</button>
     </mat-card-actions>
-    <mat-card-footer>
-      <!-- <mat-progress-bar mode="indeterminate"></mat-progress-bar> -->
-    </mat-card-footer>
-  </mat-card>
+  </mat-card> -->
+</div>
+<!-- Date Picker -->
+<div hidden="true">
+  <mat-form-field class="example-full-width" appearance="fill">
+    <mat-label>Choose a date</mat-label>
+    <input matInput [matDatepicker]="picker" [(ngModel)]="soberDateSelection" (dateInput)="sobrietyCalculator()">
+    <mat-hint>MM/DD/YYYY</mat-hint>
+    <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker touchUi #picker></mat-datepicker>
+  </mat-form-field>
 </div>
 <!-- Section 4 -->
 <!-- Add google podcasts and prayers -->
 <ng-template>
-  <div [innerHTML]="bottomSheetContent"></div>
+  <div [innerHTML]="bottomSheetContent" id="bottomSheetContent"></div>
   <div *ngIf="showMeetingBtn" class="drawer-btn">
     <button mat-raised-button (click)="openLink('https://www.aa.org/find-aa')">
       <mat-icon>search</mat-icon>

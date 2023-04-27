@@ -5,6 +5,8 @@ import { Injectable } from '@angular/core';
 })
 export class AppService {
 
+  appPage = 'home';
+  bookType = 'bigBook';
   prayerHeader = '';
   prayerBody = '';
 

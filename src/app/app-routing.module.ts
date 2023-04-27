@@ -7,7 +7,7 @@ import { ReflectionPageComponent } from 'src/app/widgets/reflection-page/reflect
 const routes: Routes = [
   {
     path: '',
-    redirectTo: 'home',
+    redirectTo: '',
     pathMatch: 'full' ,
   },
   {
