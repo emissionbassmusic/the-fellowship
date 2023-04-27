@@ -15,6 +15,7 @@ export class LandingPageComponent implements OnInit {
 
   bottomSheetContent: string | undefined;
   showMeetingBtn: boolean | undefined;
+  soberDate: any | undefined;
 
   constructor(readonly bottomSheet: MatBottomSheet, private router: Router,
               private appService: AppService) {}
@@ -101,8 +102,14 @@ export class LandingPageComponent implements OnInit {
    * Enter dates to determine sobriety time
    */
   sobrietyCalculator() {
-    // TODO
-    alert('Sorry, we\'re still working on this part!')
+    const today = new Date();
+    const year = today.getFullYear() - this.soberDate.getFullYear();
+    const month = today.getMonth() - this.soberDate.getMonth();
+    const day = today.getDay() - this.soberDate.getDay();
+    console.log('today = ', today.getDate());
+    console.log('sober date = ', this.soberDate.getDate());
+    console.log('year = ', year, "  month = ", month, "  day = ", day)
+    alert('Still working on this part!');
   }
 
 }

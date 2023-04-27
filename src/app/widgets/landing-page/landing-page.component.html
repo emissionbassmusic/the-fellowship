@@ -111,12 +111,22 @@
       <mat-divider></mat-divider>
     </mat-card-content>
     <mat-card-actions class="card-actions">
-      <button mat-raised-button color="primary" (click)="sobrietyCalculator()">ENTER DATE</button>
+      <button mat-raised-button color="primary" (click)="picker.open()">ENTER DATE</button>
     </mat-card-actions>
     <mat-card-footer>
       <!-- <mat-progress-bar mode="indeterminate"></mat-progress-bar> -->
     </mat-card-footer>
   </mat-card>
+</div>
+<!-- Date Picker -->
+<div hidden="true">
+  <mat-form-field class="example-full-width" appearance="fill">
+    <mat-label>Choose a date</mat-label>
+    <input matInput [matDatepicker]="picker" [(ngModel)]="soberDate" (dateInput)="sobrietyCalculator()">
+    <mat-hint>MM/DD/YYYY</mat-hint>
+    <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker touchUi #picker></mat-datepicker>
+  </mat-form-field>
 </div>
 <!-- Section 4 -->
 <!-- Add google podcasts and prayers -->
