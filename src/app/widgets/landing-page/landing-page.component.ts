@@ -44,6 +44,10 @@ export class LandingPageComponent implements OnInit {
         this.bottomSheetContent = 'You\'ve been sober for ' + this.soberTime;
         break;
       }
+      case 'soberTimeTryAgain': {
+        this.bottomSheetContent = 'Can\'t calculate your sober time. This might be an invalid date. Please try again.';
+        break;
+      }
       default: {
         this.bottomSheetContent = 'Sorry, we\'re having trouble getting this content.'
         break;
@@ -99,7 +103,8 @@ export class LandingPageComponent implements OnInit {
    * Router not working right with github refresh
    */
   goToDailyReflection() {
-    this.appService.appPage = 'reflection';
+    alert('Daily reflections is still a work in progress. Thanks!');
+    // this.appService.appPage = 'reflection';
     // this.router.navigate(['/daily-reflection']);
   }
 
@@ -107,21 +112,39 @@ export class LandingPageComponent implements OnInit {
    * Enter dates to determine sobriety time
    */
   sobrietyCalculator() {
-    const today = new Date();
-    const year = today.getFullYear() - this.soberDateSelection.getFullYear();
-    const month = today.getMonth() - this.soberDateSelection.getMonth();
-    const day = today.getDate() - this.soberDateSelection.getDate();
+    // const today = new Date();
+    // const year = today.getFullYear() - this.soberDateSelection.getFullYear();
+    // const month = today.getMonth() - this.soberDateSelection.getMonth();
+    // const day = today.getDate() - this.soberDateSelection.getDate();
     let soberYear;
     let soberMonth;
     let soberDay;
-    year > 0 ? soberYear = year + ' year ' : soberYear = '';
-    year > 1 ? soberYear = year + ' years ' : soberYear = soberYear;
-    month > 0 ? soberMonth = month + ' month ' : soberMonth = '';
-    month > 1 ? soberMonth = month + ' months ' : soberMonth = soberMonth;
-    day > 0 ? soberDay = day + ' day ' : soberDay = '';
-    day > 1 ? soberDay = day + ' days ' : soberDay = soberDay;
+    // console.log(today.getFullYear());
+    // console.log(today.getMonth());
+    // console.log(today.getDate());
+    // console.log( this.soberDateSelection.getFullYear());
+    // console.log( this.soberDateSelection.getMonth());
+    // console.log( this.soberDateSelection.getDate());
+    const today = new Date();
+    const diff = Math.floor(today.getTime() - this.soberDateSelection.getTime());
+    const day = 1000 * 60 * 60 * 24;
+    const days = Math.floor(diff/day);
+    const months = Math.floor(days/30);
+    const years = Math.floor(months/12);
+    // message += days + " days "
+    // message += months + " months "
+    // message += years + " years ago \n"
+    years > 0 ? soberYear = years + ' year ' : soberYear = '';
+    years > 1 ? soberYear = years + ' years ' : soberYear = soberYear;
+    months > 0 ? soberMonth = months + ' month ' : soberMonth = '';
+    months > 1 ? soberMonth = months + ' months ' : soberMonth = soberMonth;
+    days > 0 ? soberDay = days + ' day ' : soberDay = '';
+    days > 1 ? soberDay = days + ' days ' : soberDay = soberDay;
+    months > 0 ? soberDay = '( ' + soberDay + ')' : soberDay = soberDay;
+
     this.soberTime = (soberYear + soberMonth + soberDay);
-    this.openBottomSheet('soberTime');
+    days > 0 ? this.openBottomSheet('soberTime') : this.openBottomSheet('soberTimeTryAgain');
+
     let el: any = '';
     el =  document.getElementById('bottomSheetContent');
     el.style.display = 'flex';
