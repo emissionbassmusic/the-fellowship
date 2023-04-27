@@ -58,10 +58,34 @@ export class LandingPageComponent implements OnInit {
    * Routes to literature page
    * Router not working right with github refresh
    */
-  goToLiterature(bookType: string) {
-    this.appService.appPage = 'literature';
-    this.appService.bookType = bookType;
-    // this.router.navigate(['/literature']);
+  // goToLiterature(bookType: string) {
+  //   this.appService.appPage = 'literature';
+  //   this.appService.bookType = bookType;
+  //   // this.router.navigate(['/literature']);
+  // }
+
+  /**
+   * Open literature PDF in browser pdf plugin
+   * @param bookType
+   * @returns PDF to open in browser
+   */
+  openLiteraturePdf(bookType: string) {
+    let bookUrl = ''
+    switch (bookType) {
+      case 'bigBook': {
+        bookUrl = 'assets/pdfs/AA-BigBook-4th-Edition.pdf'
+        break;
+      }
+      case '12&12': {
+        bookUrl = 'assets/pdfs/AA-12-Steps-12-Traditions.pdf'
+        break;
+      }
+      default: {
+        bookUrl = 'assets/pdfs/AA-BigBook-4th-Edition.pdf'
+        break;
+      }
+    }
+    return window.open(document.location.href + bookUrl, '_self');
   }
 
   /**
