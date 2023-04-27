@@ -122,7 +122,7 @@
 <div hidden="true">
   <mat-form-field class="example-full-width" appearance="fill">
     <mat-label>Choose a date</mat-label>
-    <input matInput [matDatepicker]="picker" [(ngModel)]="soberDate" (dateInput)="sobrietyCalculator()">
+    <input matInput [matDatepicker]="picker" [(ngModel)]="soberDateSelection" (dateInput)="sobrietyCalculator()">
     <mat-hint>MM/DD/YYYY</mat-hint>
     <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
     <mat-datepicker touchUi #picker></mat-datepicker>
@@ -131,7 +131,7 @@
 <!-- Section 4 -->
 <!-- Add google podcasts and prayers -->
 <ng-template>
-  <div [innerHTML]="bottomSheetContent"></div>
+  <div [innerHTML]="bottomSheetContent" id="bottomSheetContent"></div>
   <div *ngIf="showMeetingBtn" class="drawer-btn">
     <button mat-raised-button (click)="openLink('https://www.aa.org/find-aa')">
       <mat-icon>search</mat-icon>

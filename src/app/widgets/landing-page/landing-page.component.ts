@@ -15,7 +15,8 @@ export class LandingPageComponent implements OnInit {
 
   bottomSheetContent: string | undefined;
   showMeetingBtn: boolean | undefined;
-  soberDate: any | undefined;
+  soberDateSelection: any | undefined;
+  soberTime: any | undefined;
 
   constructor(readonly bottomSheet: MatBottomSheet, private router: Router,
               private appService: AppService) {}
@@ -39,8 +40,12 @@ export class LandingPageComponent implements OnInit {
         this.bottomSheetContent = '';
         break;
       }
+      case 'soberTime': {
+        this.bottomSheetContent = 'You\'ve been sober for ' + this.soberTime;
+        break;
+      }
       default: {
-        this.bottomSheetContent = 'Sorry, we\'re still working on this part!'
+        this.bottomSheetContent = 'Sorry, we\'re having trouble getting this content.'
         break;
       }
     }
@@ -103,13 +108,25 @@ export class LandingPageComponent implements OnInit {
    */
   sobrietyCalculator() {
     const today = new Date();
-    const year = today.getFullYear() - this.soberDate.getFullYear();
-    const month = today.getMonth() - this.soberDate.getMonth();
-    const day = today.getDay() - this.soberDate.getDay();
-    console.log('today = ', today.getDate());
-    console.log('sober date = ', this.soberDate.getDate());
-    console.log('year = ', year, "  month = ", month, "  day = ", day)
-    alert('Still working on this part!');
+    const year = today.getFullYear() - this.soberDateSelection.getFullYear();
+    const month = today.getMonth() - this.soberDateSelection.getMonth();
+    const day = today.getDate() - this.soberDateSelection.getDate();
+    let soberYear;
+    let soberMonth;
+    let soberDay;
+    year > 0 ? soberYear = year + ' year ' : soberYear = '';
+    year > 1 ? soberYear = year + ' years ' : soberYear = soberYear;
+    month > 0 ? soberMonth = month + ' month ' : soberMonth = '';
+    month > 1 ? soberMonth = month + ' months ' : soberMonth = soberMonth;
+    day > 0 ? soberDay = day + ' day ' : soberDay = '';
+    day > 1 ? soberDay = day + ' days ' : soberDay = soberDay;
+    this.soberTime = (soberYear + soberMonth + soberDay);
+    this.openBottomSheet('soberTime');
+    let el: any = '';
+    el =  document.getElementById('bottomSheetContent');
+    el.style.display = 'flex';
+    el.style.justifyContent = 'center';
+    el.style.paddingTop = '1rem';
+    el.style.paddingBottom = '1rem';
   }
-
 }
