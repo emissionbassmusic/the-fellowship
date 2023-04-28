@@ -601,6 +601,626 @@ export class ReflectionConstants {
         content2: "The word \"God\" was frightening to me when I first saw it associated with A.A.'s Twelve Steps. Having tried all the means I could to stop drinking, I found that it was not possible for me to sustain that desire over a period of time. Yet, how could I believe in a \"God\" that had allowed me to sink to the deep despair that engulfed me — whether drinking or dry?<br><br>The answer was in finally admitting that it <i>might</i> be possible for me to know the mercy of a Power greater than myself who could grant me sobriety contingent on my willingness to \"come to believe.\" By finally admitting that I was one among many, and by following the example of my sponsor and other A.A. members in practicing faith I did not have, my life has been given meaning, direction and purpose."
       }
     },
+    {
+      date: "2/1",
+      reflection: {
+        day: "MARCH 1",
+        title: "IT WORKS",
+        content1: "It works — it really does.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 88",
+        content2: "When I got sober I initially had faith only in the program of Alcoholics Anonymous. Desperation and fear kept me sober (and maybe a caring and/or tough sponsor helped!). Faith in a Higher Power came much later. This faith came slowly at first, after I began listening to others share at meetings about their experiences — experiences that I had never faced sober, but that they were facing with strength from a Higher Power. Out of their sharing came hope that I too would—and could — \"get\" a Higher Power. In time, I learned that a Higher Power — a faith that works under all conditions — is possible. Today this faith, plus the honesty, open-mindedness and willingness to work the Steps of the program, gives me the serenity that I seek. It works — it really does."
+      }
+    },
+    {
+      date: "2/2",
+      reflection: {
+        day: "MARCH 2",
+        title: "HOPE",
+        content1: "Do not be discouraged.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 60",
+        content2: "Few experiences are of less value to me than fast sobriety. Too many times discouragement has been the bonus for unrealistic expectations, not to mention self-pity or fatigue from my wanting to change the world by the weekend. Discouragement is a warning signal that I may have wandered across the God line. The secret of fulfilling my potential is in acknowledging my limitations and believing that time is a gift, not a threat.<br><br>Hope is the key that unlocks the door of discour- agement. The program promises me that if I do not pick up the first drink today, I will always have hope. Having come to believe that I keep what I share, every time I encourage, I receive courage. It is with others that, with the grace of God and the Fellowship of A.A., I trudge the road of happy destiny. May I always remember that the power within me is far greater than any fear before me. May I always have patience, for I am on the right road."
+      }
+    },
+    {
+      date: "2/3",
+      reflection: {
+        day: "MARCH 3",
+        title: "OVERCOMING SELF-WILL",
+        content1: "So our troubles, we think, are basically of our own making. They arise out of ourselves, and the alcoholic is an extreme example of self-will run riot, though he usually doesn't think so. Above everything, we alcoholics must be rid of this selfishness. We must, or it kills us!",
+        footer: "ALCOHOLICS ANONYMOUS, p. 62",
+        content2: "For so many years my life revolved solely around myself. I was consumed with self in all forms — self-centeredness, self-pity, self-seeking, all of which stemmed from pride. Today I have been given the gift, through the Fellowship of Alcoholics Anonymous, of practicing the Steps and Traditions in my daily life, of my group and sponsor, and the capacity — if I so choose — to put my pride aside in all situations which arise in my life.<br><br>Until I could honestly look at myself and see that I was the problem in many situations and react appropriately inside and out; until I could discard my expectations and understand that my serenity was directly proportional to them, I could not experience serenity and sound sobriety."
+      }
+    },
+    {
+      date: "2/4",
+      reflection: {
+        day: "MARCH 4",
+        title: "WEEDING THE GARDEN",
+        content1: "The essence of all growth is a willingness to make a change for the better and then an unremitting willingness to shoulder whatever responsibility this entails.",
+        footer: "AS BILL SEES IT, p. 115",
+        content2: "By the time I had reached Step Three I had been freed of my dependence on alcohol, but bitter experience has shown me that continuous sobriety requires continuous effort.<br><br>Every now and then I pause to take a good look at my progress. More and more of my garden is weeded each time I look, but each time I also find new weeds sprouting where I thought I had made my final pass with the blade. As I head back to get the newly sprouted weed (it's easier when they are young), I take a moment to admire how lush the growing vegetables and flowers are, and my labors are rewarded. My sobriety grows and bears fruit."
+      }
+    },
+    {
+      date: "2/5",
+      reflection: {
+        day: "MARCH 5",
+        title: "A LIFELONG TASK",
+        content1: "\"But just how, in these circumstances, does a fellow 'take it easy?' That's what I want to know.\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 26",
+        content2: "I was never known for my patience. How many times have I asked, \"Why should I wait, when I can have it all right now?\" Indeed, when I was first presented the Twelve Steps, I was like the proverbial \"kid in a candy store.\" I couldn't wait to get to Step Twelve; it was surely just a few months' work, or so I thought! I realize now that living the Twelve Steps of A.A. is a lifelong undertaking."
+      }
+    },
+    {
+      date: "2/6",
+      reflection: {
+        day: "MARCH 6",
+        title: "THE IDEA OF FAITH",
+        content1: "Do not let any prejudice you may have against spiritual terms deter you from honestly asking yourself what they mean to you.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 47",
+        content2: "The idea of faith is a very large chunk to swallow when fear, doubt and anger abound in and around me. Sometimes just the idea of doing something different, something I am not accustomed to doing, can eventually become an act of faith if I do it regularly, and do it without debating whether it's the right thing to do. When a bad day comes along and everything is going wrong, a meeting or a talk with another drunk often distracts me just enough to persuade me that everything is not quite as impossible, as overwhelming as I had thought. In the same way, going to a meeting or talking to a fellow alcoholic are acts of faith; I believe I'm arresting my disease. These are ways I slowly move toward faith in a Higher Power."
+      }
+    },
+    {
+      date: "2/7",
+      reflection: {
+        day: "MARCH 7",
+        title: "THE KEY IS WILLINGNESS",
+        content1: "Once we have placed the key of willingness in the lock and have the door ever so slightly open, we find that we can always open it some more.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 35",
+        content2: "The willingness to give up my pride and self-will to a Power greater than myself has proved to be the only ingredient absolutely necessary to solve all of my problems today. Even the smallest amount of willingness, if sincere, is sufficient to allow God to enter and take control over any problem, pain, or obsession. My level of comfort is in direct relation to the degree of willingness I possess at any given moment to give up my self-will, and allow God's will to be manifested in my life. With the key of willingness, my worries and fears are powerfully transformed into serenity."
+      }
+    },
+    {
+      date: "2/8",
+      reflection: {
+        day: "MARCH 8",
+        title: "TURNING IT OVER",
+        content1: "Every man and woman who has joined A.A. and intends to stick has, without realizing it, made a beginning on Step Three. Isn't it true that in all matters touching upon alcohol, each of them has decided to turn his or her life over to the care, protection, and guidance of Alcoholics Anonymous? . . . Any willing newcomer feels sure A.A. is the only safe harbor for the foundering vessel he has become. Now if this is not turning one's will and life over to a newfound Providence, then what is it?",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 35",
+        content2: "Submission to God was the first step to my recovery. I believe our Fellowship seeks a spirituality open to a new kinship with God. As I exert myself to follow the path of the Steps, I sense a freedom that gives me the ability to think for myself. My addiction confined me without any release and hindered my ability to be released from my self- confinement, but A.A. assures me of a way to go forward. Mutual sharing, concern and caring for others is our natural gift to each other and mine is strengthened as my attitude toward God changes. I learn to submit to God's will in my life, to have self-respect, and to keep both of these attitudes by giving away what I receive."
+      }
+    },
+    {
+      date: "2/9",
+      reflection: {
+        day: "MARCH 9",
+        title: "SURRENDERING SELF-WILL",
+        content1: "Made a decision to turn our will and our lives over to the care of God as we understood Him.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 34",
+        content2: "No matter how much one wishes to try, exactly how can one turn his own will and his own life over to the care of whatever God he thinks there is? In my search for the answer to this question, I became aware of the wisdom with which it was written: that this is a two-part Step.<br><br>I could see many times where I should have died, or at least been injured, during my previous style of living, and it never happened. Someone, or something, was looking after me. I choose to believe my life has always been in God's care. He alone controls the number of days I will be granted until physical death.<br><br>The matter of will (self-will or God's will) is the more difficult part of the Step for me. It is only when I have experienced enough emotional pain, through failed attempts to fix myself, that I become willing to surrender to God's will for my life. Surrender is like the calm after the storm. When my will is in line with God's will for me, there is peace within."
+      }
+    },
+    {
+      date: "2/10",
+      reflection: {
+        day: "MARCH 10",
+        title: "TODAY, IT'S MY CHOICE",
+        content1: ". . . we invariably find that at some time in the past we have made decisions based on self which later placed us in a position to be hurt.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 62",
+        content2: "With the realization and acceptance that I had played a part in the way my life had turned out came a dramatic change in my outlook. It was at this point that the A.A. program began to work for me. In the past I had always blamed others, either God or other people, for my circumstances. I never felt that I had a choice in altering my life. My decisions had been based on fear, pride, or ego. As a result, those decisions led me down a path of self-destruction. Today I try to allow my God to guide me on the road to sanity. I am responsible for my action — or inaction — whatever the consequences may be."
+      }
+    },
+    {
+      date: "2/11",
+      reflection: {
+        day: "MARCH 11",
+        title: "GOOD ORDERLY DIRECTION",
+        content1: "It is when we try to make our will conform with God's that we begin to use it rightly. To all of us, this was a most wonderful revelation. Our whole trouble had been the misuse of willpower. We had tried to bombard our problems with it instead of attempting to bring it into agreement with God's intention for us. To make this increasingly possible is the purpose of A.A.'s Twelve Steps, and Step Three opens the door.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 40",
+        content2: "All I have to do is look back at my past to see where my self-will has led me. I just don't know what's best for me and I believe my Higher Power does. G.O.D., which I define as \"Good Orderly Direction,\" has never let me down, but I have let myself down quite often. Using my self-will in a situation usually has the same result as forcing the wrong piece into a jigsaw puzzle — exhaustion and frustration.<br><br>Step Three opens the door to the rest of the program. When I ask God for guidance I know that whatever happens is the best possible situation, things are exactly as they are supposed to be, even if they aren't what I want or expect. God <i>does</i> do for me what I cannot do for myself, if I let Him."
+      }
+    },
+    {
+      date: "2/12",
+      reflection: {
+        day: "MARCH 12",
+        title: "A DAY'S PLAN",
+        content1: "On awakening let us think about the twenty-four hours ahead. We consider our plans for the day. Before we begin, we ask God to direct our thinking, especially asking that it be divorced from self-pity, dishonest or self-seeking motives.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 86",
+        content2: "Every day I ask God to kindle within me the fire of His love, so that love, burning bright and clear, will illuminate my thinking and permit me to better do His will. Throughout the day, as I allow outside circumstances to dampen my spirits, I ask God to sear my consciousness with the awareness that I can start my day over any time I choose; a hundred times, if necessary."
+      }
+    },
+    {
+      date: "2/13",
+      reflection: {
+        day: "MARCH 13",
+        title: "A WORLD OF THE SPIRIT",
+        content1: "We have entered the world of the Spirit. Our next function is to grow in understanding and effectiveness. This is not an overnight matter. It should continue for our lifetime.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "The word \"entered\" . . . and the phrase \"entered into the world of the Spirit\" are very significant. They imply action, a beginning, getting into, a prerequisite to maintaining my spiritual growth, the \"Spirit\" being the immaterial part of me. Barriers to my spiritual growth are self-centeredness and a materialistic focus on worldly things. Spirituality means devotion to spiritual instead of worldly things, it means obedience to God's will for me. I understand spiritual things to be: unconditional love, joy, patience, kindness, goodness, faithfulness, self-control and humility. Any time I allow selfishness, dishonesty, resentment and fear to be a part of me, I block out spiritual things. As I maintain my sobriety, growing spiritually becomes a lifelong process. My goal is spiritual growth, accepting that I'll never have spiritual perfection."
+      }
+    },
+    {
+      date: "2/14",
+      reflection: {
+        day: "MARCH 14",
+        title: "THE KEYSTONE",
+        content1: "He is the Father, and we are His children. Most good ideas are simple, and this concept was the keystone of the new and triumphant arch through which we passed to freedom.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 62",
+        content2: "A keystone is the wedge-shaped piece at the highest part of an arch that locks the other pieces in place. The \"other pieces\" are Steps One, Two, and Four through Twelve. In one sense this sounds like Step Three is the most important Step, that the other eleven depend on the third for support. In reality however, Step Three is just one of twelve. It is the keystone, but without eleven other stones to build the base and arms, keystone or not, there will be no arch. Through daily working of all Twelve Steps, I find that triumphant arch waiting for me to pass through to another day of freedom."
+      }
+    },
+    {
+      date: "2/15",
+      reflection: {
+        day: "MARCH 15",
+        title: "THE GOD IDEA",
+        content1: "When we saw others solve their problems by a simple reliance upon the Spirit of the Universe, we had to stop doubting the power of God. Our ideas did not work. But the God idea did.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 52",
+        content2: "Like a blind man gradually being restored to sight, I slowly groped my way to the Third Step. Having realized that only a Power greater than myself could rescue me from the hopeless abyss I was in, I knew that this was a Power that I had to grasp, and that it would be my anchor in the midst of a sea of woes. Even though my faith at that time was minuscule, it was big enough to make me see that it was time for me to discard my reliance on my prideful ego and replace it with the steadying strength that could only come from a Power far greater than myself."
+      }
+    },
+    {
+      date: "2/16",
+      reflection: {
+        day: "MARCH 16",
+        title: "AS WE UNDERSTAND HIM",
+        content1: "My friend suggested what then seemed a novel idea. . . . \"Why don't you choose your own conception of God?\" That statement hit me hard. It melted the icy intellectual mountain in whose shadow I had lived and shivered many years I stood in the sunlight at last. It was only a matter of being willing to believe in a Power greater than myself. Nothing more was required of me to make my beginning.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 12",
+        content2: "I remember the times I looked up into the sky and reflected on who started it all, and how. When I came to A.A., an understanding of some description of the spiritual dimension became a necessary adjunct to a stable sobriety. After reading a variety of versions, including the scientific, of a great explosion, I went for simplicity and made the God of my understanding the Great Power that made the explosion possible. With the vastness of the universe under His command, He would, no doubt, be able to guide my thinking and actions if I was prepared to accept His guidance. But I could not expect help if I turned my back on that help and went my own way. I became willing to believe and I have had 26 years of stable and satisfying sobriety."
+      }
+    },
+    {
+      date: "2/17",
+      reflection: {
+        day: "MARCH 17",
+        title: "MYSTERIOUS WAYS",
+        content1: ". . . out of every season of grief or suffering when the hand of God seemed heavy or even unjust, new lessons for living were learned, new resources of courage were uncovered, and that finally, inescapably, the conviction came that God does \"move in a mysterious way His wonders to perform.\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 105",
+        content2: "After losing my career, family and health, I remained unconvinced that my way of life needed a second look. My drinking and other drug use were killing me, but I had never met a recovering person or an A.A. member. I thought I was destined to die alone and that I deserved it. At the peak of my despair, my infant son became critically ill with a rare disease. Doctors' efforts to help him proved useless. I redoubled my efforts to block my feelings, but now the alcohol had stopped working. I was left staring into God's eyes, begging for help. My introduction to A.A. came within days, through an odd series of coincidences, and I have remained sober ever since. My son lived and his disease is in remission. The entire episode convinced me of my powerlessness and the unmanageability of my life. Today my son and I thank God for His intervention."
+      }
+    },
+    {
+      date: "2/18",
+      reflection: {
+        day: "MARCH 18",
+        title: "REAL INDEPENDENCE",
+        content1: "The more we become willing to depend upon a Higher Power, the more independent we actually are.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 36",
+        content2: "I start with a little willingness to trust God and He causes that willingness to grow. The more willingness I have, the more trust I gain, and the more trust I gain, the more willingness I have. My dependence on God grows as my trust in Him grows. Before I became willing, I depended on myself for all my needs and I was restricted by my incompleteness. Through my willingness to depend upon my Higher Power, whom I choose to call God, all my needs are provided for by Someone Who knows me better than I know myself — even the needs I may not realize, as well as the ones yet to come. Only Someone Who knows me that well could bring me to be myself and to help me fill the need in someone else that only I am meant to fill. There never will be another exactly like me. And that is real independence."
+      }
+    },
+    {
+      date: "2/19",
+      reflection: {
+        day: "MARCH 19",
+        title: "PRAYER: IT WORKS",
+        content1: "It has been well said that \"almost the only scoffers at prayer are those who never tried it enough.\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 97",
+        content2: "Having grown up in an agnostic household, I felt somewhat foolish when I first tried praying. I knew there was a Higher Power working in my life — how else was I staying sober? — but I certainly wasn't convinced he/she/it wanted to hear my prayers. People who had what I wanted said prayer was an important part of practicing the program, so I persevered. With a commitment to daily prayer, I was amazed to find myself becoming more serene and comfortable with my place in the world. In other words, life became easier and less of a struggle. I'm still not sure who, or what, listens to my prayers, but I'd never stop saying them for the simple reason that they work."
+      }
+    },
+    {
+      date: "2/20",
+      reflection: {
+        day: "MARCH 20",
+        title: "LOVE AND TOLERANCE",
+        content1: "Love and tolerance of others is our code.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "I have found that I have to forgive others in all situations to maintain any real spiritual progress. The vital importance of forgiving may not be obvious to me at first sight, but my studies tell me that every great spiritual teacher has insisted strongly upon it.<br><br>I must forgive injuries, not just in words, or as a matter of form, but in my heart. I do this not for the other persons' sake, but for my own sake. Resentment, anger, or a desire to see someone punished, are things that rot my soul. Such things fasten my troubles to me with chains. They tie me to other problems that have nothing to do with my original problem."
+      }
+    },
+    {
+      date: "2/21",
+      reflection: {
+        day: "MARCH 21",
+        title: "MATERIAL AND SPIRITUAL WELL-BEING",
+        content1: "Fear . . . of economic insecurity will leave us.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "Having fear reduced or eliminated and having economic circumstances improve, are two different things. When I was new in A.A., I had those two ideas confused. I thought fear would leave me only when I started making money. However, another line from the Big Book jumped off the page one day when I was chewing on my financial difficulties: \"For us, material well-being always followed spiritual progress; it never preceded.\" (p. 127). I suddenly understood that this promise was a guarantee. I saw that it put priorities in the correct order, that spiritual progress would diminish that terrible fear of being destitute, just as it diminished many other fears.<br><br>Today I try to use the talents God gave me to benefit others. I've found that is what others valued all along. I try to remember that I no longer work for myself. I only get the use of the wealth God created, I never have \"owned\" it. My life's purpose is much clearer when I just work to help, not to possess."
+      }
+    },
+    {
+      date: "2/22",
+      reflection: {
+        day: "MARCH 22",
+        title: "NO MORE STRUGGLE. . .",
+        content1: "And we have ceased fighting anything or anyone— even alcohol.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "When A.A. found me, I thought I was in for a struggle, and that A.A. might provide the strength I needed to beat alcohol. Victorious in that fight, who knows what other battles I could win. I would need to be strong, though. All my previous experience with life proved that. Today I do not have to struggle or exert my will. If I take those Twelve Steps and let my Higher Power do the real work, my alcohol problem disappears all by itself. My living problems also cease to be struggles. I just have to ask whether acceptance — or change — is required. It is not my will, but His, that needs doing."
+      }
+    },
+    {
+      date: "2/23",
+      reflection: {
+        day: "MARCH 23",
+        title: ". . . AND NO MORE RESERVATIONS",
+        content1: "We have seen the truth again and again: \"Once an alcoholic, always an alcoholic.\". . . If we are planning to stop drinking, there must be no reservation of any kind, nor any lurking notion that someday we will be immune to alcohol.<br>. . . To be gravely affected, one does not necessarily have to drink a long time nor take the quantities some of us have. This is particularly true of women. Potential female al- coholics often turn into the real thing and are gone beyond recall in a few years.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 33",
+        content2: "These words are underlined in my book. They are true for men and women alcoholics. On many occasions I've turned to this page and reflected on this passage. I need never fool myself by recalling my sometimes differing drinking patterns, or by believing I am \"cured.\" I like to think that, if sobriety is God's gift to me, then my sober life is my gift to God. I hope God is as happy with His gift as I am with mine."
+      }
+    },
+    {
+      date: "2/24",
+      reflection: {
+        day: "MARCH 24",
+        title: "ACTIVE, NOT PASSIVE",
+        content1: "Man is supposed to think, and act He wasn't made in God's image to be an automaton.",
+        footer: "AS BILL SEES IT, p. 55",
+        content2: "Before I joined A.A., I often did not think, and reacted to people and situations. When not reacting I acted in a mechanical fashion. After joining A. A., I started seeking daily guidance from a Power greater than myself, and learning to listen for that guidance. Then I began to make decisions and act on them, rather than react to them. The results have been constructive; I no longer allow others to make decisions for me and then criticize me for it.<br><br>Today — and every day — with a heart full of gratitude, and a desire for God's will to be done through me, my life is worth sharing, especially with my fellow alcoholics! Above all, if I do not make a religion out of anything, even A.A., then I can be an open channel for God's expression."
+      }
+    },
+    {
+      date: "2/25",
+      reflection: {
+        day: "MARCH 25",
+        title: "A FULL AND THANKFUL HEART",
+        content1: "/ try hard to hold fast to the truth that a full and thankful heart cannot entertain great conceits. When brimming with gratitude, one's heartbeat must surely result in outgoing love, the finest emotion that we can ever know.",
+        footer: "AS BILL SEES IT, p. 37",
+        content2: "I believe that we in Alcoholics Anonymous are fortunate in that we are constantly reminded of the need to be grateful and of how important gratitude is to our sobriety. I am truly grateful for the sobriety God has given me through the A.A. program and am glad I can give back what was given to me freely. I am grateful not only for sobriety, but for the quality of life my sobriety has brought. God has been gracious enough to give me sober days <i>and</i> a life blessed with peace and contentment, as well as the ability to give and receive love, and the opportunity to serve others — in our Fellowship, my family and my community. For all of this, I have \"a full and thankful heart.\""
+      }
+    },
+    {
+      date: "2/26",
+      reflection: {
+        day: "MARCH 26",
+        title: "THE TEACHING IS NEVER OVER",
+        content1: "Abandon yourself to God as you understand God. Admit your faults to Him and to your fellows. Clear away the wreckage of your past Give freely of what you find and join us. We shall be with you in the Fellowship of the Spirit, and you will surely meet some of us as you trudge the Road of Happy Destiny. May God bless you and keep you — until then.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 164",
+        content2: "These words put a lump in my throat each time I read them. In the beginning it was because I felt, \"Oh no! The teaching is over. Now I'm on my own. It will never be this new again.\" Today I feel deep affection for our A.A. pioneers when I read this passage, realizing that it sums up all of what I believe in, and strive for, and that — with God's blessing — the teaching is never over, I'm never on my own, and every day is brand new."
+      }
+    },
+    {
+      date: "2/27",
+      reflection: {
+        day: "MARCH 27",
+        title: "A.A.'s FREEDOMS",
+        content1: "We trust that we already know what our several freedoms truly are; that no future generation of AAs will ever feel compelled to limit them. Our AA freedoms create the soil in which genuine love can grow. . . .",
+        footer: "LANGUAGE OF THE HEART, p. 303",
+        content2: "I craved freedom. First, freedom to drink; later, freedom from drink. The A.A. program of recovery rests on a foundation of free choice. There are no mandates, laws or commandments. A.A.'s spiritual program, as outlined in the Twelve Steps, and by which I am offered even greater freedoms, is only suggested. I can take it or leave it. Sponsorship is offered, not forced, and I come and go as I will. It is these and other freedoms that allow me to recapture the dignity that was crushed by the burden of drink, and which is so dearly needed to support an enduring sobriety."
+      }
+    },
+    {
+      date: "2/28",
+      reflection: {
+        day: "MARCH 28",
+        title: "EQUALITY",
+        content1: "Our membership ought to include all who suffer from alcoholism Hence we may refuse none who wish to recover. Nor ought A.A. membership ever depend upon money or conformity. Any two or three alcoholics gathered together for sobriety may call themselves an A.A. group, provided that, as a group, they have no other affiliation.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 565",
+        content2: "Prior to A.A., I often felt that I didn't \"fit in\" with the people around me. Usually \"they\" had more/less money than I did, and my points of view didn't jibe with \"theirs.\" The amount of prejudice I had experienced in society only proved to me just how phony some self-righteous people were. After joining A. A., I found the way of life I had been searching for. In A.A. no member is better than any other member; we're just alcoholics trying to recover from alcoholism."
+      }
+    },
+    {
+      date: "2/29",
+      reflection: {
+        day: "MARCH 29",
+        title: "TRUSTED SERVANTS",
+        content1: "They are servants. Theirs is the sometimes thankless privilege of doing the group's chores.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 134",
+        content2: "In <i>Zorba the Greek</i>, Nikos Kazantzakis describes an encounter between his principal character and an old man busily at work planting a tree. \"What is it you are doing?\" Zorba asks. The old man replies: \"You can see very well what I'm doing, my son, I'm planting a tree.\" \"But why plant a tree,\" Zorba asks, \"if you won't be able to see it bear fruit?\" And the old man answers: \"I, my son, live as though I were never going to die.\" The response brings a faint smile to Zorba's lips and, as he walks away, he exclaims with a note of irony: \"How strange — I live as though I were going to die tomorrow!\"<br><br>As a member of Alcoholics Anonymous, I have found that the Third Legacy is a fertile soil in which to plant the tree of my sobriety. The fruits I harvest are wonderful: peace, security, understanding and twenty-four hours of eternal fulfillment; and with the soundness of mind to listen to the voice of my conscience when, in silence, it gently speaks to me, saying: You must let go in service. There are others who must plant and harvest."
+      }
+    },
+    {
+      date: "2/30",
+      reflection: {
+        day: "MARCH 30",
+        title: "OUR GROUP CONSCIENCE",
+        content1: "\". . . sometimes the good is the enemy of the best\"",
+        footer: "ALCOHOLICS ANONYMOUS COMES OF AGE P- 101",
+        content2: "I think these words apply to every area of A.A.'s Three Legacies: Recovery, Unity and Service! I want them etched in my mind and life as I \"trudge the Road of Happy Destiny\" (<i>Alcoholics Anonymous, p. 164</i>). These words, often spoken by co-founder Bill W., were appropriately said to him as the result of the group's conscience. It brought home to Bill W. the essence of our Second Tradition: \"Our leaders are but trusted servants; they do not govern.\"<br><br>Just as Bill W. was originally urged to remember, I think that in our group discussions we should never settle for the \"good,\" but always strive to attain the \"best.\" These common strivings are yet another example of a loving God, as we understand Him, expressing Himself through the group conscience. Experiences such as these help me to stay on the proper path of recovery. I learn to combine initiative with humility, responsibility with thankfulness, and thus relish the joys of living my twenty-four hour program."
+      }
+    },
+    {
+      date: "2/31",
+      reflection: {
+        day: "MARCH 31",
+        title: "NO ONE DENIED ME LOVE",
+        content1: "On the A. A. calendar it was Year Two. . . . A newcomer appeared at one of these groups. . . . He soon proved that his was a desperate case, and that above all he wanted to get well . . . [He said], \"Since I am the victim of another addiction even worse stigmatized than alcoholism, you may not want me among you.\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, pp. 141-42",
+        content2: "I came to you — a wife, mother, woman who had walked out on her husband, children, family. I was a drunk, a pill-head, a nothing. Yet no one denied me love, caring, a sense of belonging. Today, by God's grace and the love of a good sponsor and a home group, I can say that — through you in Alcoholics Anonymous — I am a wife, a mother, a grandmother and a woman. Sober. Free of pills. Responsible.<br><br>Without a Higher Power I found in the Fellowship, my life would be meaningless. I am full of gratitude to be a member of good standing in Alcoholics Anonymous."
+      }
+    },
+    {
+      date: "3/1",
+      reflection: {
+        day: "APRIL 1",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/2",
+      reflection: {
+        day: "APRIL 2",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/3",
+      reflection: {
+        day: "APRIL 3",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/4",
+      reflection: {
+        day: "APRIL 4",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/5",
+      reflection: {
+        day: "APRIL 5",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/6",
+      reflection: {
+        day: "APRIL 6",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/7",
+      reflection: {
+        day: "APRIL 7",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/8",
+      reflection: {
+        day: "APRIL 8",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/9",
+      reflection: {
+        day: "APRIL 9",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/10",
+      reflection: {
+        day: "APRIL 10",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/11",
+      reflection: {
+        day: "APRIL 11",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/12",
+      reflection: {
+        day: "APRIL 12",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/13",
+      reflection: {
+        day: "APRIL 13",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/14",
+      reflection: {
+        day: "APRIL 14",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/15",
+      reflection: {
+        day: "APRIL 15",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/16",
+      reflection: {
+        day: "APRIL 16",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/17",
+      reflection: {
+        day: "APRIL 17",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/18",
+      reflection: {
+        day: "APRIL 18",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/19",
+      reflection: {
+        day: "APRIL 19",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/20",
+      reflection: {
+        day: "APRIL 20",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/21",
+      reflection: {
+        day: "APRIL 21",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/22",
+      reflection: {
+        day: "APRIL 22",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/23",
+      reflection: {
+        day: "APRIL 23",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/24",
+      reflection: {
+        day: "APRIL 24",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/25",
+      reflection: {
+        day: "APRIL 25",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/26",
+      reflection: {
+        day: "APRIL 26",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/27",
+      reflection: {
+        day: "APRIL 27",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/28",
+      reflection: {
+        day: "APRIL 28",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/29",
+      reflection: {
+        day: "APRIL 29",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "3/30",
+      reflection: {
+        day: "APRIL 30",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
+    {
+      date: "May",
+      reflection: {
+        day: "r2",
+        title: "r3",
+        content1: "r4",
+        footer: "r5",
+        content2: "r6"
+      }
+    },
   ]
 
 }

@@ -1,11 +1,12 @@
-<div class="container">
+<img *ngIf="isLoading" class="aa-logo" src="the-fellowship/assets/images/AA_logo.png" alt="image" />
+<div *ngIf="!isLoading" class="container">
   <p class="r-date">{{date}}</p>
   <h2 class="r-title">{{title}}</h2>
   <h3 [innerHTML]="content1"></h3>
   <p class="r-footer">{{footer}}</p>
   <h3 [innerHTML]="content2"></h3>
 </div>
-<div class="goBack-btn">
+<div *ngIf="!isLoading" class="goBack-btn">
   <button mat-raised-button color="primary" (click)="goHome()">Go Back</button>
 </div>
 <app-loader [showLoader]="isLoading" [loaderContent]="'Getting Your Daily Reflection!'"></app-loader>
