@@ -23,7 +23,7 @@ export class ReflectionPageComponent implements OnInit {
   ngOnInit(): void {
     window.scroll(0,0);
     const dateString = this.today.getMonth().toString() + '/' + this.today.getDate().toString();
-    this.getDailyReflection('0/1');
+    this.getDailyReflection(dateString);
   }
 
   /**
