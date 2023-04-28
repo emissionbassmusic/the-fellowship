@@ -1,1 +1,8 @@
-<p>reflection-page works!</p>
+<div class="container">
+  <p class="r-date">{{date}}</p>
+  <h2 class="r-title">{{title}}</h2>
+  <h3 [innerHTML]="content1"></h3>
+  <p class="r-footer">{{footer}}</p>
+  <h3 [innerHTML]="content2"></h3>
+</div>
+<app-loader [showLoader]="true" [loaderContent]="'Getting Your Daily Reflection!'"></app-loader>

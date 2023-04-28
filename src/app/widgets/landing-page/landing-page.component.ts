@@ -103,8 +103,7 @@ export class LandingPageComponent implements OnInit {
    * Router not working right with github refresh
    */
   goToDailyReflection() {
-    alert('Daily reflections is still a work in progress. Thanks!');
-    // this.appService.appPage = 'reflection';
+    this.appService.appPage = 'reflection';
     // this.router.navigate(['/daily-reflection']);
   }
 
