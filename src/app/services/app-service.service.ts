@@ -9,6 +9,7 @@ export class AppService {
   bookType = 'bigBook';
   prayerHeader = '';
   prayerBody = '';
+  reflectionFailure = false;
 
   constructor() { }
 }

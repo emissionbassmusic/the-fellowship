@@ -23,6 +23,9 @@ export class LandingPageComponent implements OnInit {
 
   ngOnInit(): void {
     window.scroll(0,0);
+    if (this.appService.reflectionFailure) {
+      alert('Sorry, we\'re having trouble getting the daily reflection.');
+    }
   }
 
   /**

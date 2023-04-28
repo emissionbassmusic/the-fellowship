@@ -12,13 +12,13 @@
   display: block;
 
   .loader-content {
-    text-align: center;
     margin: 1rem 3rem 1rem 3rem;
     padding: 2rem;
     background-color: #fbfbfb;
     border-radius: 35px;
 
     p {
+      text-align: center;
       padding-bottom: 1rem;
       animation: shake 5s cubic-bezier(.36,.07,.19,.97) both;
       transform: translate3d(0, 0, 0);

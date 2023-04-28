@@ -174,6 +174,20 @@ export class HeaderToolbarComponent {
     });
   }
 
+  /**
+   * Go to main landing page
+   */
+  goHome() {
+    this.appService.appPage = 'home';
+  }
+
+  /**
+   * Go to daily reflection page
+   */
+  goToReflection() {
+    this.appService.appPage = 'reflection';
+  }
+
 }
 
 /**

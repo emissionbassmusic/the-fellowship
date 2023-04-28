@@ -5,4 +5,7 @@
   <p class="r-footer">{{footer}}</p>
   <h3 [innerHTML]="content2"></h3>
 </div>
-<app-loader [showLoader]="true" [loaderContent]="'Getting Your Daily Reflection!'"></app-loader>
+<div class="goBack-btn">
+  <button mat-raised-button color="primary" (click)="goHome()">Go Back</button>
+</div>
+<app-loader [showLoader]="isLoading" [loaderContent]="'Getting Your Daily Reflection!'"></app-loader>

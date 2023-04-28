@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AppService } from 'src/app/services/app-service.service';
 import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections.constants';
 
 @Component({
@@ -8,18 +9,21 @@ import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections
 })
 export class ReflectionPageComponent implements OnInit {
 
-  isLoading: boolean | undefined;
+  isLoading = true;
   today = new Date();
   date = '';
   title = '';
   content1 = '';
   footer = '';
   content2 = '';
+  reflectionFailure = false;
+
+  constructor(private appService: AppService) {}
 
   ngOnInit(): void {
     window.scroll(0,0);
     const dateString = this.today.getMonth().toString() + '/' + this.today.getDate().toString();
-    this.getDailyReflection(dateString);
+    this.getDailyReflection('0/1');
   }
 
   /**
@@ -46,6 +50,21 @@ export class ReflectionPageComponent implements OnInit {
       this.isLoading = false;
       console.log('All done!');
     });
+    this.reflectionFailure = (this.date === '' && this.title === '' && this.content1 === '' && this.footer === '' && this.content2 === '');
+    if (this.reflectionFailure) {
+      this.isLoading = false;
+      this.goHome()
+    }
+  }
+
+  /**
+   * Go to main landing page
+   */
+  goHome() {
+    this.appService.appPage = 'home';
+    if (this.reflectionFailure) {
+      this.appService.reflectionFailure = true;
+    }
   }
 
 }
