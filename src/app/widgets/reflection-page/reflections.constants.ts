@@ -915,304 +915,614 @@ export class ReflectionConstants {
       date: "3/1",
       reflection: {
         day: "APRIL 1",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "LOOKING WITHIN",
+        content1: "Made a searching and fearless moral inventory of ourselves.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 42",
+        content2: "Step Four is the vigorous and painstaking effort to discover what the liabilities in each of us have been, and are. I want to find exactly how, when, and where my natural desires have warped me. I wish to look squarely at the unhappiness this has caused others and myself. By discovering what my emotional deformities are, I can move toward their correction. Without a willing and persistent effort to do this, there can be little sobriety or contentment for me.<br><br>To resolve ambivalent feelings, I need to feel a strong and helpful sense of myself. Such an awareness doesn't happen overnight, and no one's self-awareness is permanent. Everyone has the capacity for growth, and for self-awareness, through an honest encounter with reality. When I don't avoid issues but meet them directly, always trying to resolve them, they become fewer and fewer."
       }
     },
     {
       date: "3/2",
       reflection: {
         day: "APRIL 2",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "CHARACTER BUILDING",
+        content1: "Demands made upon other people for too much attention, protection, and love can only invite domination or revulsion. . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 44",
+        content2: "When I uncovered my need for approval in the Fourth Step, I didn't think it should rank as a character defect. I wanted to think of it more as an asset (that is, the desire to please people). It was quickly pointed out to me that this \"need\" can be very crippling. Today I still enjoy getting the approval of others, but I am not willing to pay the price I used to pay to get it. I will not bend myself into a pretzel to get others to like me. If I get your approval, that's fine; but if I don't, I will survive without it. I am responsible for speaking what I perceive to be the truth, not what I think others may want to hear.<br><br>Similarly, my false pride always kept me overly concerned about my reputation. Since being enlightened in the A.A. program, my aim is to improve my character."
       }
     },
     {
       date: "3/3",
       reflection: {
         day: "APRIL 3",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "ACCEPTING OUR HUMANNESS",
+        content1: "We finally saw that the inventory should be ours, not the other man's So we admitted our wrongs honestly and became willing to set these matters straight.",
+        footer: "AS BILL SEES IT, p. 222",
+        content2: "Why is it that the alcoholic is so unwilling to accept responsibility? I used to drink because of the things that other people did to me. Once I came to A.A. I was told to look at where I had been wrong. What did I have to do with all these different matters? When I simply accepted that I had a part in them, I was able to put it on paper and see it for what it was — humanness. I am not expected to be perfect! I have made errors before and I will make them again. To be honest about them allows me to accept them — and myself — and those with whom I had the differences; from there, recovery is just a short distance ahead."
       }
     },
     {
       date: "3/4",
       reflection: {
         day: "APRIL 4",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "CRYING FOR THE MOON",
+        content1: "\"This very real feeling of inferiority is magnified by his childish sensitivity and it is this state of affairs which generates in him that insatiable, abnormal craving for self- approval and success in the eyes of the world. Still a child, he cries for the moon. And the moon, it seems, won't have him!\"",
+        footer: "LANGUAGE OF THE HEART, p. 102",
+        content2: "While drinking I seemed to vacillate between feeling totally invisible and believing I was the center of the universe. Searching for that elusive balance between the two has become a major part of my recovery. The moon I constantly cried for is, in sobriety, rarely full; it shows me instead its many other phases, and there are lessons in them all. True learning has often followed an eclipse, a time of darkness, but with each cycle of my recovery, the light grows stronger and my vision is clearer."
       }
     },
     {
       date: "3/5",
       reflection: {
         day: "APRIL 5",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "TRUE BROTHERHOOD",
+        content1: "We have not once sought to be one in a family, to be a friend among friends, to be a worker among workers, to be a useful member of society. Always we tried to struggle to the top of the heap, or to hide underneath it This self-centered behavior blocked a partnership relation with any one of those about us. Of true brotherhood we had small comprehension.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 53",
+        content2: "This message contained in Step Four was the first one I heard loud and clear; I hadn't seen myself in print before! Prior to my coining into A.A., I knew of no place that could teach me how to become a person among persons. From my very first meeting, I saw people doing just that and I wanted what they had. One of the reasons that I'm a happy, sober alcoholic today is that I'm learning this most important lesson."
       }
     },
     {
       date: "3/6",
       reflection: {
         day: "APRIL 6",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "A LIFETIME PROCESS",
+        content1: "We were having trouble with personal relationships, we couldn't control our emotional natures, we were a prey to misery and depression, we couldn't make a living, we had a feeling of uselessness, we wer e full of fear, we were unhappy, we couldn't seem to be of real help to other people. . . .",
+        footer: "ALCOHOLICS ANONYMOUS, p. 52",
+        content2: "These words remind me that I have more problems than alcohol, that alcohol is only a symptom of a more pervasive disease. When I stopped drinking I began a lifetime process of recovery from unruly emotions, painful relationships, and unmanageable situations. This process is too much for most of us without help from a Higher Power and our friends in the Fellowship. When I began working the Steps of the A.A. program, many of these tangled threads unraveled but, little by little, the most broken places of my life straightened out. One day at a time, almost imperceptibly, I healed. Like a thermostat being turned down, my fears diminished. I began to experience moments of contentment. My emotions became less volatile. I am now once again a part of the human family."
       }
     },
     {
       date: "3/7",
       reflection: {
         day: "APRIL 7",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "A WIDE ARC OF GRATITUDE",
+        content1: "And, speaking for Dr. Bob and myself, I gratefully declare that had it not been for our wives, Anne and Lois, neither of us could have lived to see A.A.'s beginning.",
+        footer: "THE A.A. WAY OF LIFE, p. 67",
+        content2: "Am I capable of such generous tribute and gratitude to my wife, parents and friends, without whose support I might never have survived to reach A.A.'s doors? I will work on this and try to see the plan my Higher Power is showing me which links our lives together."
       }
     },
     {
       date: "3/8",
       reflection: {
         day: "APRIL 8",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "AN INSIDE LOOK",
+        content1: "We want to find exactly how, when, and where our natural desires have warped us We wish to look squarely at the unhappiness this has caused others and ourselves By discovering what our emotional deformities are, we can move toward their correction.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 43",
+        content2: "Today I am no longer a slave to alcohol, yet in so many ways enslavement still threatens — my self, my desires, even my dreams. Yet without dreams I cannot exist; without dreams there is nothing to keep me moving forward.<br><br>I must look inside myself, to free myself. I must call upon God's power to face the person I've feared the most, the true me, the person God created me to be. Unless I can or until I do, I will always be running, and never be truly free. I ask God daily to show me such a freedom!"
       }
     },
     {
       date: "3/9",
       reflection: {
         day: "APRIL 9",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "FREEDOM FROM \"KING ALCOHOL\"",
+        content1: ". . . let us not suppose even for an instant that we are not under constraint. . . . Our former tyrant, King Alcohol, always stands ready again to clutch us to him Therefore, freedom from alcohol is the great \"must\" that has to be achieved, else we go mad or die.",
+        footer: "AS BILL SEES IT, p. 134",
+        content2: "When drinking, I lived in spiritual, emotional, and sometimes, physical confinement. I had constructed my prison with bars of self-will and self-indulgence, from which I could not escape. Occasional dry spells that seemed to promise freedom would turn out to be little more than hopes of a reprieve. True escape required a willingness to follow whatever right actions were needed to turn the lock. With that willingness and action, both the lock and the bars themselves opened for me. Continued willingness and action keep me free — in a kind of extended daily probation — that need never end."
       }
     },
     {
       date: "3/10",
       reflection: {
         day: "APRIL 10",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "GROWING UP",
+        content1: "The essence of all growth is a willingness to change for the better and then an unremitting willingness to shoulder whatever responsibility this entails.",
+        footer: "AS BILL SEES IT, p. 115",
+        content2: "Sometimes when I've become willing to do what I should have been doing all along, I want praise and recognition. I don't realize that the more I'm willing to act differently, the more exciting my life is. The more I am willing to help others, the more rewards I receive. That's what practicing the principles means to me. Fun and benefits for me are in the willingness to do the actions, not to get immediate results. Being a little kinder, a little slower to anger, a little more loving makes my life better — day by day."
       }
     },
     {
       date: "3/11",
       reflection: {
         day: "APRIL 11",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "A WORD TO DROP: \"BLAME\"",
+        content1: "To see how erratic emotions victimized us often took a long time. We could perceive them quickly in others, but only slowly in ourselves First of all, we had to admit that we had many of these defects, even though such disclosures were painful and humiliating. Where other people were concerned, we had to drop the word \"blame\" from our speech and thought.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 47",
+        content2: "When I did my Fourth Step, following the Big Book guidelines, I noticed that my grudge list was filled with my prejudices and my blaming others for my not being able to succeed and to live up to my potential. I also discovered I felt different because I was black. As I continued to work on the Step, I learned that I always had drunk to rid myself of those feelings. It was only when I sobered up and worked on my inventory, that I could no longer blame anyone."
       }
     },
     {
       date: "3/12",
       reflection: {
         day: "APRIL 12",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "GIVING UP INSANITY",
+        content1: ". . . where alcohol has been involved, we have been strangely insane.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 38",
+        content2: "Alcoholism required me to drink, whether I wanted to or not. Insanity dominated my life and was the essence of my disease. It robbed me of the freedom of choice over drinking and, therefore, robbed me of all other choices. When I drank, I was unable to make effective choices in any part of my life and life became unmanageable.<br><br>I ask God to help me understand and accept the full meaning of the disease of alcoholism."
       }
     },
     {
       date: "3/13",
       reflection: {
         day: "APRIL 13",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "THE FALSE COMFORT OF SELF-PITY",
+        content1: "Self-pity is one of the most unhappy and consuming defects that we know. It is a bar to all spiritual progress and can cut off all effective communication with our fellows because of its inordinate demands for attention and sympathy. It is a maudlin form of martyrdom, which we can ill afford.",
+        footer: "AS BILL SEES IT, p. 238",
+        content2: "The false comfort of self-pity screens me from reality only momentarily and then demands, like a drug, that I take an ever bigger dose. If I succumb to this it could lead to a relapse into drinking. What can I do? One certain antidote is to turn my attention, however slightly at first, toward others who are genuinely less fortunate than I, preferably other alcoholics. In the same degree that I actively demonstrate my empathy with them, I will lessen my own exaggerated suffering."
       }
     },
     {
       date: "3/14",
       reflection: {
         day: "APRIL 14",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "THE \"NUMBER ONE OFFENDER\"",
+        content1: "Resentment is the \"number one\" offender. It destroys more alcoholics than anything else. From it stem all forms of spiritual disease, for we have been not only mentally and physically ill, we have been spiritually sick.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 64",
+        content2: "As I look at myself practicing the Fourth Step, it is easy to gloss over the wrong that I have done, because I can easily see it as a question of \"getting even\" for a wrong done to me. If I continue to relive my old hurt, it is a resentment and resentment bars the sunlight from my soul. If I continue o relive hurts and hates, I will hurt and hate myself. After years in the dark of resentments, I have bund the sunlight. I must let go of resentments; I cannot afford them."
       }
     },
     {
       date: "3/15",
       reflection: {
         day: "APRIL 15",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "THE BONDAGE OF RESENTMENTS",
+        content1: ". . . harboring resentment is infinitely grave. For then we shut ourselves off from the sunlight of the spirit.",
+        footer: "AS BILL SEES IT, p. 5",
+        content2: "It has been said, \"Anger is a luxury I cannot afford.\" Does this suggest I ignore this human emotion? I believe not. Before I learned of the A.A. program, I was a slave to the behavior patterns of alcoholism. I was chained to negativity, with no hope of cutting loose.<br><br>The Steps offered me an alternative. Step Four was the beginning of the end of my bondage. The process of \"letting go\" started with an inventory. I needed not be frightened, for the previous Steps assured me I was not alone. My Higher Power led me to this door and gave me the gift of choice. Today I can choose to open the door to freedom and rejoice in the sunlight of the Steps, as they cleanse the spirit within me."
       }
     },
     {
       date: "3/16",
       reflection: {
         day: "APRIL 16",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "ANGER: A \"DUBIOUS LUXURY\"",
+        content1: "If we were to live, we had to be free of anger. The grouch and the brainstorm were not for us. They may be the dubious luxury of the normal men, but for alcoholics these things are poison.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 66",
+        content2: "\"Dubious luxury.\" How often have I remembered those words. It's not just anger that's best left to nonalcoholics; I built a list including justifiable resentment, self-pity, judgmentalism, self-righteousness, false pride and false humility. I'm always surprised to read the actual quote. So well have the principles of the program been drummed into me that I keep thinking all of these defects are listed too. Thank God I can't afford them — or I surely would indulge in them."
       }
     },
     {
       date: "3/17",
       reflection: {
         day: "APRIL 17",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "LOVE AND FEAR AS OPPOSITES",
+        content1: "All these failings generate fear, a soul-sickness in its own right.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 49",
+        content2: "\"Fear knocked at the door; faith answered; no one was there.\" I don't know to whom this quote should be attributed, but it certainly indicates very clearly that fear is an illusion. I create the illusion myself.<br><br>I experienced fear early in my life and I mistakenly thought that the mere presence of it made me a coward. I didn't know that one of the definitions of \"courage\" is \"the willingness to do the right thing in spite of fear.\" Courage, then, is not necessarily the absence of fear.<br><br>During the times I didn't have love in my life I most assuredly had fear. To fear God is to be afraid of joy. In looking back, I realize that, during the times I feared God most, there was no joy in my life. As I learned not to fear God, I also learned to experience joy."
       }
     },
     {
       date: "3/18",
       reflection: {
         day: "APRIL 18",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "SELF-HONESTY",
+        content1: "The deception of others is nearly always rooted in the deception of ourselves. . . . When we are honest with another person, it confirms that we have been honest with ourselves and with God.",
+        footer: "AS BILL SEES IT, p. 17",
+        content2: "When I was drinking, I deceived myself about reality, rewriting it to what I wanted it to be. Deceiving others is a character defect — even if it is just stretching the truth a bit or cleaning up my motives so others would think well of me. My Higher Power can remove this character defect, but first I have to help myself become willing to receive that help by not practicing deception. I need to remember each day that deceiving myself about myself is setting myself up for failure or disappointment in life and in Alcoholics Anonymous. A close, <i>honest</i> relationship with a Higher Power is the only solid foundation I've found for honesty with self and with others."
       }
     },
     {
       date: "3/19",
       reflection: {
         day: "APRIL 19",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "BROTHERS IN OUR DEFECTS",
+        content1: "We recovered alcoholics are not so much brothers in virtue as we are brothers in our defects, and in our common strivings to overcome them.",
+        footer: "AS BILL SEES IT, p. 167",
+        content2: "The identification that one alcoholic has with another is mysterious, spiritual — almost incomprehensible. But it is there. I \"feel\" it. Today I feel that I can help people and that they can help me.<br><br>It is a new and exciting feeling for me to care for someone; to care what they are feeling, hoping for, praying for; to know their sadness, joy, horror, sorrow, grief; to want to share those feelings so that someone can have relief. I never knew how to do this — or how to try. I never even cared. The Fellowship of A.A., and God, are teaching me how to care about others."
       }
     },
     {
       date: "3/20",
       reflection: {
         day: "APRIL 20",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "SELF-EXAMINATION",
+        content1: ". . . we ask God to direct our thinking, especially asking that it be divorced from self-pity, dishonest or self-seeking motives.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 86",
+        content2: "When said sincerely, this prayer teaches me to be truly unselfish and humble, for even in doing good deeds I often used to seek approval and glory for myself. By examining my motives in all that I do, I can be of service to God and others, helping them do what they want to do. When I put God in charge of my thinking, much needless worry is eliminated and I believe He guides me throughout the day. When I eliminate thoughts of self-pity, dishonesty and self-centeredness as soon as they enter my mind, I find peace with God, my neighbor and myself."
       }
     },
     {
       date: "3/21",
       reflection: {
         day: "APRIL 21",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "CULTIVATING FAITH",
+        content1: "\"I don't think we can do anything very well in this world unless we practice it And I don't believe we do A.A. too well unless we practice it. . . . We should practice . . . acquiring the spirit of service. Weshould attempt to acquire some faith, which isn't easily done, especially for the person who has always been very materialistic, following the standards of society today. But I think faith can be acquired; it can be acquired slowly; it has to be cultivated. That was not easy for me, and I assume that it is difficult for everyone else. ...\"",
+        footer: "DR. BOB AND THE GOOD OLDTIMERS, pp. 307-08",
+        content2: "Fear is often the force that prevents me from acquiring and cultivating the power of faith. Fear blocks my appreciation of beauty, tolerance, forgiveness, service, and serenity."
       }
     },
     {
       date: "3/22",
       reflection: {
         day: "APRIL 22",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "NEW SOIL . . . NEW ROOTS",
+        content1: "Moments of perception can build into a lifetime of spiritual serenity, as I have excellent reason to know, loots of reality, supplanting the neurotic underbrush, will hold fast despite the high winds of the forces which would destroy us, or which we would use to destroy ourselves.",
+        footer: "AS BILL SEES IT, p. 173",
+        content2: "I came to A.A. green — a seedling quivering with exposed taproots. It was for survival but it was a beginning. I stretched, developed, twisted, but with he help of others, my spirit eventually burst up from the roots. I was free. I acted, withered, went inside, prayed, acted again, understood anew, as one moment of perception struck. Up from my roots, spirit-arms lengthened into strong, green .hoots: high-springing servants stepping skyward.<br><br>Here on earth God unconditionally continues the legacy of higher love. My A.A. life put me \"on a different footing . . . [my] roots grasped a new soil\" (<i>Alcoholics Anonymous, p. 12</i>)."
       }
     },
     {
       date: "3/23",
       reflection: {
         day: "APRIL 23",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "A.A. IS NOT A CURE-ALL",
+        content1: "It would be a product of false pride to claim that A. A. is a cure-all, even for alcoholism.",
+        footer: "AS BILL SEES IT, p. 285",
+        content2: "In my early years of sobriety I was full of pride, thinking that A. A. was the only source of treatment for a good and happy life. It certainly was the basic ingredient for my sobriety and even today, with over twelve years in the program, I am very involved in meetings, sponsorship and service. During the first four years of my recovery, I found it necessary to seek professional help, since my emotional health was extremely poor. There are those folks too, who have found sobriety and happiness in other organizations. A.A. taught me that I had a choice: to go to any lengths to enhance my sobriety. A.A. may not be a cure-all for everything, but it is the center of my sober living."
       }
     },
     {
       date: "3/24",
       reflection: {
         day: "APRIL 24",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "LEARNING TO LOVE OURSELVES",
+        content1: "Alcoholism was a lonely business, even though we were surrounded by people who loved us . . . Wewere trying to find emotional security either by dominating or by being dependent upon others . . . Westill vainly tried to be secure by some unhealthy sort of domination or dependence.",
+        footer: "AS BILL SEES IT, p. 252",
+        content2: "When I did my personal inventory I found that I had unhealthy relationships with most people in my life — my friends and family, for example. I always felt isolated and lonely. I drank to dull emotional pain.<br><br>It was through staying sober, having a good sponsor and working the Twelve Steps that I was able to build up my low self-esteem. First the Twelve Steps taught me to become my own best friend, and then, when I was able to love myself, I could reach out and love others."
       }
     },
     {
       date: "3/25",
       reflection: {
         day: "APRIL 25",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "ENTERING A NEW DIMENSION",
+        content1: "In the late stages of our drinking the will to resist has fled. Yet when we admit complete defeat and when we become entirely ready to try A. A. principles, our obsession leaves us and we enter a new dimension — freedom under God as we understand Him.",
+        footer: "AS BILL SEES IT, p. 283",
+        content2: "I am fortunate to be among the ones who have had this awesome transformation in my life. When I entered the doors of A.A., alone and desperate, I had been beaten into willingness to believe anything I heard. One of the things I heard was, \"This <i>could</i> be your last hangover, or you can keep going round and round.\" The man who said this obviously was a whole lot better off than 1.1 liked the idea of admitting defeat and I have been free ever since! My heart heard what my mind never could: \"Being powerless over alcohol is no big deal.\" I'm free and I'm grateful!"
       }
     },
     {
       date: "3/26",
       reflection: {
         day: "APRIL 26",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "HAPPINESS IS NOT THE POINT",
+        content1: "/ don't think happiness or unhappiness is the point. How do we meet the problems we face? How do we best learn from them and transmit what we have learned to others, if they would receive the knowledge?",
+        footer: "AS BILL SEES IT, p. 306",
+        content2: "In my search \"to be happy,\" I changed jobs, married and divorced, took geographical cures, and ran myself into debt—financially, emotionally and spiritually. In A.A., I'm learning to grow up. Instead of demanding that people, places and things make me happy, I can ask God for self- acceptance. When a problem overwhelms me, A.A.'s Twelve Steps will help me grow through the pain. The knowledge I gain can be a gift to others who suffer with the same problem. As Bill said, \"When pain comes, we are expected to learn from it willingly, and help others to learn. When happiness comes, we accept it as a gift, and thank God for it.\" (<i>As Bill Sees It,</i> p. 306)"
       }
     },
     {
       date: "3/27",
       reflection: {
         day: "APRIL 27",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "JOYFUL DISCOVERIES",
+        content1: "We realize we know only a little. God will constantly disclose more to you and to us. Ask Him in your morning meditation what you can do each day for the man who is still sick. The answers will come, if your own house is in order. But obviously you cannot transmit something you haven't got. See to it that your relationship with Him is right, and great events will come to pass for you and countless others. This is the Great Fact for us.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 164",
+        content2: "Sobriety is a journey of joyful discovery. Each day brings new experience, awareness, greater hope, deeper faith, broader tolerance. I must maintain these attributes or I will have nothing to pass on.<br><br>Great events for this recovering alcoholic are the normal everyday joys found in being able to live another day in God's grace."
       }
     },
     {
       date: "3/28",
       reflection: {
         day: "APRIL 28",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "TWO \"MAGNIFICENT STANDARDS\"",
+        content1: "All A.A. progress can be reckoned in terms of just two words: humility and responsibility. Our whole spiritual development can be accurately measured by our degree of adherence to these magnificent standards.",
+        footer: "AS BILL SEES IT, p. 271",
+        content2: "To acknowledge and respect the views, accomplishments and prerogatives of others and to accept being wrong shows me the way of <i>humility</i>. To practice the principles of A.A. in all my affairs guides me to be <i>responsible</i>. Honoring these precepts gives credence to Tradition Four — and to all other Traditions of the Fellowship. Alcoholics Anonymous has evolved a philosophy of life full of valid motivations, rich in highly relevant principles and ethical values, a view of life which can be extended beyond the confines of the alcoholic population. To honor these precepts I need only to pray, and care for my fellow man as if each one were my brother."
       }
     },
     {
       date: "3/29",
       reflection: {
         day: "APRIL 29",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "GROUP AUTONOMY",
+        content1: "Some may think that we have carried the principle of group autonomy to extremes. For example, in its original \"long form,\" Tradition Four declares: \"Any two or three gathered together for sobriety may call themselves an A.A. group, provided that as a group they have no other affiliation. \"* . . . But this ultra-liberty is not so risky as it looks.",
+        footer: "A.A. COMES OF AGE PP 104-05",
+        content2: "As an active alcoholic, I abused every liberty that life afforded. How could A.A. expect me to respect the \"ultra-liberty\" bestowed by Tradition Four? Learning respect has become a lifetime job.<br><br>A.A. has made me fully accept the necessity of discipline and that, if I do not assert it from within, then I will pay for it. This applies to groups too. Tradition Four points me in a spiritual direction, in spite of my alcoholic inclinations.<br><br><br>* This is a misquote; Bill quoted the Third Tradition, but was referring to Tradition Four."
       }
     },
     {
       date: "3/30",
       reflection: {
         day: "APRIL 30",
-        title: "r3",
-        content1: "r4",
-        footer: "r5",
-        content2: "r6"
+        title: "A GREAT PARADOX",
+        content1: "These legacies of suffering and of recovery are easily passed among alcoholics, one to the other. This is our gift from God, and its bestowal upon others like us is the one aim that today animates A.A.'s all around the globe.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
+        content2: "The great paradox of A.A. is that I know I cannot keep the precious gift of sobriety unless I give it away.<br><br>My primary purpose is to stay sober. In A.A. I have no other goal, and the importance of this is a matter of life or death for me. If I veer from this purpose I lose. But A.A. is not only for me; it is for the alcoholic who still suffers. The legions of recovering alcoholics stay sober by sharing with fellow alcoholics. The way to my recovery is to show others in A.A. that when I share with them, we both grow in the grace of the Higher Power, and both of us are on the road to a happy destiny."
       }
     },
     {
-      date: "May",
+      date: "4/1",
+      reflection: {
+        day: "MAY 1",
+        title: "HEALING HEART AND MIND",
+        content1: "Admitted to God, to ourselves, and to another human being the exact nature of our wrongs.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 55",
+        content2: "Since it is true that God comes to me through people, I can see that by keeping people at a distance I also keep God at a distance. God is nearer to me than I think and I can experience Him by loving people and allowing people to love me. But I can neither love nor be loved if I allow my secrets to get in the way.<br><br>It's the side of myself that I refuse to look at that rules me. I must be willing to look at the dark side in order to heal my mind and heart because that is the road to freedom. I must walk into darkness to find the light and walk into fear to find peace.<br><br>By revealing my secrets — and thereby ridding myself of guilt — I can actually change my thinking; by altering my thinking, I can change myself. My thoughts create my future. What I will be tomorrow is determined by what I think today."
+      }
+    },
+    {
+      date: "4/2",
+      reflection: {
+        day: "MAY 2",
+        title: "LIGHTING THE DARK PAST",
+        content1: "Cling to the thought that, in God's hands, the dark past is the greatest possession you have — the key to life and happiness for others. With it you can avert death and misery for them.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 124",
+        content2: "No longer is my past an autobiography; it is a reference book to be taken down, opened and shared. Today as I report for duty, the most wonderful picture comes through. For, though this day be dark — as some days must be — the stars will shine even brighter later. My witness that they do shine will be called for in the very near future. All my past will this day be a part of me, because it is the key, not the lock."
+      }
+    },
+    {
+      date: "4/3",
+      reflection: {
+        day: "MAY 3",
+        title: "CLEANING HOUSE",
+        content1: "Somehow, being alone with God doesn't seem as em- barrassing as facing up to another person. Until we actually sit down and talk aloud about what we have so long hidden, our willingness to clean house is still largely theoretical.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 60",
+        content2: "It wasn't unusual for me to talk to God, and myself, about my character defects. But to sit down, face to face, and openly discuss these intimacies with another person was much more difficult. I recognized in the experience, however, a similar relief to the one I had experienced when I first admitted I was an alcoholic. I began to appreciate the spiritual significance of the program and that this Step was just an introduction to what was yet to come in the remaining seven Steps."
+      }
+    },
+    {
+      date: "4/4",
+      reflection: {
+        day: "MAY 4",
+        title: "\"ENTIRELY HONEST\"",
+        content1: "We must be entirely honest with somebody if we expect to live long or happily in this world.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 73-74",
+        content2: "Honesty, like all virtues, is to be shared. It began after I shared \". . . [my] whole life's story with someone . . . \" in order to find my place in the Fellowship. Later I shared my life in order to help the newcomer find his place with us. This sharing helps me to learn honesty in all my dealings and to know that God's plan for me comes true through honest openness and willingness."
+      }
+    },
+    {
+      date: "4/5",
+      reflection: {
+        day: "MAY 5",
+        title: "THE FOREST AND THE TREES",
+        content1: ". . . what comes to us alone may be garbled by our own rationalization and wishful thinking. The benefit of talking to another person is that we can get his direct comment and counsel on our situation. . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 60",
+        content2: "I cannot count the times when I have been angry and frustrated and said to myself, \"I can't see the forest for the trees!\" I finally realized that what I needed when I was in such pain was someone who could guide me in separating the forest and the trees; who could suggest a better path to follow; who could assist me in putting out fires; and help me avoid the rocks and pitfalls.<br><br>I ask God, when I'm in the forest, to give me the courage to call upon a member of A.A."
+      }
+    },
+    {
+      date: "4/6",
+      reflection: {
+        day: "MAY 6",
+        title: "\"HOLD BACK NOTHING\"",
+        content1: "The real tests of the situation are your own willingness to confide and your full confidence in the one with whom you share your first accurate self-survey. . . . Provided you hold back nothing, your sense of relief will mount from minute to minute. The dammed-up emotions of years break out of their confinement, and miraculously vanish as soon as they are exposed. As the pain subsides, a healing tranquility takes its place.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 61-62",
+        content2: "A tiny kernel of locked-in feelings began to unfold when I first attended A.A. meetings and self-knowledge then became a learning task for me. This new self-understanding brought about a change in my responses to life's situations. I realized I had the right to make choices in my life, and the inner dictatorship of habits slowly lost its grip.<br><br>I believe that if I seek God I can find a better way to live and I ask Him daily to assist me in living a sober life."
+      }
+    },
+    {
+      date: "4/7",
+      reflection: {
+        day: "MAY 7",
+        title: "RESPECT FOR OTHERS",
+        content1: "Such parts of our story we tell to someone who will understand, yet be unaffected. The rule is we must be hard on ourself, but always considerate of others.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 74",
+        content2: "Respect for others is the lesson that I take out of this passage. I must go to any lengths to free myself if I wish to find that peace of mind that I have sought for so long. However, none of this must be done at another's expense. Selfishness has no place in the A.A. way of life.<br><br>When I take the Fifth Step it's wiser to choose a person with whom I share common aims because if that person does not understand me, my spiritual progress may be delayed and I could be in danger of a relapse. So I ask for divine guidance before choosing the man or woman whom I take into my confidence."
+      }
+    },
+    {
+      date: "4/8",
+      reflection: {
+        day: "MAY 8",
+        title: "A RESTING PLACE",
+        content1: "All of A.A. 's Twelve Steps ask us to go contrary to our natural desires . . . they all deflate our egos. When it comes to ego deflation, few Steps are harder to take than Five. But scarcely any Step is more necessary to longtime sobriety and peace of mind than this one.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 55",
+        content2: "After writing down my character defects, I was unwilling to talk about them, and decided it was time to stop carrying this burden alone. I needed to confess those defects to someone else. I had read — and been told — I could not stay sober unless I did. Step Five provided me with a feeling of belonging, with humility and serenity when I practiced it in my daily living. It was important to admit my defects of character in the order presented in Step Five: \"to God, to ourselves and to another human being.\" Admitting to God first paved the way for admission to myself and to another person. As the taking of the Step is described, a feeling of being at one with God and my fellow man brought me to a resting place where I could prepare myself for the remaining Steps toward a full and meaningful sobriety."
+      }
+    },
+    {
+      date: "4/9",
+      reflection: {
+        day: "MAY 9",
+        title: "WALKING THROUGH FEAR",
+        content1: "If we still cling to something we will not let go, we ask God to help us be willing.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 76",
+        content2: "When I had taken my Fifth Step, I became aware that all my defects of character stemmed from my need to feel secure and loved. To use <i>my</i> will alone to work on them would have been trying obsessively to solve the problem. In the Sixth Step I intensified the action I had taken in the first three Steps — meditating on the Step by saying it over and over, going to meetings, following my sponsor's suggestions, reading and searching within myself. During the first three years of sobriety I had a fear of entering an elevator alone. One day I decided I must walk through this fear. I asked for God's help, entered the elevator, and there in the corner was a lady crying. She said that since her husband had died she was deathly afraid of elevators. I forgot my fear and comforted her. This spiritual experience helped me to see how willingness was the key to working the rest of the Twelve Steps to recovery. God helps those who help themselves."
+      }
+    },
+    {
+      date: "4/10",
+      reflection: {
+        day: "MAY 10",
+        title: "FREE AT LAST",
+        content1: "Another great dividend we may expect from confiding our defects to another human being is humility —a word often misunderstood. . . . it amounts to a clear recognition of what and who we really are, followed by a sincere attempt to become what we could be.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 58",
+        content2: "I knew deep inside that if I were ever to be joyous, happy and free, I had to share my past life with some other individual. The joy and relief I experienced after doing so were beyond description. Almost immediately after taking the Fifth Step, I felt free from the bondage of self and the bondage of alcohol. That freedom remains after 36 years, a day at a time. I found that God could do for me what I couldn't do for myself."
+      }
+    },
+    {
+      date: "4/11",
+      reflection: {
+        day: "MAY 11",
+        title: "A NEW SENSE OF BELONGING",
+        content1: "Until we had talked with complete candor of our conflicts, and had listened to someone else do the same thing, we still didn't belong.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 57",
+        content2: "After four years in A.A. I was able to discover the freedom from the burden of buried emotions that had caused me so much pain. With the help of A.A., and extra counseling, the pain was released and I felt a complete sense of belonging and peace. I also felt a joy and a love of God that I had never experienced before. I am in awe of the power of Step Five."
+      }
+    },
+    {
+      date: "4/12",
+      reflection: {
+        day: "MAY 12",
+        title: "THE PAST IS OVER",
+        content1: "A.A. experience has taught us we cannot live alone with our pressing problems and the character defects which cause or aggravate them. If. . . Step Four . . . has revealed in stark relief those experiences we'd rather not remember . . . then the need to quit living by ourselves with those tormenting ghosts of yesterday gets more urgent than ever. We have to talk to somebody about them.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 55",
+        content2: "Whatever is done is over. It cannot be changed. But my attitude about it can be changed through talking with those who have gone before and with sponsors. I can wish the past never was, but if I change my actions in regard to what I have done, my attitude will change. I won't have to wish the past away. I can change my feelings and attitudes, but only through my actions and the help of my fellow alcoholics."
+      }
+    },
+    {
+      date: "4/13",
+      reflection: {
+        day: "MAY 13",
+        title: "THE EASIER, SOFTER WAY",
+        content1: "If we skip this vital step, we may not overcome drinking.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 72",
+        content2: "I certainly didn't leap at the opportunity to face who I was, especially when the pains of my drinking days hung over me like a dark cloud. But I soon heard at the meetings about the fellow member who just didn't want to take Step Five and kept coming back to meetings, trembling from the horrors of reliving his past. <i>The easier, softer way</i> is to take these Steps to freedom from our fatal disease, and to put our faith in the Fellowship and our Higher Power."
+      }
+    },
+    {
+      date: "4/14",
+      reflection: {
+        day: "MAY 14",
+        title: "IT'S OKAY TO BE ME",
+        content1: "Time after time newcomers have tried to keep to themselves certain facts about their lives. . . . they have turned to easier methods. . . . But they had not learned enough humility. . . .",
+        footer: "ALCOHOLICS ANONYMOUS, pp. 72-73",
+        content2: "Humility sounds so much like humiliation, but it really is the ability to look at myself — and honestly accept what I find. I no longer need to be the \"smartest\" or \"dumbest\" or any other \"est.\" Finally, it is okay to be me. It is easier for me to accept myself if I share my whole life. If I cannot share in meetings, then I had better have a sponsor — someone with whom I can share those \"certain facts\" that could lead me back to a drunk, to death. I need to take all the Steps. I need the Fifth Step to learn true humility. Easier methods do not work."
+      }
+    },
+    {
+      date: "4/15",
+      reflection: {
+        day: "MAY 15",
+        title: "KNOW GOD; KNOW PEACE",
+        content1: "It is plain that a life which includes deep resentment leads only to futility and unhappiness. . . . But with the alcoholic, whose hope is the maintenance and growth of a spiritual experience, this business of resentment is infinitely grave.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 66",
+        content2: "Know God;<br>Know peace.<br>No God; No<br>peace."
+      }
+    },
+    {
+      date: "4/16",
+      reflection: {
+        day: "MAY 16",
+        title: "WE FORGIVE . . .",
+        content1: "Often it was while working on this Step with our sponsors or spiritual advisers that we first felt truly able to forgive others, no matter how deeply we felt hey had wronged us. Our moral inventory had persuaded us that all-round forgiveness was desirable, but it was only when we resolutely tackled Step Five hat we inwardly knew we'd be able to receive forgiveness and give it, too.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 58",
+        content2: "What a great feeling forgiveness is! What a revelation about my emotional, psychological and spiritual nature. All it takes is willingness to forgive; God will do the rest."
+      }
+    },
+    {
+      date: "4/17",
+      reflection: {
+        day: "MAY 17",
+        title: ". . . AND FORGIVE",
+        content1: "Under very trying conditions I have had, again and again, to forgive others — also myself.",
+        footer: "AS BILL SEES IT, p. 268",
+        content2: "Forgiveness of self and forgiveness of others are just two currents in the same river, both hindered or shut off completely by the dam of resentment. Once that dam is lifted, both currents can flow. The Steps of A.A. allow me to see how resentment has built up and subsequently blocked off this flow in my life. The Steps provide a way by which my resentments may — by the grace of God as I understand Him — be lifted. It is as a result of this solution that I can find the necessary grace which enables me to for - give myself and others."
+      }
+    },
+    {
+      date: "4/18",
+      reflection: {
+        day: "MAY 18",
+        title: "FREEDOM TO BE ME",
+        content1: "If we are painstaking about this phase of our development, we will be amazed before we are half way through. We are going to know a new freedom and a new happiness.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 83",
+        content2: "My first true freedom is the freedom not to have to take a drink today. If I truly want it, I will work the Twelve Steps and the happiness of this freedom will come to me through the Steps — sometimes quickly, sometimes slowly. Other freedoms will follow, and inventorying them is a new happiness. I had a new freedom today, the freedom to be me. I have the freedom to be the best me I have ever been."
+      }
+    },
+    {
+      date: "4/19",
+      reflection: {
+        day: "MAY 19",
+        title: "GIVING WITHOUT STRINGS",
+        content1: "And he well knows that his own life has been made richer, as an extra dividend of giving to another without any demand for a return.",
+        footer: "AS BILL SEES IT, p. 69",
+        content2: "The concept of giving without strings was hard to understand when I first came into the program. I was suspicious when others wanted to help me. I thought, \"What do they want in return?\" But I soon learned the joy of helping another alcoholic and I understood why they were there for me in the beginning. My attitudes changed and I wanted to help others. Sometimes I became anxious, as I wanted them to know the joys of sobriety, that life can be beautiful. When my life is full of a loving God of my understanding and I give that love to my fellow alcoholic, I feel a special richness that is hard to explain."
+      }
+    },
+    {
+      date: "4/20",
+      reflection: {
+        day: "MAY 20",
+        title: "ONE DAY AT A TIME",
+        content1: "Above all, take it one day at a time.",
+        footer: "AS BILL SEES IT, p. 11",
+        content2: "Why do I kid myself that I must stay away from a drink for only one day, when I know perfectly well I must never drink again as long as I live? I am not kidding myself because one day at a time is probably the only way I can reach the long-range objective of staying sober.<br><br>If I determine that I shall never drink again as long as I live, I set myself up. How can I be sure I won't drink when I have no idea what the future may hold?<br><br>On a day-at-a-time basis, I am confident I can stay away from a drink for one day. So I set out with confidence. At the end of the day, I have the reward of achievement. Achievement feels good and that makes me want more!"
+      }
+    },
+    {
+      date: "4/21",
+      reflection: {
+        day: "MAY 21",
+        title: "A LIST OF BLESSINGS",
+        content1: "One exercise that I practice is to try for a full inventory of my blessings. . . .",
+        footer: "AS BILL SEES IT, p. 37",
+        content2: "What did I have to be grateful for? I shut myself up and started listing the blessings for which I was in no way responsible, beginning with having been born of sound mind and body. I went through seventy-four years of living right up to the present moment. The list ran to two pages, and took two hours to compile; I included health, family, money, A.A. — the whole gamut.<br><br>Every day in my prayers, I ask God to help me remember my list, and to be grateful for it throughout the day. When I remember my gratitude list, it's very hard to conclude that God is picking on me."
+      }
+    },
+    {
+      date: "4/22",
+      reflection: {
+        day: "MAY 22",
+        title: "STEP ONE",
+        content1: "WE . . . (The first word of the First Step)",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 21",
+        content2: "When I was drinking all I could ever think about was \"I, I, I,\" or \"Me, Me, Me.\" Such painful obsession of self, such soul sickness, such spiritual selfishness bound me to the bottle for more than half my life.<br><br>The journey to find God and to do His will one day at a time began with the first word of the First Step . . . \"We.\" There was power in numbers, there was strength in numbers, there was safety in numbers, and for an alcoholic like me, there was life in numbers. If I had tried to recover alone I probably would have died. With God and another alcoholic I have a divine purpose in my life . . . I have become a channel for God's healing love."
+      }
+    },
+    {
+      date: "4/23",
+      reflection: {
+        day: "MAY 23",
+        title: "SPIRITUAL HEALTH",
+        content1: "When the spiritual malady is overcome, we straighten out mentally and physically.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 64",
+        content2: "It is very difficult for me to come to terms with my spiritual illness because of my great pride, disguised by my material successes and my intellectual power. Intelligence is not incompatible with humility, provided I place humility first. To seek prestige and wealth is the ultimate goal for many in the modern world. To be fashionable and to seem better than I really am is a spiritual illness.<br><br>To recognize and to admit my weaknesses is the beginning of good spiritual health. It is a sign of spiritual health to he able to ask God every day to enlighten me, to recognize His will, and to have the strength to execute it. My spiritual health is excellent when I realize that the better I get, the more I discover how much help I need from others."
+      }
+    },
+    {
+      date: "4/24",
+      reflection: {
+        day: "MAY 24",
+        title: "\"HAPPY, JOYOUS AND FREE\"",
+        content1: "We are sure God wants us to be happy, joyous, and free. We cannot subscribe to the belief that this life is vale of tears, though it once was just that for many f us. But it is clear that we made our own misery, rod didn't do it. Avoid then, the deliberate manufacture of misery, but if trouble comes, cheerfully capitalize it as an opportunity to demonstrate His omnipotence.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 133",
+        content2: "For years I believed in a punishing God and blamed him for my misery. I have learned that I must lay down the \"weapons\" of self in order to pick up the \"tools\" of the A.A. program. I do not struggle with he program because it is a gift and I have never struggled when receiving a gift. If I sometimes keep MI struggling, it is because I'm still hanging onto my old ideas and \" . . . the results are nil.\""
+      }
+    },
+    {
+      date: "4/25",
+      reflection: {
+        day: "MAY 25",
+        title: "PROGRESSIVE GRATITUDE",
+        content1: "Gratitude should go forward, rather than backward.",
+        footer: "AS BILL SEES IT, p. 29",
+        content2: "I am very grateful that my Higher Power has given me a second chance to live a worthwhile life. Through Alcoholics Anonymous, I have been restored to sanity. The promises are being fulfilled in my life. I am grateful to be free from the slavery of alcohol. I am grateful for peace of mind and the opportunity to grow, but my gratitude should go forward rather than backward. I cannot stay sober on yesterday's meetings or past Twelfth-Step calls; I need to put my gratitude into action <i>today</i>. Our co-founder said our gratitude can best be shown by carrying the message to others. Without action, my gratitude is just a pleasant emotion. I need to put it into action by working Step Twelve, by carrying the message and practicing the principles in all my affairs. I am grateful for the chance to carry the message today!"
+      }
+    },
+    {
+      date: "4/26",
+      reflection: {
+        day: "MAY 26",
+        title: "TURNING NEGATIVE TO POSITIVE",
+        content1: "Our spiritual and emotional growth in A.A. does not depend so deeply upon success as it does upon our failures and setbacks. If you will bear this in mind, I think that your slip will have the effect of kicking you upstairs, instead of down.",
+        footer: "AS BILL SEES IT, p. 184",
+        content2: "In keeping with the pain and adversity which our founders encountered and overcame in establishing A.A., Bill W. sent us a clear message: a relapse can provide a positive experience toward abstinence and a lifetime of recovery. A relapse brings truth to what we hear repeatedly in meetings — \"Don't take that first drink!\" It reinforces the belief in the progressive nature of the disease, and it drives home the need for, and beauty of, humility in our spiritual program. Simple truths come in complicated ways to me when I become ego driven."
+      }
+    },
+    {
+      date: "4/27",
+      reflection: {
+        day: "MAY 27",
+        title: "NO MAUDLIN GUILT",
+        content1: "Day by day, we try to move a little toward God's perfection. So we need not be consumed by maudlin guilt. . . .",
+        footer: "AS BILL SEES IT, p. 15",
+        content2: "When I first discovered that there is not a single \"don't\" in the Twelve Steps of A.A., I was disturbed because this discovery swung open a giant portal. Only then was I able to realize what A.A. is for me:<br><br>A.A. is not a program of \"don'ts,\" but of \"do's.\"<br>A.A. is not martial law; it is freedom.<br>A.A. is not tears over defects, but sweat over fixing them.<br>A.A. is not penitence; it is salvation.<br>A.A. is not \"Woe to me\" for my sins, past and present.<br>A.A. is \"Praise God\" for the progress I am making today."
+      }
+    },
+    {
+      date: "4/28",
+      reflection: {
+        day: "MAY 28",
+        title: "EQUAL RIGHTS",
+        content1: "At one time or another most A.A. groups go on rulemaking benders. . . . After a time fear and intolerance subside, [and we realize] We do not wish to deny anyone his chance to recover from alcoholism. We wish to be just as inclusive as we can, never exclusive.",
+        footer: "\"A.A. TRADITION: HOW IT DEVELOPED,\" pp. 10, 11, 12",
+        content2: "A.A. offered me complete freedom and accepted me into the Fellowship for myself. Membership did not depend upon conformity, financial success or education and I am so grateful for that. I often ask myself if I extend the same equality to others or if I deny them the freedom to be different. Today I try to replace my fear and intolerance with faith, patience, love and acceptance. I can bring these strengths to my A.A. group, my home and my office. I make an effort to bring my positive attitude everywhere that I go.<br><br>I have neither the right, nor the responsibility, to judge others. Depending on my attitude I can view newcomers to A.A., family members and friends as menaces or as teachers. When I think of some of my past judgments, it is clear how my self-righteousness caused me spiritual harm."
+      }
+    },
+    {
+      date: "4/29",
+      reflection: {
+        day: "MAY 29",
+        title: "TRUE TOLERANCE",
+        content1: "The only requirement for A.A. membership is a desire to stop drinking.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 139",
+        content2: "I first heard the short form of the Third Tradition in the Preamble. When I came to A.A. I could not accept myself, my alcoholism, or a Higher Power. If there had been any physical, mental, moral, or religious requirements for membership, I would be dead today. Bill W. said in his tape on the Traditions that the Third Tradition is a charter for individual freedom. The most impressive thing to me was the feeling of acceptance from members who were practicing the Third Tradition by tolerating and accepting me. I feel acceptance is love and love is God's will for us."
+      }
+    },
+    {
+      date: "4/30",
+      reflection: {
+        day: "MAY 30",
+        title: "OUR PRIMARY PURPOSE",
+        content1: "The more A.A. sticks to its primary purpose, the greater will be its helpful influence everywhere.",
+        footer: "A.A. COMES OF AGE, p. 109",
+        content2: "It is with gratitude that I reflect on the early days of our Fellowship and those wise and loving \"foresteppers\" who proclaimed that we should not be diverted from our primary purpose, that of carrying the message to the alcoholic who still suffers.<br><br>I desire to impart respect to those who labor in the field of alcoholism, being ever mindful that A.A. endorses no causes other than its own. I must remember that A.A. has no monopoly on miracle-making and I remain humbly grateful to a loving God who made A.A. possible."
+      }
+    },
+    {
+      date: "4/31",
+      reflection: {
+        day: "MAY 31",
+        title: "READINESS TO SERVE OTHERS",
+        content1: ". . . our Society has concluded that it has but one high mission — to carry the A.A. message to those who don't know there's a way out.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
+        content2: "The \"Light\" to freedom shines bright on my fellow alcoholics as each one of us challenges the other to grow. The \"Steps\" to self-improvement have small beginnings, but each Step builds the \"ladder\" out of the pit of despair to new hope. Honesty becomes my \"tool\" to unfurl the \"chains\" which bound me. A sponsor, who is a caring listener, can help me to truly hear the message guiding me to freedom.<br><br>I ask God for the courage to live in such a way that the Fellowship may be a testimony to His favor. This mission frees me to share my gifts of wellness through a spirit of readiness to serve others."
+      }
+    },
+    {
+      date: "Jun",
       reflection: {
         day: "r2",
         title: "r3",
@@ -1220,7 +1530,7 @@ export class ReflectionConstants {
         footer: "r5",
         content2: "r6"
       }
-    },
+    }
   ]
 
 }
