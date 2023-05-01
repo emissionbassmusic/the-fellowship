@@ -1,12 +1,26 @@
 <img *ngIf="isLoading" class="aa-logo" src="the-fellowship/assets/images/AA_logo.png" alt="image" />
-<div *ngIf="!isLoading" class="container">
+<div *ngIf="!isLoading" class="container" id="reflectionContent">
   <p class="r-date">{{date}}</p>
   <h2 class="r-title">{{title}}</h2>
   <h3 [innerHTML]="content1"></h3>
   <p class="r-footer">{{footer}}</p>
   <h3 [innerHTML]="content2"></h3>
 </div>
-<div *ngIf="!isLoading" class="goBack-btn">
-  <button mat-raised-button color="primary" (click)="goHome()">Go Back</button>
+<div *ngIf="!isLoading" class="btn-group">
+  <div class="back-btn">
+    <button mat-raised-button color="primary" (click)="goHome()">Go Back</button>
+  </div>
+  <div class="choose-btn">
+    <button mat-raised-button color="primary" (click)="picker.open()">Choose Date</button>
+  </div>
+</div>
+<div hidden="true">
+  <mat-form-field class="example-full-width" appearance="fill">
+    <mat-label>Choose a date</mat-label>
+    <input matInput [matDatepicker]="picker" [(ngModel)]="dateSelection" (dateInput)="getDailyReflection(dateSelection)">
+    <mat-hint>MM/DD/YYYY</mat-hint>
+    <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker touchUi #picker></mat-datepicker>
+  </mat-form-field>
 </div>
 <app-loader [showLoader]="isLoading" [loaderContent]="'Getting Your Daily Reflection!'"></app-loader>

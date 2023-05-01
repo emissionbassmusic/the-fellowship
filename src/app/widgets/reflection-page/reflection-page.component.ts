@@ -11,6 +11,7 @@ export class ReflectionPageComponent implements OnInit {
 
   isLoading = true;
   today = new Date();
+  dateSelection = new Date();
   date = '';
   title = '';
   content1 = '';
@@ -22,15 +23,15 @@ export class ReflectionPageComponent implements OnInit {
 
   ngOnInit(): void {
     window.scroll(0,0);
-    const dateString = this.today.getMonth().toString() + '/' + this.today.getDate().toString();
-    this.getDailyReflection(dateString);
+    this.getDailyReflection(this.today);
   }
 
   /**
    * Get daily reflection content for page
    * @param currentDate
    */
-  getDailyReflection(currentDate: string) {
+  getDailyReflection(currentDate: any) {
+    currentDate = currentDate.getMonth().toString() + '/' + currentDate.getDate().toString();
     const reflectionContent = ReflectionConstants.dailyReflections;
     const promise = new Promise((resolve, reject) => {
       this.isLoading = true;
@@ -53,7 +54,7 @@ export class ReflectionPageComponent implements OnInit {
     this.reflectionFailure = (this.date === '' && this.title === '' && this.content1 === '' && this.footer === '' && this.content2 === '');
     if (this.reflectionFailure) {
       console.log('reflectionFailure');
-      this.goHome()
+      this.goHome();
     }
   }
 
