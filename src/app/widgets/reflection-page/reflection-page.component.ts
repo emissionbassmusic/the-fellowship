@@ -35,7 +35,7 @@ export class ReflectionPageComponent implements OnInit {
     const reflectionContent = ReflectionConstants.dailyReflections;
     const promise = new Promise((resolve, reject) => {
       this.isLoading = true;
-      console.log('Start getting reflection!');
+      this.clearReflection();
       reflectionContent.forEach((reflection) => {
         if (currentDate === reflection.date) {
           this.date = reflection.reflection.day;
@@ -43,19 +43,28 @@ export class ReflectionPageComponent implements OnInit {
           this.content1 = reflection.reflection.content1;
           this.footer = reflection.reflection.footer;
           this.content2 = reflection.reflection.content2;
-          resolve(true);
         }
       })
+      resolve(true);
     })
     promise.then(() => {
       this.isLoading = false;
-      console.log('Got reflection!');
+      this.reflectionFailure = (this.date === '' && this.title === '' && this.content1 === '' && this.footer === '' && this.content2 === '');
+      if (this.reflectionFailure) {
+        this.goHome();
+      }
     });
-    this.reflectionFailure = (this.date === '' && this.title === '' && this.content1 === '' && this.footer === '' && this.content2 === '');
-    if (this.reflectionFailure) {
-      console.log('reflectionFailure');
-      this.goHome();
-    }
+  }
+
+  /**
+   * Clear reflection content
+   */
+  clearReflection() {
+    this.date = '';
+    this.title = '';
+    this.content1 = '';
+    this.footer = '';
+    this.content2 = ''
   }
 
   /**

@@ -1,6 +1,7 @@
-import { Component, inject } from '@angular/core';
+import { Component } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
-import { MatSnackBar, MatSnackBarRef } from '@angular/material/snack-bar';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { SnackBarComponent } from '../snackbar/snackbar.component';
 import { AppService } from 'src/app/services/app-service.service';
 import { PrayerConstants } from '../dialogs/prayers/prayers.constants';
 import { PrayersComponent } from '../dialogs/prayers/prayers.component';
@@ -12,6 +13,7 @@ import { PrayersComponent } from '../dialogs/prayers/prayers.component';
 })
 export class HeaderToolbarComponent {
 
+  snackbarContent = 'Sorry, we\'re having trouble.';
   snackbarDurationInSec = 3;
 
   constructor(public dialog: MatDialog, public appService: AppService,
@@ -139,7 +141,7 @@ export class HeaderToolbarComponent {
         break;
       }
       default: {
-        this.appService.prayerHeader = 'Sorry, can\'t retreive prayer.'
+        this.appService.prayerHeader = 'Sorry, can\'t retrieve prayer.'
         this.appService.prayerBody = 'Have a blessed day!'
         this.triggerDialog();
         break;
@@ -169,8 +171,10 @@ export class HeaderToolbarComponent {
     selBox.select();
     document.execCommand('copy');
     document.body.removeChild(selBox);
-    this.snackBar.openFromComponent(CopiedSnackBarComponent, {
+    this.snackbarContent = 'Website link copied. Please share!';
+    this.snackBar.openFromComponent(SnackBarComponent, {
       duration: this.snackbarDurationInSec * 1000,
+      data: this.snackbarContent
     });
   }
 
@@ -185,34 +189,7 @@ export class HeaderToolbarComponent {
    * Go to daily reflection page
    */
   goToReflection() {
-    this.appService.appPage = 'reflection';
+      this.appService.appPage = 'reflection';
   }
 
-}
-
-/**
- * Snackbar for copying website link
- */
-@Component({
-  selector: ' copy-snack-bar',
-  template: `<span class="copy-snackbar" matSnackBarLabel>
-                Website link copied. Please share!
-             </span>
-             `,
-  styles: [
-    `
-    :host {
-      display: flex;
-      justify-content: center;
-    }
-
-    .copy-snackbar {
-      color: hotpink;
-    }
-  `,
-  ],
-})
-
-export class CopiedSnackBarComponent {
-  snackBarRef = inject(MatSnackBarRef);
 }

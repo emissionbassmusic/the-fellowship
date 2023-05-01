@@ -26,6 +26,7 @@ import { LandingPageComponent } from './widgets/landing-page/landing-page.compon
 import { LiteraturePageComponent } from './widgets/literature-page/literature-page.component';
 import { ReflectionPageComponent } from './widgets/reflection-page/reflection-page.component';
 import { LoaderComponent } from './widgets/loader/loader.component';
+import { SnackBarComponent } from './widgets/snackbar/snackbar.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { LoaderComponent } from './widgets/loader/loader.component';
     LandingPageComponent,
     LiteraturePageComponent,
     ReflectionPageComponent,
-    LoaderComponent
+    LoaderComponent,
+    SnackBarComponent
   ],
   imports: [
     BrowserModule,
