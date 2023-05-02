@@ -2442,7 +2442,617 @@ export class ReflectionConstants {
       }
     },
     {
-      date: "Sepr1",
+      date: "8/1",
+      reflection: {
+        day: "SEPTEMBER 1",
+        title: "WILLINGNESS TO GROW",
+        content1: "If more gifts are to be received, our awakening has to go on.",
+        footer: "AS BILL SEES IT, p. 8",
+        content2: "Sobriety fills the painful \"hole in the soul\" that my alcoholism created. Often I feel so physically well that I believe my work is done. However, joy is not just the absence of pain; it is the gift of continued spiritual awakening. Joy comes from ongoing and active study, as well as application of the principles of recovery in my everyday life, and from sharing that experience with others. My Higher Power presents many opportunities for deeper spiritual awakening. I need only to bring into my recovery the willingness to grow. Today I am ready to grow."
+      }
+    },
+    {
+      date: "8/2",
+      reflection: {
+        day: "SEPTEMBER 2",
+        title: "FINDING \"A REASON TO BELIEVE\"",
+        content1: "The willingness to grow is the essence of all spiritual development.",
+        footer: "AS BILL SEES IT, p. 171",
+        content2: "A line from a song goes, \". . . and I look to find a reason to believe . . .\" It reminds me that at one time I was not able to find a reason to believe that my life was all right. Even though my life had been saved by my coming to A.A., three months later I went out and drank again. Someone told me: \"You don't have to believe. Aren't you <i>willing</i> to believe that there is a reason for your life, even though you may not know yourself what that reason is, or that you may not sometimes know the right way to behave?\" When I saw how willing I was to believe there was a reason for my life, then I could start to work on the Steps. Now when I begin with, \"I am willing. . . ,\" I am using the key that leads to action, honesty, and an openness to a Higher Power moving through my life."
+      }
+    },
+    {
+      date: "8/3",
+      reflection: {
+        day: "SEPTEMBER 3",
+        title: "BUILDING A NEW LIFE",
+        content1: "We feel a man is unthinking when he says sobriety is enough.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 82",
+        content2: "When I reflect on Step Nine, I see that physical sobriety must be enough for me. I need to remember the hopelessness I felt before I found sobriety, and how I was willing to go to any lengths for it. Physical sobriety is not enough for those around me, however, since I must see that God's gift is used to build a new life for my family and loved ones. Just as importantly, I must be available to help others who want the A.A. way of life.<br><br>I ask God to help me share the gift of sobriety so that its benefits may be shown to those I know and love."
+      }
+    },
+    {
+      date: "8/4",
+      reflection: {
+        day: "SEPTEMBER 4",
+        title: "RECONSTRUCTION",
+        content1: "Yes, there is a long period of reconstruction ahead . . .",
+        footer: "ALCOHOLICS ANONYMOUS, p. 83",
+        content2: "The reconstruction of my life is the prime goal in my recovery as I avoid taking that first drink, one day at a time. The task is most successfully accomplished by working the Steps of our Fellowship. The spiritual life is not a theory; it works, but I have to live it. Step Two started me on my journey to develop a spiritual life; Step Nine allows me to move into the final phase of the initial Steps which taught me how to live a spiritual life. Without the guidance and strength of a Higher Power, it would be impossible to proceed through the various stages of reconstruction. I realize that God works for me and through me. Proof comes to me when I realize that God did for me what I could not do for myself, by removing that gnawing compulsion to drink. I must continue daily to seek God's guidance. He grants me a daily reprieve and will provide the power I need for reconstruction."
+      }
+    },
+    {
+      date: "8/5",
+      reflection: {
+        day: "SEPTEMBER 5",
+        title: "EMOTIONAL BALANCE",
+        content1: "Made direct amends to such people wherever possible, . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 83",
+        content2: "When I survey my drinking days, I recall many people whom my life touched casually, but whose days I troubled through my anger and sarcasm. These people are untraceable, and direct amends to them are not possible. The only amends I can make to those untraceable individuals, the only \"changes for the better\" I can offer, are indirect amends made to other people, whose paths briefly cross mine. Courtesy and kindness, regularly practiced, help me to live in emotional balance, at peace with myself."
+      }
+    },
+    {
+      date: "8/6",
+      reflection: {
+        day: "SEPTEMBER 6",
+        title: "REMOVING THREATS TO SOBRIETY",
+        content1: ". . . except when to do so would injure them or others.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 59",
+        content2: "Step Nine restores in me a feeling of belonging, not only to the human race but also to the everyday world. First, the Step makes me leave the safety of A.A., so that I may deal with non-A.A. people \"out there,\" on their terms, not mine. It is a frightening but necessary action if I am to get back into life. Second, Step Nine allows me to remove threats to my sobriety by healing past relationships. Step Nine points the way to a more serene sobriety by letting me clear away past wreckage, lest it bring me down."
+      }
+    },
+    {
+      date: "8/7",
+      reflection: {
+        day: "SEPTEMBER 7",
+        title: "\"OUR SIDE OF THE STREET\"",
+        content1: "We are there to sweep off our side of the street, realizing that nothing worth while can be accomplished until we do so, never trying to tell him what he should do. His faults are not discussed. We stick to our own.",
+        footer: "ALCOHOLICS ANONYMOUS, pp. 77-78",
+        content2: "I made amends to my dad soon after I quit drinking. My words fell on deaf ears since I had blamed him for my troubles. Several months later I made amends to my dad again. This time I wrote a letter in which I did not blame him nor mention his faults. It worked, and at last I understood! My side of the street is all that I'm responsible for and — thanks to God and A.A. — it's clean for today."
+      }
+    },
+    {
+      date: "8/8",
+      reflection: {
+        day: "SEPTEMBER 8",
+        title: "\"WE ASKED HIS PROTECTION\"",
+        content1: "We asked His protection and care with complete abandon.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 59",
+        content2: "I could not manage my life alone. I had tried that road and failed. My \"ultimate sin\" dragged me down to the lowest level I have ever reached and, unable even to function, I accepted the fact that I desperately needed help. I stopped fighting and surrendered entirely to God.<br><br>Only then did I start growing! God forgave me. A Higher Power had to have saved me, because the doctors doubted that I would survive. I have forgiven myself now and I enjoy a freedom I have never before experienced. I've opened my heart and mind to Him. The more I learn, the less I know — a humbling fact — but I sincerely want to keep growing. I enjoy serenity, but only when I entrust my life totally to God. As long as I am honest with myself and ask for His help, I can maintain this rewarding existence.<br><br>Just for today, I strive to live His will for me — soberly. I thank God that today I can choose not to drink. Today, life is beautiful!"
+      }
+    },
+    {
+      date: "8/9",
+      reflection: {
+        day: "SEPTEMBER 9",
+        title: "OPENING NEW DOORS",
+        content1: "They [the Promises] are being fulfilled among us — sometimes quickly, sometimes slowly.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "The Promises talked about in this passage are slowly coming to life for me. What has given me hope is putting Step Nine into action. The Step has allowed me to see and set goals for myself in recovery.<br><br>Old habits and behaviors die hard. Working Step Nine enables me to close the door on the drunk I was, and to open new avenues for myself as a sober alcoholic. Making direct amends is crucial for me. As I repair relationships and behavior of the past, I am better able to live a sober life!<br><br>Although I have some years of sobriety, there are times when the \"old stuff\" from the past needs to be taken care of, and Step Nine always works, when I work it."
+      }
+    },
+    {
+      date: "8/10",
+      reflection: {
+        day: "SEPTEMBER 10",
+        title: "RECOVERY BY PROXY?",
+        content1: "They [the Promises] will always materialize if we work for them.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "Sometimes I think: \"Making these amends is going too far! No one should have to humble himself like that!\" However, it is this very humbling of myself that brings me that much closer to the sunlight of the spirit. A.A. is the only hope I have if I am to continue healing and gain a life of happiness, friendship and harmony."
+      }
+    },
+    {
+      date: "8/11",
+      reflection: {
+        day: "SEPTEMBER 11",
+        title: "MAKING AMENDS",
+        content1: "Above all, we should try to be absolutely sure that we are not delaying because we are afraid.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
+        content2: "To have courage, to be unafraid, are gifts of my recovery. They empower me to ask for help and to go forth in making my amends with a sense of dignity and humility. Making amends may require a certain amount of honesty that I feel I lack, yet with the help of God and the wisdom of others, I can reach within and find the strength to act. My amends may be accepted, or they may not, but after they are completed I can walk with a sense of freedom and know that, for today, I am responsible."
+      }
+    },
+    {
+      date: "8/12",
+      reflection: {
+        day: "SEPTEMBER 12",
+        title: "I AM RESPONSIBLE",
+        content1: "For the readiness to take the full consequences of our past acts, and to take responsibility for the well-being of others at the same time, is the very spirit of Step Nine.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
+        content2: "In recovery, and through the help of Alcoholics Anonymous, I learn that the very thing I fear is my freedom. It comes from my tendency to recoil from taking responsibility for anything: I deny, I ignore, I blame, I avoid. Then one day, I look, I admit, I accept. The freedom, the healing and the recovery I experience is in the looking, admitting and accepting. I learn to say, \"Yes, I am responsible.\" When I can speak those words with honesty and sincerity, then I am free."
+      }
+    },
+    {
+      date: "8/13",
+      reflection: {
+        day: "SEPTEMBER 13",
+        title: "REPAIRING THE DAMAGE",
+        content1: "Good judgment, a careful sense of timing courage and prudence — these are the qualities we shall need when we take Step Nine.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 83",
+        content2: "To make amends can be viewed two ways: first, that of repairing damage, for if I have damaged my neighbor's fence, I \"make a mend,\" and that is a direct amend; the second way is by modifying my behavior, for if my actions have harmed someone, I make a daily effort to cause no further harm. I \"mend my ways,\" and that is an indirect amend. Which is the best approach? The only right approach, provided that I am causing no further harm in so doing, is to do both. If harm is done, then I simply \"mend my ways.\" To take action in this manner assures me of making honest amends."
+      }
+    },
+    {
+      date: "8/14",
+      reflection: {
+        day: "SEPTEMBER 14",
+        title: "PEACE OF MIND",
+        content1: "Do we lay the matter before our sponsor or spiritual adviser , earnestly asking God's help and guidance — meanwhile resolving to do the right thing when it becomes clear, cost what it may?",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, pp. 86-87",
+        content2: "My belief in a Higher Power is an essential part of my work on Step Nine; forgiveness, timing, and right motives are the other ingredients. My willingness to do the Step is a growing experience that opens the door for new and honest relationships with the people I have harmed. My responsible action brings me closer to the spiritual principles of the program—love and service. Peace of mind, serenity, and a stronger faith are sure to follow."
+      }
+    },
+    {
+      date: "8/15",
+      reflection: {
+        day: "SEPTEMBER 15",
+        title: "A NEW LIFE",
+        content1: "Yes, there is a substitute and it is vastly more than that. It is a fellowship in Alcoholics Anonymous. . . . Life will mean something at last.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 152",
+        content2: "Life is better without alcohol. A.A. and the presence of a Higher Power keeps me sober, but the grace of God does even better; it brings service into my life. Contact with the A.A. program teaches me a new and greater understanding of what Alcoholics Anonymous is and what it does, but most importantly, it helps to show me who I am: an alcoholic who needs the constant experience of the Alcoholics Anonymous program so that I may live a life given to me by my Higher Power."
+      }
+    },
+    {
+      date: "8/16",
+      reflection: {
+        day: "SEPTEMBER 16",
+        title: "WE STAND — OR FALL — TOGETHER",
+        content1: ". . . no society of men and women ever had a more urgent need for continuous effectiveness and permanent unity. We alcoholics see that we must work together and hang together, else most of us will finally die alone.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 562",
+        content2: "Just as the Twelve Steps of A.A. are written in a specific sequence for a reason, so it is with the Twelve Traditions. The First Step and the First Tradition attempt to instill in me enough humility to allow me a chance at survival. Together they are the basic foundation upon which the Steps and Traditions that follow are built. It is a process of ego deflation which allows me to grow as an individual through the Steps, and as a contributing member of a group through the Traditions. Full acceptance of the First Tradition allows me to set aside personal ambitions, fears and anger when they are in conflict with the common good, thus permitting me to work with others for our mutual survival. Without Tradition One I stand little chance of maintaining the unity required to work with others effectively, and I also stand to lose the remaining Traditions, the Fellowship, and my life."
+      }
+    },
+    {
+      date: "8/17",
+      reflection: {
+        day: "SEPTEMBER 17",
+        title: "FREEDOM FROM FEAR",
+        content1: "When, with God's help, we calmly accepted our lot, then we found we could live at peace with ourselves and show others who still suffered the same fears that they could get over them, too. We found that freedom from fear was more important than freedom from want.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 122",
+        content2: "Material values ruled my life for many years during my active alcoholism. I believed that all of my possessions would make me happy, yet I still felt bankrupt after I obtained them. When I first came into A.A., I found out about a new way of living. As a result of learning to trust others, I began to believe in a power greater than myself. Having faith freed me from the bondage of self. As material gains were replaced by the gifts of the spirit, my life became manageable. I then chose to share my experiences with other alcoholics."
+      }
+    },
+    {
+      date: "8/18",
+      reflection: {
+        day: "SEPTEMBER 18",
+        title: "LOVED BACK TO RECOVERY",
+        content1: "Our whole treasured philosophy of self-sufficiency had to be cast aside. This had not been done with old-fashioned willpower; it was instead a matter of developing the willingness to accept these new facts of living. We neither ran nor fought. But accept we did And then we were free.",
+        footer: "BEST OF THE GRAPEVINE, Vol. I, p. 198",
+        content2: "I can be free of my old enslaving self. After a while I recognize, and believe in, the good within myself. I see that I have been loved back to recovery by my Higher Power, who envelops me. My Higher Power becomes that source of love and strength that is performing a continuing miracle in me. I am sober . . . and I am grateful."
+      }
+    },
+    {
+      date: "8/19",
+      reflection: {
+        day: "SEPTEMBER 19",
+        title: "ACCEPT",
+        content1: "We admitted we couldn't lick alcohol with our own remaining resources, and so we accepted the further fact that dependence upon a Higher Power (if only our A.A group) could do this hitherto impossible job. The moment we were able to accept these facts fully, our release from the alcohol compulsion had begun.",
+        footer: "AS BILL SEES IT, p. 109",
+        content2: "Freedom came to me only with my acceptance that I could turn my will and my life over to the care of my Higher Power, whom I call God. Serenity seeped into the chaos of my life when I accepted that what I was going through was life, and that God would help me through my difficulties — and much more, as well. Since then He has helped me through all of my difficulties! When I accept situations as they are, not as I wish them to be, then I can begin to grow and have serenity and peace of mind."
+      }
+    },
+    {
+      date: "8/20",
+      reflection: {
+        day: "SEPTEMBER 20",
+        title: "H.P. AS GUIDE",
+        content1: "See to it that your relationship with Him is right, and great events will come to pass for you and countless others. This is the Great Fact for us.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 164",
+        content2: "Having a right relationship with God seemed to be an impossible order. My chaotic past had left me filled with guilt and remorse and I wondered how this \"God business\" could work. A.A. told me that I must turn my will and my life over to the care of God, as I understand Him. With nowhere else to turn, I went down on my knees and cried, \"God, I can't do this. Please help me!\" It was when I admitted my powerlessness that a glimmer of light began to touch my soul, and then a willingness emerged to let God control my life. With Him as my guide, great events began to happen, and I found the beginning of sobriety."
+      }
+    },
+    {
+      date: "8/21",
+      reflection: {
+        day: "SEPTEMBER 21",
+        title: "THE LAST PROMISE",
+        content1: "We will suddenly realize that God is doing for us what we could not do for ourselves.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "The last Promise in the Big Book came true for me on the very first day of sobriety. God kept me sober that day, and on every other day I allowed Him to operate in my life. He gives me the strength, courage and guidance to meet my responsibilities in life so that I am then able to reach out and help others stay sober and grow. He manifests within me, making me a channel of His word, thought and deed. He works with my inner self, while I produce in the outer world, for He will not do for me what I can do for myself. I must be willing to do His work, so that He can function through me successfully."
+      }
+    },
+    {
+      date: "8/22",
+      reflection: {
+        day: "SEPTEMBER 22",
+        title: "A \"LIMITLESS LODE\"",
+        content1: "Like a gaunt prospector, belt drawn in over the last ounce of food, our pick struck gold. Joy at our release from a lifetime of frustration knew no bounds. Father feels he has struck something better than gold. For a time he may try to hug the new treasure to himself. He may not see at once that he has barely scratched a limitless lode which will pay dividends only if he mines it for the rest of his life and insists on giving away the entire product.",
+        footer: "ALCOHOLICS ANONYMOUS, pp. 128-29",
+        content2: "When I talk with a newcomer to A.A., my past looks me straight in the face. I see the pain in those hopeful eyes, I extend my hand, and then the miracle happens: / become healed. My problems vanish as I reach out to this trembling soul."
+      }
+    },
+    {
+      date: "8/23",
+      reflection: {
+        day: "SEPTEMBER 23",
+        title: "\"I WAS AN EXCEPTION\"",
+        content1: "He [Bill W.] said to me, gently and simply, \"Do you think that you are one of us?\"",
+        footer: "ALCOHOLICS ANONYMOUS, p. 413",
+        content2: "During my drinking life I was convinced I was an exception. I thought I was beyond petty requirements and had the right to be excused. I never realized that the dark counterbalance of my attitude was the constant feeling that I did not \"belong.\" At first, in A.A., I identified with others only as an alcoholic. What a wonderful awakening for me it has been to realize that, if human beings were doing the best they could, then so was I! All of the pains, confusions and joys they feel are not exceptional, but part of my life, just as much as anybody's."
+      }
+    },
+    {
+      date: "8/24",
+      reflection: {
+        day: "SEPTEMBER 24",
+        title: "VIGILANCE",
+        content1: "We have seen the truth demonstrated again and again: \"Once an alcoholic, always an alcoholic\" Commencing to drink after a period of sobriety, we are in a short time as bad as ever. If we are planning to stop drinking, there must be no reservation of any kind, nor any lurking notion that someday we will be immune to alcohol.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 33",
+        content2: "Today I am an alcoholic. Tomorrow will be no different. My alcoholism lives within me now and forever. I must never forget what I am. Alcohol will surely kill me if I fail to recognize and acknowledge my disease on a daily basis. I am not playing a game in which a loss is a temporary setback. I am dealing with my disease, for which there is no cure, only daily acceptance and vigilance."
+      }
+    },
+    {
+      date: "8/25",
+      reflection: {
+        day: "SEPTEMBER 25",
+        title: "FIRST THINGS FIRST",
+        content1: "Some of us have taken very hard knocks to learn this truth: Job or no job — wife or no wife — we simply do not stop drinking so long as we place dependence upon other people ahead of dependence on God.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 98",
+        content2: "Before coming to A.A., I always had excuses for taking a drink: \"She said . . . ,\" \"He said \"I got fired yesterday,\" \"I got a great job today.\" No area of my life could be good if I drank again. In sobriety my life gets better each day. I must always remember not to drink, to trust God, and to stay active in A.A. Am I putting anything before my sobriety, God, and A.A. today?"
+      }
+    },
+    {
+      date: "8/26",
+      reflection: {
+        day: "SEPTEMBER 26",
+        title: "OUR CHILDREN",
+        content1: "The alcoholic may find it hard to re-establish friendly relations with his children. . . . In time they will see that he is a new man and in their own way they will let him know it. . . . From that point on, progress will be rapid. Marvelous results often follow such a reunion.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 134",
+        content2: "While on the road to recovery I received a gift that could not be purchased. It was a card from my son in college, saying, \"Dad, you can't imagine how glad I am that everything is okay. Happy Birthday, I love you.\" My son had told me that he loved me before. It had been during the previous Christmas holidays, when he had said to me, while crying, \"Dad, I love you! Can't you see what you're doing to yourself?\" I couldn't. Choked with emotion, I had cried, but this time, when I received my son's card, my tears were tears of joy, not desperation."
+      }
+    },
+    {
+      date: "8/27",
+      reflection: {
+        day: "SEPTEMBER 27",
+        title: "WITHOUT RESERVATION",
+        content1: "When brimming with gratitude, one's heartbeat must surely result in outgoing love, . . .",
+        footer: "AS BILL SEES IT, p. 37",
+        content2: "While practicing service to others, if my successes give rise to grandiosity, I must reflect on what brought me to this point. What has been given joyfully, with love, must be passed on without reservation and without expectation. For as I grow, I find that no matter how much I give with love, I receive much more in spirit."
+      }
+    },
+    {
+      date: "8/28",
+      reflection: {
+        day: "SEPTEMBER 28",
+        title: "LOVE WITHOUT STRINGS",
+        content1: "Practical experience shows that nothing will so much insure immunity from drinking as intensive work with other alcoholics.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 89",
+        content2: "Sponsorship held two surprises for me. First, that my sponsees cared about me. What I had thought was gratitude was more like love. They wanted me to be happy, to grow and remain sober. Knowing how they felt kept me from drinking more than once. Second, I discovered that I was able to love someone else responsibly, with respectful and genuine concern for that person's growth. Before that time, I had thought that my ability to care sincerely about another's well-being had atrophied from lack of use. To learn that I can love, without greed or anxiety, has been one of the deepest gifts the program has given me. Gratitude for that gift has kept me sober many times."
+      }
+    },
+    {
+      date: "8/29",
+      reflection: {
+        day: "SEPTEMBER 29",
+        title: "EXACTLY ALIKE",
+        content1: "Frequent contact with newcomers and with each other is the bright spot of our lives.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 89",
+        content2: "A man came to the meeting drunk, interrupted the speakers, stood up and took his shirt off, staggered loudly back and forth for coffee, demanded to talk, and eventually called the group's secretary an unquotable name and walked out. I was glad he was there — once again I saw what I had been like. But I also saw what I still am, and what I still could be. I don't have to be drunk to want to be the exception and the center of attention. I have often felt abused and responded abusively when I was simply being treated as a garden variety human being. The more the man tried to insist he was different, the more I realized that he and I were exactly alike."
+      }
+    },
+    {
+      date: "8/30",
+      reflection: {
+        day: "SEPTEMBER 30",
+        title: "THE CIRCLE AND THE TRIANGLE",
+        content1: "The circle stands for the whole world of A.A., and the triangle stands for A.A.'s Three Legacies of Recovery, Unity, and Service. Within our wonderful new world, we have found freedom from our fatal obsession.",
+        footer: "A.A. COMES OF AGE, p. 139",
+        content2: "Early in my A.A. life, I became employed in its services and I found the explanation of our society's logo to be very appropriate. First, a circle of love and service with a well-balanced triangle inside, the base of which represents our Recovery through the Twelve Steps. Then the other two sides, representing Unity and Service, respectively. The three sides of the triangle are equal. As I grew in A.A. I soon identified myself with this symbol. I am the circle, and the sides of the triangle represent three aspects of my personality: physical, emotional sanity, spirituality, the latter forming the symbol's base. Taken together, all three aspects of my personality translate into a sober and happy life."
+      }
+    },
+    {
+      date: "9/1",
+      reflection: {
+        day: "OCTOBER 1",
+        title: "LEST WE BECOME COMPLACENT",
+        content1: "It is easy to let up on the spiritual program of action and rest on our laurels. We are headed for trouble if we do, for alcohol is a subtle foe.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 85",
+        content2: "When I am in pain it is easy to stay close to the friends I have found in the program. Relief from that pain is provided in the solutions contained in A.A.'s Twelve Steps. But when I am feeling good and things are going well, I can become complacent. To put it simply, I become lazy and turn into the problem instead of the solution. I need to get into action, to take stock: where am I and where am I going? A daily inventory will tell me what I must change to regain spiritual balance. Admitting what I find within myself, to God and to another human being, keeps me honest and humble."
+      }
+    },
+    {
+      date: "9/2",
+      reflection: {
+        day: "OCTOBER 2",
+        title: "\"THE ACID TEST\"",
+        content1: "As we work the first nine Steps, we prepare ourselves for the adventure of a new life. But when we approach Step Ten we commence to put our A.A. way of living to practical use, day by day, in fair weather or foul Then comes the acid test: can we stay sober, keep in emotional balance, and live to good purpose under all conditions?",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
+        content2: "I know the Promises are being fulfilled in my life, but I want to maintain and develop them by the daily application of Step Ten. I have learned through this Step that if I am disturbed, there is something wrong with me. The other person may be wrong too, but I can only deal with my feelings. When I am hurt or upset, I have to continually look for the cause in me, and then I have to admit and correct my mistakes. It isn't easy, but as long as I know I am progressing spiritually, I know that I can mark my effort up as a job well done. I have found that pain is a friend; it lets me know there is something wrong with my emotions, just as a physical pain lets me know there is something wrong with my body. When I take the appropriate action through the Twelve Steps, the pain gradually goes away."
+      }
+    },
+    {
+      date: "9/3",
+      reflection: {
+        day: "OCTOBER 3",
+        title: "SERENITY AFTER THE STORM",
+        content1: "Someone who knew what he was talking about once remarked that pain was the touchstone of all spiritual progress. How heartily we A.A. 's can agree with him. . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, pp. 93-94",
+        content2: "When on the roller coaster of emotional turmoil, I remember that growth is often painful. My evolution in the A.A. program has taught me that I must experience the inner change, however painful, that eventually guides me from selfishness to selflessness. If I am to have serenity, I must STEP my way past emotional turmoil and its subsequent hangover, and be grateful for continuing spiritual progress."
+      }
+    },
+    {
+      date: "9/4",
+      reflection: {
+        day: "OCTOBER 4",
+        title: "A NECESSARY PRUNING",
+        content1: ". . . we know that the pains of drinking had to come before sobriety, and emotional turmoil before serenity.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 94",
+        content2: "I love spending time in my garden feeding and pruning my beautiful flowers. One day, as I was busily snipping away, a neighbor stopped by. She commented, \"Oh! Your plants are so beautiful, it seems such a shame to cut them back.\" I replied, \"I know how you feel, but the excess must be removed so they can grow stronger and healthier.\" Later I thought that perhaps my plants feel pain, but God and I know it's part of the plan and I've seen the results. I was quickly reminded of my precious A.A. program and how we all grow through pain. I ask God to prune me when it's time, so I can grow."
+      }
+    },
+    {
+      date: "9/5",
+      reflection: {
+        day: "OCTOBER 5",
+        title: "YESTERDAY'S BAGGAGE",
+        content1: "For the wise have always known that no one can make much of his life until self-searching becomes a regular habit, until he is able to admit and accept what he finds, and until he patiently and persistently tries to correct what is wrong.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
+        content2: "I have more than enough to handle today, without dragging along yesterday's baggage too. I must balance today's books, if I am to have a chance tomorrow. So I ask myself if I have erred and how I can avoid repeating that particular behavior. Did I hurt anyone, did I help anyone, and why? Some of today is bound to spill over into tomorrow, but most of it need not if I make an honest daily inventory."
+      }
+    },
+    {
+      date: "9/6",
+      reflection: {
+        day: "OCTOBER 6",
+        title: "FACING OURSELVES",
+        content1: ". . . and Fear says, \"You dare not look!\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 49",
+        content2: "How often I avoided a task in my drinking days just because it appeared so large! Is it any wonder, even if I have been sober for some time, that I will act that same way when faced with what appears to be a monumental job, such as a searching and fearless moral inventory of myself? What I discover after I have arrived at the other side — when my inventory is completed — is that the illusion was greater than the reality. The fear of facing myself kept me at a standstill and, until I became willing to put pencil to paper, I was arresting my growth based on an intangible."
+      }
+    },
+    {
+      date: "9/7",
+      reflection: {
+        day: "OCTOBER 7",
+        title: "DAILY MONITORING",
+        content1: "Continued to take personal inventory. . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
+        content2: "The spiritual axiom referred to in the Tenth Step — \"every time we are disturbed, no matter what the cause, there is something wrong <i>with us</i>\" — also tells me that there are no exceptions to it. No matter how unreasonable others may seem, I am responsible for not reacting negatively. Regardless of what is happening around me I will always have the prerogative, and the responsibility, of choosing what happens within me. I am the creator of my own reality.<br><br>When I take my daily inventory, I know that I must stop judging others. If I judge others, I am probably judging myself. Whoever is upsetting me most is my best teacher. I have much to learn from him or her, and in my heart, I should thank that person."
+      }
+    },
+    {
+      date: "9/8",
+      reflection: {
+        day: "OCTOBER 8",
+        title: "DAILY INVENTORY",
+        content1: ". . . and when we were wrong promptly admitted it.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 59",
+        content2: "I was beginning to approach my new life of sobriety with unaccustomed enthusiasm. New friends were cropping up and some of my battered friendships had begun to be repaired. Life was exciting, and I even began to enjoy my work, becoming so bold as to issue a report on the lack of proper care for some of our clients. One day a co-worker informed me that my boss was really sore because a complaint, submitted over his head, had caused him much discomfort at the hands of his superiors. I knew that my report had created the problem, and began to feel responsible for my boss's difficulty. In discussing the affair, my co-worker tried to reassure me that an apology was not necessary, but I soon became convinced that I had to do something, regardless of how it might turn out. When I approached my boss and owned up to my hand in his difficulties, he was surprised. But unexpected things came out of our encounter, and my boss and I were able to agree to interact more directly and effectively in the future."
+      }
+    },
+    {
+      date: "9/9",
+      reflection: {
+        day: "OCTOBER 9",
+        title: "A SPIRITUAL AXIOM",
+        content1: "It is a spiritual axiom that every time we are disturbed, no matter what the cause, there is something wrong with us.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 90",
+        content2: "I never truly understood the Tenth Step's spiritual axiom until I had the following experience. I was sitting in my bedroom, reading into the wee hours, when suddenly I heard my dogs barking in the back yard. My neighbors frown on this kind of disturbance so, with mixed feelings of anger and shame, as well as fear of my neighbors' disapproval, I immediately called in my dogs. Several weeks later the exact situation repeated itself but this time, because I was feeling more at peace with myself, I was able to accept the situation — dogs <i>will</i> bark — and I calmly called in the dogs. Both incidents taught me that when a person experiences nearly identical events and reacts two different ways, then it is not the event which is of prime importance, but the person's spiritual condition. Feelings come from inside, not from outward circumstances. When my spiritual condition is positive, I react positively."
+      }
+    },
+    {
+      date: "9/10",
+      reflection: {
+        day: "OCTOBER 10",
+        title: "FIXING ME, NOT YOU",
+        content1: "If somebody hurts us and we are sore, we are in the wrong also.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 90",
+        content2: "What a freedom I felt when this passage was pointed out to me! Suddenly I saw that I could do something about my anger, I could fix me, instead of trying to fix <i>them</i>. I believe that there are no exceptions to the axiom. When I am angry, my anger is always self-centered. I must keep reminding myself that I am human, that I am doing the best I can, even when that best is sometimes poor. So I ask God to remove my anger and truly set me free."
+      }
+    },
+    {
+      date: "9/11",
+      reflection: {
+        day: "OCTOBER 11",
+        title: "SELF-RESTRAINT",
+        content1: "Our first objective will be the development of self-restraint.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 91",
+        content2: "My drive to work provides me with an opportunity for self-examination. One day while making this trip, I began to review my progress in sobriety, and was not happy with what I saw. I hoped that, as the work day progressed, I would forget these troublesome thoughts, but as one disappointment after another kept coming, my discontent only increased, and the pressures within me kept mounting.<br><br>I retreated to an isolated table in the lounge, and asked myself how I could make the most of the rest of the day. In the past, when things went wrong, I instinctively wanted to fight back. But during the short time I had been trying to five the A.A. program I had learned to step back and take a look at myself. I recognized that, although I was not the person I wanted to be, I had learned to not react in my old ways. Those old patterns of behavior only brought sorrow and hurt, to me and to others. I returned to my work station, determined to make the day a productive one, thanking God for the chance to make progress that day."
+      }
+    },
+    {
+      date: "9/12",
+      reflection: {
+        day: "OCTOBER 12",
+        title: "CURBING RASHNESS",
+        content1: "When we speak or act hastily or rashly, the ability to be fair-minded and tolerant evaporates on the spot.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 91",
+        content2: "Being fair-minded and tolerant is a goal toward which I must work daily. I ask God, as I understand Him, to help me to be loving and tolerant to my loved ones, and to those with whom I am in close contact. I ask for guidance to curb my speech when I am agitated, and I take a moment to reflect on the emotional upheaval my words may cause, not only to someone else, but also to myself. Prayer, meditation and inventories are the key to sound thinking and positive action for me."
+      }
+    },
+    {
+      date: "9/13",
+      reflection: {
+        day: "OCTOBER 13",
+        title: "UNREMITTING INVENTORIES",
+        content1: "Continue to watch for selfishness, dishonesty, resentment, and fear. When these crop up, we ask God at once to remove them. We discuss them with someone immediately and make amends quickly if we have harmed anyone. Then we resolutely turn our thoughts to someone we can help.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "The immediate admission of wrong thoughts or actions is a tough task for most human beings, but for recovering alcoholics like me it is difficult because of my propensity toward ego, fear and pride. The freedom the A.A. program offers me becomes more abundant when, through unremitting inventories of myself, I admit, acknowledge and accept responsibility for my wrong-doing. It is possible then for me to grow into a deeper and better understanding of humility. My willingness to admit when the fault is mine facilitates the progression of my growth and helps me to become more understanding and helpful to others."
+      }
+    },
+    {
+      date: "9/14",
+      reflection: {
+        day: "OCTOBER 14",
+        title: "A PROGRAM FOR LIVING",
+        content1: "When we retire at night, we constructively review our day. . . . On awakening let us think about the twenty-four hours ahead. . . . Before we begin, we ask God to direct our thinking, especially asking that it be divorced from self-pity, dishonest or self-seeking motives.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 86",
+        content2: "I lacked serenity. With more to do than seemed possible, I fell further behind, no matter how hard I tried. Worries about things not done yesterday and fear of tomorrow's deadlines denied me the calm I needed to be effective each day. Before taking Steps Ten and Eleven, I began to read passages like the one cited above. I tried to focus on God's will, not my problems, and to trust that He would manage my day. It worked! Slowly, but it worked!"
+      }
+    },
+    {
+      date: "9/15",
+      reflection: {
+        day: "OCTOBER 15",
+        title: "MY CHECKLIST, NOT YOURS",
+        content1: "Gossip barbed with our anger, a polite form of murder by character assassination, has its satisfactions for us, too. Here we are not trying to help those we criticize; we are trying to proclaim our own righteousness.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 67",
+        content2: "Sometimes I don't realize that I gossiped about someone until the end of the day, when I take an inventory of the day's activities, and then, my gossiping appears like a blemish in my beautiful day. How could I have said something like that? Gossip shows its ugly head during a coffee break or lunch with business associates, or I may gossip during the evening, when I'm tired from the day's activities, and feel justified in bolstering my ego at the expense of someone else.<br><br>Character defects like gossip sneak into my life when I am not making a constant effort to work the Twelve Steps of recovery. I need to remind myself that my uniqueness is the blessing of my being, and that applies equally to everyone who crosses my path in life's journey. Today the only inventory I need to take is my own. I'll leave judgment of others to the Final Judge — Divine Providence."
+      }
+    },
+    {
+      date: "9/16",
+      reflection: {
+        day: "OCTOBER 16",
+        title: "THROUGHOUT EACH DAY",
+        content1: "This is not an overnight matter. It should continue for our lifetime.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 84",
+        content2: "During my early years in A. A. I saw Step Ten as a suggestion that I periodically look at my behavior and reactions. If there was something wrong, I should admit it; if an apology was necessary, I should give one. After a few years of sobriety I felt I should undertake a self-examination more frequently. Not until several more years of sobriety had elapsed did I realize the full meaning of Step Ten, and the word \"continued.\" \"Continued\" does not mean occasionally, or frequently. It means throughout each day."
+      }
+    },
+    {
+      date: "9/17",
+      reflection: {
+        day: "OCTOBER 17",
+        title: "A DAILY TUNE-UP",
+        content1: "Every day is a day when we must carry the vision of God's will into all of our activities.",
+        footer: "ALCOHOLICS ANONYMOUS, p. 85",
+        content2: "How do I maintain my spiritual condition? For me it's quite simple: on a daily basis I ask my Higher Power to grant me the gift of sobriety for that day! I have talked to many alcoholics who have gone back to drinking and I always ask them: \"Did you pray for sobriety the day you took your first drink?\" Not one of them said yes. As I practice Step Ten and try to keep my house in order on a daily basis, I have the knowledge that if I ask for a daily reprieve, it will be granted."
+      }
+    },
+    {
+      date: "9/18",
+      reflection: {
+        day: "OCTOBER 18",
+        title: "AN OPEN MIND",
+        content1: "True humility and an open mind can lead us to faith, . . .",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 33",
+        content2: "My alcoholic thinking led me to believe that I could control my drinking, but I couldn't. When I came to A.A., I realized that God was speaking to me through my group. My mind was open just enough to know that I needed His help. A real, honest acceptance of AA. took more time, but with it came humility. I know how insane I was, and I am extremely grateful to have my sanity restored to me and to be a sober alcoholic. The new, sober me is a much better person than I ever could have been without A.A."
+      }
+    },
+    {
+      date: "9/19",
+      reflection: {
+        day: "OCTOBER 19",
+        title: "A.A'S \"MAIN TAPROOT\"",
+        content1: "The principle that we shall find no enduring strength until we first admit complete defeat is the main taproot from which our whole Society has sprung and flowered.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, pp. 21-22",
+        content2: "Defeated, and knowing it, I arrived at the doors of A.A., alone and afraid of the unknown. A power outside of myself had picked me up off my bed, guided me to the phone book, then to the bus stop, and through the doors of Alcoholics Anonymous. Once inside A.A. I experienced a sense of being loved and accepted, something I had net felt since early childhood. May I never lose the sense of wonder I experienced on that first evening with A.A., the greatest event of my entire life."
+      }
+    },
+    {
+      date: "9/20",
+      reflection: {
+        day: "OCTOBER 20",
+        title: "SOLACE FOR CONFUSION",
+        content1: "Obviously, the dilemma of the wanderer from faith is that of profound confusion. He thinks himself lost to the comfort of any conviction at all He cannot attain in even a small degree the assurance of the believer, the agnostic, or the atheist. He is the bewildered one.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 28",
+        content2: "The concept of God was one that I struggled with during my early years of sobriety. The images that came to me, conjured from my past, were heavy with fear, rejection and condemnation. Then I heard my friend Ed's image of a Higher Power: As a boy he had been allowed a Utter of puppies, provided that he assume responsibility for their care. Each morning he would find the unavoidable \"by-products\" of the puppies on the kitchen floor. Despite frustration, Ed said he couldn't get angry because \"that's the nature of puppies.\" Ed felt that God viewed our defects and shortcomings with a similar understanding and warmth. I've often found solace from my personal confusion in Ed's calming concept of God."
+      }
+    },
+    {
+      date: "9/21",
+      reflection: {
+        day: "OCTOBER 21",
+        title: "NOTHING GROWS IN THE DARK",
+        content1: "We will want the good that is in us all, even in the worst of us, to flower and to grow.",
+        footer: "AS BILL SEES IT, p. 10",
+        content2: "With the self-discipline and insight gained from practicing Step Ten, I begin to know the gratifications of sobriety — not as mere abstinence from alcohol, but as recovery in every department of my life.<br><br>I renew hope, regenerate faith, and regain the dignity of self-respect. I discover the word \"and\" in the phrase \"and when we were wrong, promptly admitted it.\"<br><br>Reassured that I am no longer always wrong, I learn to accept myself as I am, with a new sense of the miracles of sobriety and serenity."
+      }
+    },
+    {
+      date: "9/22",
+      reflection: {
+        day: "OCTOBER 22",
+        title: "TRUE TOLERANCE",
+        content1: "Finally, we begin to see that all people, including ourselves, are to some extent emotionally ill as well as frequently wrong and then we approach true tolerance and see what real love for our fellows actually means.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 92",
+        content2: "The thought occurred to me that all people are emotionally ill to some extent. How could we not be? Who among us is spiritually perfect? Who among us is physically perfect? How could any of us be emotionally perfect? Therefore, what else are we to do but bear with one another and treat each other as we would be treated in similar circumstances? That is what love really is."
+      }
+    },
+    {
+      date: "9/23",
+      reflection: {
+        day: "OCTOBER 23",
+        title: "WHAT WE KNOW BEST",
+        content1: "\"Shoemaker, stick to thy last!\" . . . better do one thing supremely well than many badly. That is the central theme of this Tradition [Five]. Around it our Society gathers in unity. The very life of our Fellowship requires the preservation of this principle.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 150",
+        content2: "The survival of A.A. depends upon unity. What would happen if a group decided to become an employment agency, a treatment center or a social service agency? Too much specialization leads to no specialization, to frittering of efforts and, finally, to decline. I have the qualifications to share my sufferings and my way of recovery with the newcomer. Conformity to A.A.'s primary purpose insures the safety of the wonderful gift of sobriety, so my responsibility is enormous. The life of millions of alcoholics is closely tied to my competence in \"carrying the message to the still-suffering alcoholic.\""
+      }
+    },
+    {
+      date: "9/24",
+      reflection: {
+        day: "OCTOBER 24",
+        title: "\"BY FAITH AND BY WORKS\"",
+        content1: "On anvils of experience, the structure of our Society was hammered out. . . . Thus has it been with A.A. By faith and by works we have been able to build upon the lessons of an incredible experience. They live today in the Twelve Traditions of Alcoholics Anonymous, which — God willing — shall sustain us in unity for so long as He may need us.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 131",
+        content2: "God has allowed me the right to be wrong in order for our Fellowship to exist as it does today. If I place God's will first in my life, it is very likely that A.A. as I know it today will remain as it is."
+      }
+    },
+    {
+      date: "9/25",
+      reflection: {
+        day: "OCTOBER 25",
+        title: "A.A.'s HEARTBEAT",
+        content1: "Without unity, the heart of A.A. would cease to beat; . . .",
+        footer: "AS BILL SEES IT, p. 125",
+        content2: "Without unity I would be unable to recover in A.A. on a daily basis. By practicing unity within my group, with other A.A. members and at all levels of this great Fellowship, I receive a pronounced feeling of knowing that I am a part of a miracle that was divinely inspired. The ability of Bill W. and Dr. Bob, working together and passing it on to other members, tells me that to give it away is to keep it. Unity is oneness and yet the whole Fellowship is for all of us."
+      }
+    },
+    {
+      date: "9/26",
+      reflection: {
+        day: "OCTOBER 26",
+        title: "ONE ULTIMATE AUTHORITY",
+        content1: "For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 132",
+        content2: "When I am chosen to carry some small responsibility for my fellows, I ask that God grant me the patience, open-mindedness, and willingness to listen to those I would lead. I must remind myself that I am the trusted servant of others, not their \"governor,\" \"teacher,\" or \"instructor.\" God guides my words and my actions, and my responsibility is to heed His suggestions. Trust is my watchword, I trust others who lead. In the Fellowship of A.A., I entrust God with the ultimate authority of \"running the show.\""
+      }
+    },
+    {
+      date: "9/27",
+      reflection: {
+        day: "OCTOBER 27",
+        title: "GLOBAL SHARING",
+        content1: "The only thing that matters is that he is an alcoholic who has found a key to sobriety. These legacies of suffering and of recovery are easily passed among alcoholics, one to the other. This is our gift from God, and its bestowal upon others like us is the one aim that today animates A. A. 's all around the globe.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
+        content2: "The strength of Alcoholics Anonymous lies in the desire of each member and of each group around the world to share with other alcoholics their suffering and the steps taken to gain, and maintain, recovery. By keeping a conscious contact with my Higher Power, I make sure that I always nurture my desire to help other alcoholics, thus insuring the continuity of the wonderful fraternity of Alcoholics Anonymous."
+      }
+    },
+    {
+      date: "9/28",
+      reflection: {
+        day: "OCTOBER 28",
+        title: "AN UNBROKEN TRADITION",
+        content1: "We conceive the survival and spread of Alcoholics Anonymous to be something of far greater importance than the weight we could collectively throw back of any other cause.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 177",
+        content2: "How much it means to me that an unbroken tradition of more than half a century is a thread that connects me to Bill W. and Dr. Bob. How much more grounded I feel to be in a Fellowship whose aims are constant and unflagging. I am grateful that the energies of A.A. have never been scattered, but focused instead on our members and on individual sobriety.<br><br>My beliefs are what make me human; I am free to hold any opinion, but A.A.'s purpose — so clearly stated fifty years ago — is for me to keep sober. That purpose has promoted round-the-clock meeting schedules, and the thousands of intergroup and central service offices, with their thousands of volunteers. Like the sun focused through a magnifying glass, A.A.'s single vision has lit a fire of faith in sobriety in millions of hearts, including mine."
+      }
+    },
+    {
+      date: "9/29",
+      reflection: {
+        day: "OCTOBER 29",
+        title: "OUR SURVIVAL",
+        content1: "Since recovery from alcoholism is life itself to us, it is imperative that we preserve in full strength our means of survival.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 177",
+        content2: "The <i>honesty</i> expressed by the members of A.A. in meetings has the power to open my mind. Nothing can block the flow of energy that <i>honesty</i> carries with it. The only obstacle to this flow of energy is inebriation, but even then, no one will find a closed door if he or she has left and chooses to return. Once he or she has received the gift of sobriety, each A.A. member is challenged on a daily basis to accept a program of <i>honesty</i>.<br><br>My Higher Power created me for a purpose in life. I ask him to accept my honest efforts to continue on my journey in the spiritual way of life. I call on Him for strength to know and seek His will."
+      }
+    },
+    {
+      date: "9/30",
+      reflection: {
+        day: "OCTOBER 30",
+        title: "LIVE AND LET LIVE",
+        content1: "Never since it began has Alcoholics Anonymous been divided by a major controversial issue. Nor has our Fellowship ever publicly taken sides on any question in an embattled world. This, however, has been no earned virtue. It could almost be said that we were born with it. . . . \"So long as we don't argue these matters privately, it's a cinch we never shall publicly.\"",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 176",
+        content2: "Do I remember that I have a right to my opinion but that others don't have to share it? That's the spirit of \"Live and Let Live.\" The Serenity Prayer reminds me, with God's help, to \"Accept the things I cannot change.\" Am I still trying to change others? When it comes to \"Courage to change the things I can,\" do I remember that my opinions are mine, and yours are yours? Am I still afraid to be me? When it comes to \"Wisdom to know the difference,\" do I remember that my opinions come from <i>my</i> experience? If I have a know-it-all attitude, aren't I being deliberately controversial?"
+      }
+    },
+    {
+      date: "9/31",
+      reflection: {
+        day: "OCTOBER 31",
+        title: "AVOIDING CONTROVERSY",
+        content1: "ll history affords us the spectacle of striving nations and groups finally torn asunder because they were designed for, or tempted into, controversy. Others fell apart because of sheer self-righteousness while trying to enforce upon the rest of mankind some millennium of their own specification.",
+        footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 176",
+        content2: "As an A.A. member and sponsor, I know I can cause real damage if I yield to temptation and give opinions and advice on another's medical, marital, or religious problems. I am not a doctor, counselor, or lawyer. I cannot tell anyone how he or she should live; however, I can share how I came through similar situations without drinking, and how A.A.'s Steps and Traditions help me in dealing with my life."
+      }
+    },
+    {
+      date: "Novr1",
       reflection: {
         day: "r2",
         title: "dd",
