@@ -4,11 +4,25 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { SnackBarComponent } from '../snackbar/snackbar.component';
 import { Router } from '@angular/router';
 import { AppService } from 'src/app/services/app-service.service';
+import { animate, style, transition, trigger } from '@angular/animations';
 
 @Component({
   selector: 'app-landing-page',
   templateUrl: './landing-page.component.html',
-  styleUrls: ['./landing-page.component.scss']
+  styleUrls: ['./landing-page.component.scss'],
+  animations: [
+    trigger('fadeIn', [
+      transition(':enter', [
+        style({opacity: 0}),
+        animate('1s ease-out',
+        style({opacity: 1}))
+      ]),
+      transition(':leave', [
+        animate('1s ease-in',
+        style({opacity: 0}))
+      ])
+    ])
+  ]
 })
 export class LandingPageComponent implements OnInit, AfterViewChecked {
 

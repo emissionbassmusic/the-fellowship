@@ -1,3 +1,4 @@
+import { trigger, transition, style, animate } from '@angular/animations';
 import { Component, OnInit } from '@angular/core';
 import { AppService } from 'src/app/services/app-service.service';
 import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections.constants';
@@ -5,7 +6,20 @@ import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections
 @Component({
   selector: 'app-reflection-page',
   templateUrl: './reflection-page.component.html',
-  styleUrls: ['./reflection-page.component.scss']
+  styleUrls: ['./reflection-page.component.scss'],
+  animations: [
+    trigger('fadeIn', [
+      transition(':enter', [
+        style({opacity: 0}),
+        animate('1s ease-out',
+        style({opacity: 1}))
+      ]),
+      transition(':leave', [
+        animate('1s ease-in',
+        style({opacity: 0}))
+      ])
+    ])
+  ]
 })
 export class ReflectionPageComponent implements OnInit {
 
@@ -53,6 +67,12 @@ export class ReflectionPageComponent implements OnInit {
       if (this.reflectionFailure) {
         this.goHome();
       }
+      setTimeout(() => {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      }, 200)
     });
   }
 
@@ -71,10 +91,10 @@ export class ReflectionPageComponent implements OnInit {
    * Go to main landing page
    */
   goHome() {
-    this.appService.appPage = 'home';
     if (this.reflectionFailure) {
       this.appService.reflectionFailure = true;
     }
+    this.appService.appPage = 'home';
   }
 
 }
