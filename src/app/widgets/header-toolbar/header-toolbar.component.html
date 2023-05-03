@@ -28,10 +28,10 @@
         <mat-icon>handshake</mat-icon>
         <span>Helpful Prayers</span>
       </button>
-      <button mat-menu-item [matMenuTriggerFor]="stepprayers">
+      <!-- <button mat-menu-item [matMenuTriggerFor]="stepprayers">
         <mat-icon>handshake</mat-icon>
         <span>Step Prayers</span>
-      </button>
+      </button> -->
     </mat-menu>
     <mat-menu #helpprayers="matMenu">
       <button mat-menu-item (click)="openPrayers(13)">Serenity Prayer</button>
@@ -43,7 +43,7 @@
         Great Spirit Prayer
       </button>
     </mat-menu>
-    <mat-menu #stepprayers="matMenu">
+    <!-- <mat-menu #stepprayers="matMenu">
       <button mat-menu-item (click)="openPrayers(1)">1st Step</button>
       <button mat-menu-item (click)="openPrayers(2)">2nd Step</button>
       <button mat-menu-item (click)="openPrayers(3)">3rd Step</button>
@@ -56,7 +56,7 @@
       <button mat-menu-item (click)="openPrayers(10)">10th Step</button>
       <button mat-menu-item (click)="openPrayers(11)">11th Step</button>
       <button mat-menu-item (click)="openPrayers(12)">12th Step</button>
-    </mat-menu>
+    </mat-menu> -->
 
     <span class="header-txt" (click)="goHome()">The Fellowship</span>
     <span class="header-spacer"></span>
