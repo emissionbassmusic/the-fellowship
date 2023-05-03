@@ -1,0 +1,46 @@
+.loader-container {
+  position: fixed;
+  background: rgba(black, 0.3);
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  padding-top: 15rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block;
+
+  .loader-content {
+    margin: 1rem 3rem 1rem 3rem;
+    padding: 2rem;
+    background-color: #fbfbfb;
+    border-radius: 35px;
+
+    p {
+      text-align: center;
+      padding-bottom: 1rem;
+      animation: shake 5s cubic-bezier(.36,.07,.19,.97) both;
+      transform: translate3d(0, 0, 0);
+      backface-visibility: hidden;
+    }
+
+    @keyframes shake {
+      10%, 90% {
+          transform: translate3d(-1px, 0, 0);
+      }
+
+      20%, 80% {
+          transform: translate3d(2px, 0, 0);
+      }
+
+      30%, 50%, 70% {
+          transform: translate3d(-4px, 0, 0);
+      }
+
+      40%, 60% {
+          transform: translate3d(4px, 0, 0);
+      }
+    }
+  }
+}

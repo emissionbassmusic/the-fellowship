@@ -20,10 +20,13 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
 import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.component';
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { PrayersComponent } from './widgets/dialogs/prayers/prayers.component';
 import { LandingPageComponent } from './widgets/landing-page/landing-page.component';
 import { LiteraturePageComponent } from './widgets/literature-page/literature-page.component';
 import { ReflectionPageComponent } from './widgets/reflection-page/reflection-page.component';
+import { LoaderComponent } from './widgets/loader/loader.component';
+import { SnackBarComponent } from './widgets/snackbar/snackbar.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +36,9 @@ import { ReflectionPageComponent } from './widgets/reflection-page/reflection-pa
     PrayersComponent,
     LandingPageComponent,
     LiteraturePageComponent,
-    ReflectionPageComponent
+    ReflectionPageComponent,
+    LoaderComponent,
+    SnackBarComponent
   ],
   imports: [
     BrowserModule,
@@ -53,7 +58,8 @@ import { ReflectionPageComponent } from './widgets/reflection-page/reflection-pa
     MatCheckboxModule,
     MatCardModule,
     MatDividerModule,
-    MatBottomSheetModule
+    MatBottomSheetModule,
+    MatProgressBarModule
   ],
   providers: [MatDatepickerModule, MatNativeDateModule],
   bootstrap: [AppComponent]

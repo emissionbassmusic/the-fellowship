@@ -1,28 +1,57 @@
-import { Component, OnInit, TemplateRef, ViewChild } from '@angular/core';
+import { AfterViewChecked, Component, OnInit, TemplateRef, ViewChild } from '@angular/core';
 import { MatBottomSheet, MatBottomSheetConfig } from '@angular/material/bottom-sheet';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { SnackBarComponent } from '../snackbar/snackbar.component';
 import { Router } from '@angular/router';
 import { AppService } from 'src/app/services/app-service.service';
+import { animate, style, transition, trigger } from '@angular/animations';
 
 @Component({
   selector: 'app-landing-page',
   templateUrl: './landing-page.component.html',
-  styleUrls: ['./landing-page.component.scss']
+  styleUrls: ['./landing-page.component.scss'],
+  animations: [
+    trigger('fadeIn', [
+      transition(':enter', [
+        style({opacity: 0}),
+        animate('1s ease-out',
+        style({opacity: 1}))
+      ]),
+      transition(':leave', [
+        animate('1s ease-in',
+        style({opacity: 0}))
+      ])
+    ])
+  ]
 })
-export class LandingPageComponent implements OnInit {
+export class LandingPageComponent implements OnInit, AfterViewChecked {
 
   @ViewChild(TemplateRef)
   template!: TemplateRef<any>;
 
+  snackbarContent = 'Sorry, we\'re having trouble.';
+  snackbarDurationInSec = 3;
   bottomSheetContent: string | undefined;
   showMeetingBtn: boolean | undefined;
   soberDateSelection: any | undefined;
   soberTime: any | undefined;
 
   constructor(readonly bottomSheet: MatBottomSheet, private router: Router,
-              private appService: AppService) {}
+              private appService: AppService, private snackBar: MatSnackBar) {}
 
   ngOnInit(): void {
     window.scroll(0,0);
+  }
+
+  ngAfterViewChecked(): void {
+    if (this.appService.reflectionFailure) {
+      this.snackbarContent = 'Cannot retrieve daily reflection right now.';
+      this.snackBar.openFromComponent(SnackBarComponent, {
+        duration: this.snackbarDurationInSec * 1000,
+        data: this.snackbarContent
+      });
+      this.appService.reflectionFailure = false;
+    }
   }
 
   /**
@@ -36,8 +65,8 @@ export class LandingPageComponent implements OnInit {
         this.showMeetingBtn = true;
         break;
       }
-      case 'reflection': {
-        this.bottomSheetContent = '';
+      case 'reflectionFail': {
+        this.bottomSheetContent = '<h2>Sorry, cannot retreive the daily reflection. Please try again later.</h2>';
         break;
       }
       case 'soberTime': {
@@ -103,37 +132,23 @@ export class LandingPageComponent implements OnInit {
    * Router not working right with github refresh
    */
   goToDailyReflection() {
-    alert('Daily reflections is still a work in progress. Thanks!');
-    // this.appService.appPage = 'reflection';
+      this.appService.appPage = 'reflection';
     // this.router.navigate(['/daily-reflection']);
   }
 
   /**
    * Enter dates to determine sobriety time
    */
-  sobrietyCalculator() {
-    // const today = new Date();
-    // const year = today.getFullYear() - this.soberDateSelection.getFullYear();
-    // const month = today.getMonth() - this.soberDateSelection.getMonth();
-    // const day = today.getDate() - this.soberDateSelection.getDate();
+  calculateSobriety() {
     let soberYear;
     let soberMonth;
     let soberDay;
-    // console.log(today.getFullYear());
-    // console.log(today.getMonth());
-    // console.log(today.getDate());
-    // console.log( this.soberDateSelection.getFullYear());
-    // console.log( this.soberDateSelection.getMonth());
-    // console.log( this.soberDateSelection.getDate());
     const today = new Date();
-    const diff = Math.floor(today.getTime() - this.soberDateSelection.getTime());
-    const day = 1000 * 60 * 60 * 24;
-    const days = Math.floor(diff/day);
-    const months = Math.floor(days/30);
-    const years = Math.floor(months/12);
-    // message += days + " days "
-    // message += months + " months "
-    // message += years + " years ago \n"
+    const diffTime = Math.abs(today.getTime() - this.soberDateSelection.getTime())
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    const years = Math.floor(diffDays / 365);
+    const months = Math.floor((diffDays % 365) / 30);
+    let days: any = (diffDays % 365) - 1;
     years > 0 ? soberYear = years + ' year ' : soberYear = '';
     years > 1 ? soberYear = years + ' years ' : soberYear = soberYear;
     months > 0 ? soberMonth = months + ' month ' : soberMonth = '';
@@ -141,9 +156,9 @@ export class LandingPageComponent implements OnInit {
     days > 0 ? soberDay = days + ' day ' : soberDay = '';
     days > 1 ? soberDay = days + ' days ' : soberDay = soberDay;
     months > 0 ? soberDay = '( ' + soberDay + ')' : soberDay = soberDay;
-
     this.soberTime = (soberYear + soberMonth + soberDay);
-    days > 0 ? this.openBottomSheet('soberTime') : this.openBottomSheet('soberTimeTryAgain');
+    const tryAgain = (days === 0 && months === 0 && years === 0);
+    tryAgain ? this.openBottomSheet('soberTimeTryAgain') : this.openBottomSheet('soberTime');
 
     let el: any = '';
     el =  document.getElementById('bottomSheetContent');

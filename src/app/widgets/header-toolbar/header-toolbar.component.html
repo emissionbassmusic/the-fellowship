@@ -20,6 +20,10 @@
         <mat-icon>book</mat-icon>
         <span>Get copy of 12 & 12</span>
       </button>
+      <button mat-menu-item (click)="goToReflection()">
+        <mat-icon>emoji_objects</mat-icon>
+        <span>Daily Reflection</span>
+      </button>
       <button mat-menu-item [matMenuTriggerFor]="helpprayers">
         <mat-icon>handshake</mat-icon>
         <span>Helpful Prayers</span>
@@ -54,7 +58,7 @@
       <button mat-menu-item (click)="openPrayers(12)">12th Step</button>
     </mat-menu>
 
-    <span>The Fellowship</span>
+    <span class="header-txt" (click)="goHome()">The Fellowship</span>
     <span class="header-spacer"></span>
     <button mat-icon-button aria-label="Share" (click)="shareWebsite('https://emissionbassmusic.github.io/the-fellowship/')">
       <mat-icon>share</mat-icon>
