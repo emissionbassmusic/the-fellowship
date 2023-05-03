@@ -45,7 +45,7 @@ export class LandingPageComponent implements OnInit, AfterViewChecked {
 
   ngAfterViewChecked(): void {
     if (this.appService.reflectionFailure) {
-      this.snackbarContent = 'Sorry, cannot retrieve the daily reflection. Please try again later.';
+      this.snackbarContent = 'Cannot retrieve daily reflection right now.';
       this.snackBar.openFromComponent(SnackBarComponent, {
         duration: this.snackbarDurationInSec * 1000,
         data: this.snackbarContent

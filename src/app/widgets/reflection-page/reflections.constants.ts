@@ -1168,7 +1168,7 @@ export class ReflectionConstants {
         title: "HAPPINESS IS NOT THE POINT",
         content1: "/ don't think happiness or unhappiness is the point. How do we meet the problems we face? How do we best learn from them and transmit what we have learned to others, if they would receive the knowledge?",
         footer: "AS BILL SEES IT, p. 306",
-        content2: "In my search \"to be happy,\" I changed jobs, married and divorced, took geographical cures, and ran myself into debt—financially, emotionally and spiritually. In A.A., I'm learning to grow up. Instead of demanding that people, places and things make me happy, I can ask God for self- acceptance. When a problem overwhelms me, A.A.'s Twelve Steps will help me grow through the pain. The knowledge I gain can be a gift to others who suffer with the same problem. As Bill said, \"When pain comes, we are expected to learn from it willingly, and help others to learn. When happiness comes, we accept it as a gift, and thank God for it.\" (<i>As Bill Sees It,</i> p. 306)"
+        content2: "In my search \"to be happy,\" I changed jobs, married and divorced, took geographical cures, and ran myself into debt—financially, emotionally and spiritually. In A.A., I'm learning to grow up. Instead of demanding that people, places and things make me happy, I can ask God for self-acceptance. When a problem overwhelms me, A.A.'s Twelve Steps will help me grow through the pain. The knowledge I gain can be a gift to others who suffer with the same problem. As Bill said, \"When pain comes, we are expected to learn from it willingly, and help others to learn. When happiness comes, we accept it as a gift, and thank God for it.\" (<i>As Bill Sees It,</i> p. 306)"
       }
     },
     {
@@ -1236,7 +1236,7 @@ export class ReflectionConstants {
       reflection: {
         day: "MAY 3",
         title: "CLEANING HOUSE",
-        content1: "Somehow, being alone with God doesn't seem as em- barrassing as facing up to another person. Until we actually sit down and talk aloud about what we have so long hidden, our willingness to clean house is still largely theoretical.",
+        content1: "Somehow, being alone with God doesn't seem as embarrassing as facing up to another person. Until we actually sit down and talk aloud about what we have so long hidden, our willingness to clean house is still largely theoretical.",
         footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 60",
         content2: "It wasn't unusual for me to talk to God, and myself, about my character defects. But to sit down, face to face, and openly discuss these intimacies with another person was much more difficult. I recognized in the experience, however, a similar relief to the one I had experienced when I first admitted I was an alcoholic. I began to appreciate the spiritual significance of the program and that this Step was just an introduction to what was yet to come in the remaining seven Steps."
       }
@@ -1548,7 +1548,7 @@ export class ReflectionConstants {
         title: "ON A WING AND A PRAYER",
         content1: ". . . we then look at Step Six. We have emphasized willingness as being indispensable.",
         footer: "ALCOHOLICS ANONYMOUS, p. 76",
-        content2: "Steps Four and Five were difficult, but worthwhile. Now I was stuck on Step Six and, in despair, I picked up the Big Book and read this passage. I was outside, praying for willingness, when I raised my eyes and saw a huge bird rising in the sky. I watched it suddenly give itself up to the powerful air currents of the mountains. Swept along, swooping and soaring, the bird did things seemingly im- possible for mortal birds to do. It was an inspiring example of a fellow creature \"letting go\" to a power greater than itself. I realized that if the bird \"took back his will\" and tried to fly with less trust, on its power alone, it would spoil its apparent free flight. That insight granted me the willingness to pray the Seventh Step prayer.<br><br>It's not easy to know God's will in each circumstance. I must search out and be ready for the currents, and that's where prayer and meditation help! Because I am, of myself, nothing, I ask God to grant me the knowledge of His will and the power and courage to carry it out — today."
+        content2: "Steps Four and Five were difficult, but worthwhile. Now I was stuck on Step Six and, in despair, I picked up the Big Book and read this passage. I was outside, praying for willingness, when I raised my eyes and saw a huge bird rising in the sky. I watched it suddenly give itself up to the powerful air currents of the mountains. Swept along, swooping and soaring, the bird did things seemingly impossible for mortal birds to do. It was an inspiring example of a fellow creature \"letting go\" to a power greater than itself. I realized that if the bird \"took back his will\" and tried to fly with less trust, on its power alone, it would spoil its apparent free flight. That insight granted me the willingness to pray the Seventh Step prayer.<br><br>It's not easy to know God's will in each circumstance. I must search out and be ready for the currents, and that's where prayer and meditation help! Because I am, of myself, nothing, I ask God to grant me the knowledge of His will and the power and courage to carry it out — today."
       }
     },
     {
@@ -1608,7 +1608,7 @@ export class ReflectionConstants {
         title: "LIVING IN THE NOW",
         content1: "First, we try living in the now just in order to stay sober — and it works Once the idea has become a part of our thinking we find that living life in 24-hour segments is an effective and satisfying way to handle many other matters as well.",
         footer: "LIVING SOBER, p. 7",
-        content2: "\"One Day At A Time.\" To a newcomer this and other one- liners of A.A. may seem ridiculous. The passwords of the A.A. Fellowship can become lifelines in moments of stress. Each day can be like a rose unfurling according to the plan of a Power greater than myself. My program should be planted in the right location, just as it will need to be groomed, nourished, and protected from disease. My planting will require patience, and my realizing that some flowers will be more perfect than others. Each stage of the petals' unfolding can bring wonder and delight if I do not interfere or let my expectations override my acceptance — and this brings serenity."
+        content2: "\"One Day At A Time.\" To a newcomer this and other one-liners of A.A. may seem ridiculous. The passwords of the A.A. Fellowship can become lifelines in moments of stress. Each day can be like a rose unfurling according to the plan of a Power greater than myself. My program should be planted in the right location, just as it will need to be groomed, nourished, and protected from disease. My planting will require patience, and my realizing that some flowers will be more perfect than others. Each stage of the petals' unfolding can bring wonder and delight if I do not interfere or let my expectations override my acceptance — and this brings serenity."
       }
     },
     {
@@ -1988,7 +1988,7 @@ export class ReflectionConstants {
         title: "SURRENDER AND SELF-EXAMINATION",
         content1: "My stability came out of trying to give, not out of demanding that I receive.<br>Thus I think it can work out with emotional sobriety. If we examine every disturbance we have, great or small, we will find at the root of it some unhealthy dependency and its consequent unhealthy demand. Let us, with God's help, continually surrender these hobbling demands. Then we can be set free to live and love; we may then be able to Twelfth Step ourselves and others into emotional sobriety.",
         footer: "THE LANGUAGE OF THE HEART, p. 238",
-        content2: "Years of dependency on alcohol as a chemical mood- changer deprived me of the capability to interact emotionally with my fellows. I thought I had to be self-sufficient, self-reliant, and self-motivated in a world of unreliable people. Finally I lost my self-respect and was left with dependency, lacking any ability to trust myself or to believe in anything. Surrender and self-examination while sharing with newcomers helped me to ask humbly for help."
+        content2: "Years of dependency on alcohol as a chemical mood-changer deprived me of the capability to interact emotionally with my fellows. I thought I had to be self-sufficient, self-reliant, and self-motivated in a world of unreliable people. Finally I lost my self-respect and was left with dependency, lacking any ability to trust myself or to believe in anything. Surrender and self-examination while sharing with newcomers helped me to ask humbly for help."
       }
     },
     {
@@ -2068,7 +2068,7 @@ export class ReflectionConstants {
         title: "THOSE WHO STILL SUFFER",
         content1: "For us, if we neglect those who are still sick, there is unremitting danger to our own lives and sanity.",
         footer: "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
-        content2: "I know the torment of drinking compulsively to quiet my nerves and my fears. I also know the pain of white- knuckled sobriety. Today, I do not forget the unknown person who suffers quietly, withdrawn and hiding in the desperate relief of drinking. I ask my Higher Power to give me His guidance and the courage to be willing to be His instrument to carry within me compassion and unselfish actions. Let the group continue to give me the strength to do with others what I cannot do alone."
+        content2: "I know the torment of drinking compulsively to quiet my nerves and my fears. I also know the pain of white-knuckled sobriety. Today, I do not forget the unknown person who suffers quietly, withdrawn and hiding in the desperate relief of drinking. I ask my Higher Power to give me His guidance and the courage to be willing to be His instrument to carry within me compassion and unselfish actions. Let the group continue to give me the strength to do with others what I cannot do alone."
       }
     },
     {
@@ -2186,7 +2186,7 @@ export class ReflectionConstants {
       reflection: {
         day: "AUGUST 6",
         title: "DRIVEN",
-        content1: "Driven by a hundred forms of fear, self-delusion, self- seeking, and self-pity, we step on the toes of our fellows and they retaliate.",
+        content1: "Driven by a hundred forms of fear, self-delusion, self-seeking, and self-pity, we step on the toes of our fellows and they retaliate.",
         footer: "ALCOHOLICS ANONYMOUS, p. 62",
         content2: "My selfishness was the driving force behind my drinking. I drank to celebrate success and I drank to drown my sorrows. Humility is the answer. I learn to turn my will and my life over to the care of God. My sponsor tells me that service keeps me sober. Today I ask myself: Have I sought knowledge of God's will for me? Have I done service for my A.A. group?"
       }
