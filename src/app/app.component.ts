@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AppService } from './services/app-service.service';
 
@@ -7,7 +7,7 @@ import { AppService } from './services/app-service.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, OnDestroy {
   title = 'theFellowship';
   appPage = 'home';
 
@@ -19,5 +19,9 @@ export class AppComponent implements OnInit {
     setInterval(() => {
       this.appPage = this.appService.appPage;
     }, 1000)
+  }
+
+  ngOnDestroy() {
+    this.appService.removeReflectionData();
   }
 }

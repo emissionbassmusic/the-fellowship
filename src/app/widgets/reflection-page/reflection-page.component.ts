@@ -33,14 +33,16 @@ export class ReflectionPageComponent implements OnInit {
   footer = '';
   content2 = '';
   reflectionFailure = false;
+  dataInStorage = false;
 
   constructor(private appService: AppService) {}
 
   ngOnInit(): void {
     window.scroll(0,0);
-    const dataInStorage = this.appService.getReflectionData() !== null && this.appService.getReflectionData() !== undefined;
-    if (dataInStorage) {
+    this.dataInStorage = this.appService.getReflectionData() !== null && this.appService.getReflectionData() !== undefined;
+    if (this.dataInStorage) {
       this.reflectionData = this.appService.getReflectionData();
+      this.getDailyReflection(this.today);
     } else {
       this.appService.getDailyReflectionsUrl().subscribe((response) => {
         this.reflectionData = response;
@@ -61,7 +63,9 @@ export class ReflectionPageComponent implements OnInit {
     currentDate = currentDate.getMonth().toString() + '/' + currentDate.getDate().toString();
     const promise = new Promise((resolve, reject) => {
       this.isLoading = true;
-      this.appService.setReflectionData(this.reflectionData);
+      if (!this.dataInStorage) {
+        this.appService.setReflectionData(this.reflectionData);
+      }
       this.clearReflection();
       this.reflectionData.forEach((reflection: any) => {
         if (currentDate === reflection.date) {
