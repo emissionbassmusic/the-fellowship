@@ -1,7 +1,6 @@
 import { trigger, transition, style, animate } from '@angular/animations';
 import { Component, OnInit } from '@angular/core';
 import { AppService } from 'src/app/services/app-service.service';
-import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections.constants';
 
 @Component({
   selector: 'app-reflection-page',
@@ -26,6 +25,7 @@ export class ReflectionPageComponent implements OnInit {
   isLoading = true;
   today = new Date();
   dateSelection = new Date();
+  reflectionData: any;
   date = '';
   title = '';
   content1 = '';
@@ -37,7 +37,10 @@ export class ReflectionPageComponent implements OnInit {
 
   ngOnInit(): void {
     window.scroll(0,0);
-    this.getDailyReflection(this.today);
+    this.appService.getDailyReflectionsUrl().subscribe((response) => {
+      this.reflectionData = response;
+      this.getDailyReflection(this.today);
+    });
   }
 
   /**
@@ -46,11 +49,10 @@ export class ReflectionPageComponent implements OnInit {
    */
   getDailyReflection(currentDate: any) {
     currentDate = currentDate.getMonth().toString() + '/' + currentDate.getDate().toString();
-    const reflectionContent = ReflectionConstants.dailyReflections;
     const promise = new Promise((resolve, reject) => {
       this.isLoading = true;
       this.clearReflection();
-      reflectionContent.forEach((reflection) => {
+      this.reflectionData.forEach((reflection: any) => {
         if (currentDate === reflection.date) {
           this.date = reflection.reflection.day;
           this.title = reflection.reflection.title;
