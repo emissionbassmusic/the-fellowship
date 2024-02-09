@@ -38,14 +38,19 @@ export class ReflectionPageComponent implements OnInit {
 
   ngOnInit(): void {
     window.scroll(0,0);
-    this.appService.getDailyReflectionsUrl().subscribe((response) => {
-      this.reflectionData = response;
-      this.getDailyReflection(this.today);
-    }, error => {
-      console.log('Error getting data from API! Getting from secret location :) error = ', error);
-      this.reflectionData = ReflectionConstants.dailyReflections;
-      this.getDailyReflection(this.today);
-    });
+    const dataInStorage = this.appService.getReflectionData() !== null && this.appService.getReflectionData() !== undefined;
+    if (dataInStorage) {
+      this.reflectionData = this.appService.getReflectionData();
+    } else {
+      this.appService.getDailyReflectionsUrl().subscribe((response) => {
+        this.reflectionData = response;
+        this.getDailyReflection(this.today);
+      }, error => {
+        console.log('Error getting data from API! Getting from secret location :) error = ', error);
+        this.reflectionData = ReflectionConstants.dailyReflections;
+        this.getDailyReflection(this.today);
+      });
+    }
   }
 
   /**
@@ -56,6 +61,7 @@ export class ReflectionPageComponent implements OnInit {
     currentDate = currentDate.getMonth().toString() + '/' + currentDate.getDate().toString();
     const promise = new Promise((resolve, reject) => {
       this.isLoading = true;
+      this.appService.setReflectionData(this.reflectionData);
       this.clearReflection();
       this.reflectionData.forEach((reflection: any) => {
         if (currentDate === reflection.date) {
