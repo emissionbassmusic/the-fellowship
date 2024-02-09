@@ -1,6 +1,7 @@
 import { trigger, transition, style, animate } from '@angular/animations';
 import { Component, OnInit } from '@angular/core';
 import { AppService } from 'src/app/services/app-service.service';
+import { ReflectionConstants } from 'src/app/widgets/reflection-page/reflections.constants';
 
 @Component({
   selector: 'app-reflection-page',
@@ -39,6 +40,10 @@ export class ReflectionPageComponent implements OnInit {
     window.scroll(0,0);
     this.appService.getDailyReflectionsUrl().subscribe((response) => {
       this.reflectionData = response;
+      this.getDailyReflection(this.today);
+    }, error => {
+      console.log('Error getting data from API! Getting from secret location :) error = ', error);
+      this.reflectionData = ReflectionConstants.dailyReflections;
       this.getDailyReflection(this.today);
     });
   }
