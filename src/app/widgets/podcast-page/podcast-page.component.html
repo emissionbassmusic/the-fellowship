@@ -1,0 +1,23 @@
+<div @fadeIn class="top-margin">
+  <div class="title-group">
+    <h1>Check out the various podcasts below.</h1>
+    <h2>Click on a tile to explore!</h2>
+  </div>
+  <mat-grid-list cols="4" rowHeight="200px" gutterSize="5px">
+    <mat-grid-tile class="custom-grid"
+      *ngFor="let tile of tiles"
+      [colspan]="tile.cols"
+      [rowspan]="tile.rows"
+      [style.background]="tile.color"
+      (click)="navigateToPodcast(tile.url)"
+    >
+    <img class="tile-img" [src]="tile.image" [alt]="tile.id" layout-fill>
+      <mat-grid-tile-header class="shake-div">
+        <h4>{{tile.header}}</h4>
+      </mat-grid-tile-header>
+    </mat-grid-tile>
+  </mat-grid-list>
+  <div class="btn-group">
+    <button mat-raised-button color="primary" (click)="goHome()">Go Back</button>
+  </div>
+</div>

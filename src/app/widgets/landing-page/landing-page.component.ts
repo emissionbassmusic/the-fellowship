@@ -137,6 +137,14 @@ export class LandingPageComponent implements OnInit, AfterViewChecked {
   }
 
   /**
+   * Routes to podcasts page
+   * Router not working right with github refresh
+   */
+  goToPodcastsPg() {
+    this.appService.appPage = 'podcast';
+  }
+
+  /**
    * Enter dates to determine sobriety time
    */
   calculateSobriety() {

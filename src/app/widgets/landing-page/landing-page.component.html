@@ -16,7 +16,7 @@
         <mat-divider></mat-divider>
       </mat-card-content>
       <mat-card-actions class="card-actions">
-        <button mat-raised-button color="primary" (click)="openBottomSheet('whatIsAA')">LEARN MORE</button>
+        <button mat-raised-button color="primary" (click)="openBottomSheet('whatIsAA')">Learn More</button>
       </mat-card-actions>
     </mat-card>
     <mat-card class="card-item">
@@ -35,7 +35,7 @@
           <button mat-raised-button color="primary"
             (click)="openLink('https://www.aa.org/the-big-book')">AA.org</button>
         </div>
-        <button mat-raised-button color="primary" (click)="openLiteraturePdf('bigBook')">VIEW NOW</button>
+        <button mat-raised-button color="primary" (click)="openLiteraturePdf('bigBook')">View Now</button>
       </mat-card-actions>
     </mat-card>
   </div>
@@ -59,7 +59,7 @@
           <button mat-raised-button color="primary"
             (click)="openLink('https://www.aa.org/twelve-steps-twelve-traditions')">AA.org</button>
         </div>
-        <button mat-raised-button color="primary" (click)="openLiteraturePdf('12&12')">OPEN NOW</button>
+        <button mat-raised-button color="primary" (click)="openLiteraturePdf('12&12')">Open Now</button>
       </mat-card-actions>
     </mat-card>
     <mat-card class="card-item">
@@ -74,7 +74,7 @@
         <mat-divider></mat-divider>
       </mat-card-content>
       <mat-card-actions class="card-actions">
-        <button mat-raised-button color="primary" (click)="goToDailyReflection()">READ TODAYS REFLECTION</button>
+        <button mat-raised-button color="primary" (click)="goToDailyReflection()">Read Today's Daily Reflection</button>
       </mat-card-actions>
     </mat-card>
   </div>
@@ -96,10 +96,10 @@
       <mat-card-actions class="card-actions">
         <div class="card-btn-space">
           <button mat-raised-button color="primary" class="card-btn-pad"
-            (click)="openLink('https://www.aahomegroup.org/')">24/7 MEETING</button>
+            (click)="openLink('https://www.aahomegroup.org/')">24/7 Meeting</button>
         </div>
         <button mat-raised-button color="primary" class="card-btn-pad"
-          (click)="openLink('https://aa-intergroup.org/meetings/')">FIND ONLINE MEETING</button>
+          (click)="openLink('https://aa-intergroup.org/meetings/')">Find Online Meetings</button>
       </mat-card-actions>
     </mat-card>
     <!-- <mat-card class="card-item">
@@ -119,6 +119,26 @@
       <button mat-raised-button color="primary" (click)="picker.open()">ENTER DATE</button>
     </mat-card-actions>
   </mat-card> -->
+  <mat-card class="card-item">
+    <mat-card-header>
+      <div mat-card-avatar>
+        <mat-icon class="card-icon">podcasts</mat-icon>
+      </div>
+      <mat-card-title>Podcasts!</mat-card-title>
+      <mat-card-subtitle class="card-subtitle">Listen in.</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <p>The selections are vast.</p>
+      <p>Available online and in various podcast apps.</p>
+      <mat-divider></mat-divider>
+    </mat-card-content>
+    <mat-card-actions class="card-actions">
+      <div class="card-btn-space">
+        <button mat-raised-button color="primary"
+          (click)="goToPodcastsPg()">Listen to Podcasts</button>
+      </div>
+    </mat-card-actions>
+  </mat-card>
   </div>
   <!-- Date Picker -->
   <!-- <div hidden="true">

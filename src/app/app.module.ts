@@ -18,6 +18,7 @@ import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatCardModule } from '@angular/material/card';
 import { MatDividerModule } from '@angular/material/divider';
+import { MatGridListModule } from '@angular/material/grid-list';
 import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
 import { HeaderToolbarComponent } from './widgets/header-toolbar/header-toolbar.component';
 import { FooterToolbarComponent } from './widgets/footer-toolbar/footer-toolbar.component';
@@ -28,6 +29,7 @@ import { LiteraturePageComponent } from './widgets/literature-page/literature-pa
 import { ReflectionPageComponent } from './widgets/reflection-page/reflection-page.component';
 import { LoaderComponent } from './widgets/loader/loader.component';
 import { SnackBarComponent } from './widgets/snackbar/snackbar.component';
+import { PodcastPageComponent } from './widgets/podcast-page/podcast-page.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +41,8 @@ import { SnackBarComponent } from './widgets/snackbar/snackbar.component';
     LiteraturePageComponent,
     ReflectionPageComponent,
     LoaderComponent,
-    SnackBarComponent
+    SnackBarComponent,
+    PodcastPageComponent
   ],
   imports: [
     HttpClientModule,
@@ -60,6 +63,7 @@ import { SnackBarComponent } from './widgets/snackbar/snackbar.component';
     MatCheckboxModule,
     MatCardModule,
     MatDividerModule,
+    MatGridListModule,
     MatBottomSheetModule,
     MatProgressBarModule
   ],
